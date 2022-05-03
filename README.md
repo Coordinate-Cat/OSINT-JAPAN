@@ -16,18 +16,16 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 ## 目次(Toc)
 
-- [JAPAN-OSINT](#japan-osint)
-  - [目次(Toc)](#目次toc)
-  - [日本政府(Japanese government)](#日本政府japanese-government)
-    - [国会(Diet)](#国会diet)
-    - [内閣(Cabinet)](#内閣cabinet)
-      - [内閣官房(CaS)](#内閣官房cas)
-      - [内閣法制局(CLB)](#内閣法制局clb)
-      - [人事院(NPA)](#人事院npa)
-      - [内閣府(CaO)](#内閣府cao)
-    - [会計検査院(Board of Audit)](#会計検査院board-of-audit)
-    - [裁判所(Courts)](#裁判所courts)
-  - [2.テスト](#2テスト)
+- [日本政府(Japanese government)](#%E6%97%A5%E6%9C%AC%E6%94%BF%E5%BA%9Cjapanese-government)
+  - [国会(Diet)](#%E5%9B%BD%E4%BC%9Adiet)
+  - [内閣(Cabinet)](#%E5%86%85%E9%96%A3cabinet)
+    - [内閣官房(CaS)](#%E5%86%85%E9%96%A3%E5%AE%98%E6%88%BFcas)
+    - [内閣法制局(CLB)](#%E5%86%85%E9%96%A3%E6%B3%95%E5%88%B6%E5%B1%80clb)
+    - [人事院(NPA)](#%E4%BA%BA%E4%BA%8B%E9%99%A2npa)
+    - [内閣府(CaO)](#%E5%86%85%E9%96%A3%E5%BA%9Ccao)
+  - [会計検査院(Board of Audit)](#%E4%BC%9A%E8%A8%88%E6%A4%9C%E6%9F%BB%E9%99%A2board-of-audit)
+  - [裁判所(Courts)](#%E8%A3%81%E5%88%A4%E6%89%80courts)
+- [2.テスト](#2%E3%83%86%E3%82%B9%E3%83%88)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
