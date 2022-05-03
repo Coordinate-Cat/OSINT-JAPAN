@@ -9,3 +9,4 @@ jobs:
         with:
           GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
           TOC_TITLE: '目次'
+          COMMIT_MESSAGE: 'feat: update TOC'
