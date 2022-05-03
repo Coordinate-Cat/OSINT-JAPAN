@@ -1,22 +1,23 @@
-# Japan-OSINT
+# JAPAN-OSINT
 
 ![japan-osint.png](japan-osint.png)
-![GitHub Workflow Status](https://img.shields.io/github/workflow/status/Coordinate-Cat/Japan-OSINT/TOC%20Generator?color=bright&label=TOC%20Generator)
-![GitHub Workflow Status](https://img.shields.io/github/workflow/status/Coordinate-Cat/Japan-OSINT/Markdown%20Workflow?color=bright&label=Markdown%20Link%20Check)
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/Coordinate-Cat/JAPAN-OSINT/TOC%20Generator?color=bright&label=TOC%20Generator)
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/Coordinate-Cat/JAPAN-OSINT/Markdown%20Workflow?color=bright&label=Markdown%20Link%20Check)  
+![GitHub](https://img.shields.io/github/license/Coordinate-Cat/JAPAN-OSINT?color=bright)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Coordinate-Cat.JAPAN-OSINT&right_color=brightgreen)
+![GitHub last commit](https://img.shields.io/github/last-commit/Coordinate-Cat/JAPAN-OSINT)
+![GitHub repo size](https://img.shields.io/github/repo-size/Coordinate-Cat/JAPAN-OSINT?color=brightgreen)
 
-![GitHub](https://img.shields.io/github/license/Coordinate-Cat/Japan-OSINT?color=bright)
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Coordinate-Cat.Japan-OSINT&right_color=brightgreen)
-![GitHub last commit](https://img.shields.io/github/last-commit/Coordinate-Cat/Japan-OSINT)
-![GitHub repo size](https://img.shields.io/github/repo-size/Coordinate-Cat/Japan-OSINT?color=brightgreen)
+[日本語](https://github.com/Coordinate-Cat/JAPAN-OSINT/blob/main/README.md) / 英語
 
-[日本語](https://github.com/Coordinate-Cat/Japan-OSINT/blob/main/README.md) / 英語
+---
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 目次
 
-- [Japan-OSINT](#japan-osint)
-  - [1.日本政府](#1日本政府)
+- [JAPAN-OSINT](#japan-osint)
+  - [1.日本政府(Japanese government)](#1日本政府japanese-government)
     - [1-1.国会(Diet)](#1-1国会diet)
     - [1-2.内閣(Cabinet)](#1-2内閣cabinet)
     - [1-3.会計検査院(Board of Audit)](#1-3会計検査院board-of-audit)
@@ -25,60 +26,15 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-## 1.日本政府
+---
+
+## 1.日本政府(Japanese government)
+
 ### 1-1.国会(Diet)
 - 衆議院(https://www.shugiin.go.jp/)
 - 参議院(https://www.sangiin.go.jp/)
 
 ### 1-2.内閣(Cabinet)
-  <!-- | 組織 1   | 組織 2           | Link                                                   |
-  | :--------- | :----------------- | :----------------------------------------------------- |
-  | 内閣官房   |                    | https://www.cas.go.jp/index.html                       |
-  | 内閣法制局 |                    | https://www.clb.go.jp/                                 |
-  | 人事院     |                    | https://www.jinji.go.jp/                               |
-  | 内閣府     |                    | https://www.cao.go.jp/                                 |
-  |            | 宮内庁             | https://www.kunaicho.go.jp/                            |
-  |            | 公正取引委員会     | https://www.jftc.go.jp/                                |
-  |            | 国家公安委員会     | https://www.npsc.go.jp/                                |
-  |            | 警察庁             | https://www.npa.go.jp/                                 |
-  |            | 個人情報保護委員会 | https://www.ppc.go.jp/                                 |
-  |            | カジノ管理委員会   | https://www.jcrc.go.jp/index.html                      |
-  |            | 金融庁             | https://www.fsa.go.jp/                                 |
-  |            | 消費者庁           | https://www.caa.go.jp/                                 |
-  | デジタル庁 |                    | https://www.digital.go.jp/                             |
-  | 復興庁     |                    | https://www.reconstruction.go.jp/                      |
-  | 総務省     |                    | https://www.soumu.go.jp/                               |
-  |            | 公害等調査委員会   | https://www.soumu.go.jp/kouchoi/                       |
-  |            | 消防庁             | https://www.fdma.go.jp/                                |
-  | 法務省     |                    | https://www.moj.go.jp/                                 |
-  |            | 出入国在留管理庁   | https://www.moj.go.jp/isa/index.html                   |
-  |            | 公安審査委員会     | https://www.moj.go.jp/kouanshin/kouanshinsa_index.html |
-  |            | 公安調査庁         | https://www.moj.go.jp/KOUAN/                           |
-  | 外務省     |                    | https://www.mofa.go.jp/mofaj/index.html                |
-  | 財務省     |                    | https://www.mof.go.jp/                                 |
-  |            | 国税庁             | https://www.nta.go.jp/                                 |
-  | 文部科学省 |                    | https://www.mext.go.jp/                                |
-  |            | スポーツ庁         | https://www.mext.go.jp/sports/                         |
-  |            | 文化庁             | https://www.bunka.go.jp/                               |
-  | 厚生労働省 |                    | https://www.mhlw.go.jp/                                |
-  |            | 中央労働委員会     | https://www.mhlw.go.jp/churoi/                         |
-  | 農林水産省 |                    | https://www.maff.go.jp/                                |
-  |            | 林野庁             | https://www.rinya.maff.go.jp/index.html                |
-  |            | 水産庁             | https://www.jfa.maff.go.jp/index.html                  |
-  | 経済産業   |                    | https://www.meti.go.jp/                                |
-  |            | 資源エネルギー庁   | https://www.enecho.meti.go.jp/                         |
-  |            | 中小企業庁         | https://www.chusho.meti.go.jp/                         |
-  |            | 特許庁             | https://www.jpo.go.jp/index.html                       |
-  | 国土交通省 |                    | https://www.mlit.go.jp/                                |
-  |            | 環境庁             | https://www.mlit.go.jp/kankocho/index.html             |
-  |            | 気象庁             | https://www.jma.go.jp/jma/index.html                   |
-  |            | 運輸安全委員会     | https://www.mlit.go.jp/jtsb/index.html                 |
-  |            | 海上保安庁         | https://www.kaiho.mlit.go.jp/                          |
-  | 環境省     |                    | https://www.env.go.jp/                                 |
-  |            | 原子力規制委員会   | https://www.nsr.go.jp/                                 |
-  | 防衛省     |                    | https://www.mod.go.jp/                                 |
-  |            | 防衛装備庁         | https://www.mod.go.jp/atla/                            | -->
-
 - 内閣官房(https://www.cas.go.jp/index.html)
 - 内閣法制局(https://www.clb.go.jp/)
 - 人事院(https://www.jinji.go.jp/)

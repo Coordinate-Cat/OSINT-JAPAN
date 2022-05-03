@@ -8,5 +8,5 @@ jobs:
       - uses: technote-space/toc-generator@v4
         with:
           GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
-          TOC_TITLE: '目次'
-          COMMIT_MESSAGE: 'feat: update TOC'
+          TOC_TITLE: '## 0.目次(Toc)'
+          COMMIT_MESSAGE: 'feat: update Toc'
