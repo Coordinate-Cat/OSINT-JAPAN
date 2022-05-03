@@ -2,7 +2,10 @@
 
 Ja/En
 
-## Gov
+## ToC
+1. [Government](https://github.com/Coordinate-Cat/Japan-OSINT#gov)
+
+## 1.Government
 |Struct 1|Struct 2|Link|
 |:-|:-|:-|
 |内閣官房||https://www.cas.go.jp/index.html|
