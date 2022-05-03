@@ -26,8 +26,6 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
----
-
 ## 1.日本政府(Japanese government)
 
 ### 1-1.国会(Diet)
