@@ -1,6 +1,6 @@
 # Japan-OSINT
 
-Ja/En
+[Ja](https://github.com/Coordinate-Cat/Japan-OSINT/blob/main/README.md)/En
 
 ## ToC
 1. [Government](https://github.com/Coordinate-Cat/Japan-OSINT#gov)
