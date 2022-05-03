@@ -9,11 +9,11 @@
 [日本語](https://github.com/Coordinate-Cat/Japan-OSINT/blob/main/README.md) / 英語
 
 ## 目次
-1. [日本政府](https://github.com/Coordinate-Cat/Japan-OSINT)  
-  1-1. [国会](https://github.com/Coordinate-Cat/Japan-OSINT#1.国会(Diet))  
-  1-2. [内閣](https://github.com/Coordinate-Cat/Japan-OSINT#2.内閣(Cabinet))  
-  1-3. [会計検査院](https://github.com/Coordinate-Cat/Japan-OSINT#3.会計検査院(BoardofAudit))  
-  1-4. [裁判所](https://github.com/Coordinate-Cat/Japan-OSINT#3.裁判所(Courts))  
+1. [日本政府](https://github.com/Coordinate-Cat/Japan-OSINT#1%E6%97%A5%E6%9C%AC%E6%94%BF%E5%BA%9C)  
+  1-1. [国会](https://github.com/Coordinate-Cat/Japan-OSINT#1%E6%97%A5%E6%9C%AC%E6%94%BF%E5%BA%9C)  
+  1-2. [内閣](https://github.com/Coordinate-Cat/Japan-OSINT#1%E6%97%A5%E6%9C%AC%E6%94%BF%E5%BA%9C)  
+  1-3. [会計検査院](https://github.com/Coordinate-Cat/Japan-OSINT#1-3%E4%BC%9A%E8%A8%88%E6%A4%9C%E6%9F%BB%E9%99%A2board-of-audit)  
+  1-4. [裁判所](https://github.com/Coordinate-Cat/Japan-OSINT#1-4%E8%A3%81%E5%88%A4%E6%89%80courts)  
 
 ## 1.日本政府
 ### 1-1.国会(Diet)
