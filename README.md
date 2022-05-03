@@ -14,7 +14,7 @@
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-## 0.目次(Toc)
+## 目次(Toc)
 
 - [1.日本政府(Japanese government)](#1%E6%97%A5%E6%9C%AC%E6%94%BF%E5%BA%9Cjapanese-government)
   - [1-1.国会(Diet)](#1-1%E5%9B%BD%E4%BC%9Adiet)
