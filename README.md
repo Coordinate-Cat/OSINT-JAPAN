@@ -15,6 +15,9 @@
   1-3. [会計検査院](https://github.com/Coordinate-Cat/Japan-OSINT#3.会計検査院(BoardofAudit))  
   1-4. [裁判所](https://github.com/Coordinate-Cat/Japan-OSINT#3.裁判所(Courts))  
 
+<!-- START doctoc -->
+<!-- END doctoc -->
+
 ## 1.日本政府
 ### 1-1.国会(Diet)
 - 衆議院(https://www.shugiin.go.jp/)
