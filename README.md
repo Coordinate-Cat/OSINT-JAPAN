@@ -15,8 +15,18 @@
   1-3. [会計検査院](https://github.com/Coordinate-Cat/Japan-OSINT#1-3%E4%BC%9A%E8%A8%88%E6%A4%9C%E6%9F%BB%E9%99%A2board-of-audit)  
   1-4. [裁判所](https://github.com/Coordinate-Cat/Japan-OSINT#1-4%E8%A3%81%E5%88%A4%E6%89%80courts)  
 
-<!-- START doctoc -->
-<!-- END doctoc -->
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [1.日本政府](#1%E6%97%A5%E6%9C%AC%E6%94%BF%E5%BA%9C)
+  - [1-1.国会(Diet)](#1-1%E5%9B%BD%E4%BC%9Adiet)
+  - [1-2.内閣(Cabinet)](#1-2%E5%86%85%E9%96%A3cabinet)
+  - [1-3.会計検査院(Board of Audit)](#1-3%E4%BC%9A%E8%A8%88%E6%A4%9C%E6%9F%BB%E9%99%A2board-of-audit)
+  - [1-4.裁判所(Courts)](#1-4%E8%A3%81%E5%88%A4%E6%89%80courts)
+- [2.テスト](#2%E3%83%86%E3%82%B9%E3%83%88)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## 1.日本政府
 ### 1-1.国会(Diet)
