@@ -1,12 +1,12 @@
 # JAPAN-OSINT
 
 ![japan-osint.png](japan-osint.png)
-![GitHub Workflow Status](https://img.shields.io/github/workflow/status/Coordinate-Cat/JAPAN-OSINT/TOC%20Generator?color=bright&label=TOC%20Generator)
-![GitHub Workflow Status](https://img.shields.io/github/workflow/status/Coordinate-Cat/JAPAN-OSINT/Markdown%20Workflow?color=bright&label=Markdown%20Link%20Check)  
-![GitHub](https://img.shields.io/github/license/Coordinate-Cat/JAPAN-OSINT?color=bright)
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Coordinate-Cat.JAPAN-OSINT&right_color=brightgreen)
-![GitHub last commit](https://img.shields.io/github/last-commit/Coordinate-Cat/JAPAN-OSINT)
-![GitHub repo size](https://img.shields.io/github/repo-size/Coordinate-Cat/JAPAN-OSINT?color=brightgreen)
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/Coordinate-Cat/JAPAN-OSINT/TOC%20Generator?color=fff&label=TOC%20Generator)
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/Coordinate-Cat/JAPAN-OSINT/Markdown%20Workflow?color=fff&label=Markdown%20Link%20Check)  
+![GitHub](https://img.shields.io/github/license/Coordinate-Cat/JAPAN-OSINT?color=black)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Coordinate-Cat.JAPAN-OSINT&right_color=black)
+![GitHub last commit](https://img.shields.io/github/last-commit/Coordinate-Cat/JAPAN-OSINT?color=black)
+![GitHub repo size](https://img.shields.io/github/repo-size/Coordinate-Cat/JAPAN-OSINT?color=black)
 
 [JA](https://github.com/Coordinate-Cat/JAPAN-OSINT/blob/main/README.md) / EN
 
@@ -23,252 +23,51 @@
   - [参議院](https://www.sangiin.go.jp/)
 
 ### 内閣(Cabinet)
-  - [内閣官房](https://www.cas.go.jp/index.html)
-  - [内閣法制局](https://www.clb.go.jp/)
-  - [人事院](https://www.jinji.go.jp/)
-  - [内閣府](https://www.cao.go.jp/)
-    - [宮内庁](https://www.kunaicho.go.jp/)
-    - [公正取引委員会](https://www.jftc.go.jp/)
-    - [国家公安委員会](https://www.npsc.go.jp/)
-    - [警察庁](https://www.npa.go.jp/)
-    - [個人情報保護委員会](https://www.ppc.go.jp/)
-    - [カジノ管理委員会](https://www.jcrc.go.jp/index.html)
-    - [金融庁](https://www.fsa.go.jp/)
-    - [消費者庁](https://www.caa.go.jp/)
-  - [デジタル庁](https://www.digital.go.jp/)
-  - [復興庁](https://www.reconstruction.go.jp/)
-  - [総務省](https://www.soumu.go.jp/)
-    - [公害等調査委員会](https://www.soumu.go.jp/kouchoi/)
-    - [消防庁](https://www.fdma.go.jp/)
-  - [法務省](https://www.moj.go.jp/)
-    - [出入国在留管理庁](https://www.moj.go.jp/isa/index.html)
-    - [公安審査委員会](https://www.moj.go.jp/kouanshin/kouanshinsa_index.html)
-    - [公安調査庁](https://www.moj.go.jp/KOUAN/)
-  - [外務省](https://www.mofa.go.jp/mofaj/index.html)
-  - [財務省](https://www.mof.go.jp/)
-    - [国税庁](https://www.nta.go.jp/)
-  - [文部科学省](https://www.mext.go.jp/)
-    - [スポーツ庁](https://www.mext.go.jp/sports/)
-    - [文化庁](https://www.bunka.go.jp/)
-  - [厚生労働省](https://www.mhlw.go.jp/)
-    - [中央労働委員会](https://www.mhlw.go.jp/churoi/)
-  - [農林水産省](https://www.maff.go.jp/)
-    - [林野庁](https://www.rinya.maff.go.jp/index.html)
-    - [水産庁](https://www.jfa.maff.go.jp/index.html)
-  - [経済産業](https://www.meti.go.jp/)
-    - [資源エネルギー庁](https://www.enecho.meti.go.jp/)
-    - [中小企業庁](https://www.chusho.meti.go.jp/)
-    - [特許庁](https://www.jpo.go.jp/index.html)
-  - [国土交通省](https://www.mlit.go.jp/)
-    - [観光庁](https://www.mlit.go.jp/kankocho/index.html)
-    - [気象庁](https://www.jma.go.jp/jma/index.html)
-    - [運輸安全委員会](https://www.mlit.go.jp/jtsb/index.html)
-    - [海上保安庁](https://www.kaiho.mlit.go.jp/)
-  - [環境省](https://www.env.go.jp/)
-    - [原子力規制委員会](https://www.nsr.go.jp/)
-  - [防衛省](https://www.mod.go.jp/)
-    - [防衛装備庁](https://www.mod.go.jp/atla/)
-
-#### 内閣官房(CS)
-  - [内閣官房について](https://www.cas.go.jp/index.html#gaiyou)
-    - [組織図・事務概要](https://www.cas.go.jp/jp/gaiyou/index.html)
-    - [幹部紹介](https://www.cas.go.jp/jp/gaiyou/kanbu/index.html)
-    - [内閣官房組織等英文名称一覧](https://www.cas.go.jp/jp/gaiyou/eibun/index.html)
-    - [採用情報](https://www.cas.go.jp/jp/saiyou/index.html)
-
-  - [会見・発表](https://www.cas.go.jp/jp/index.html#kaiken)
-    - [内閣官房長官記者会見（首相官邸HP）](https://www.kantei.go.jp/jp/tyoukanpress/index.html)
-    - [報道発表](https://www.cas.go.jp/jp/houdou/index.html)
-
-  - [政策・制度](https://www.cas.go.jp/index.html#seisaku)
-    - [政府の基本方針・計画等（首相官邸HP）](https://www.kantei.go.jp/jp/kakugikettei/)
-    - [各種本部・会議等の活動情報](https://www.cas.go.jp/jp/seisaku/index.html)
-    - [所管法令](https://www.cas.go.jp/jp/hourei/index.html)
-    - [国会提出法案](https://www.cas.go.jp/jp/houan/index.html)
-    - [予算・決算](https://www.cas.go.jp/jp/yosan/index.html)
-    - [その他情報](https://www.cas.go.jp/jp/siryou/index.html)
-
-  - [情報提供](https://www.cas.go.jp/index.html#jouhou)
-    - [首相官邸ホームページ](https://www.kantei.go.jp/index.html)
-    - [相談窓口](https://www.cas.go.jp/jp/soudan/index.html)
-    - [パブリックコメント等](https://www.cas.go.jp/jp/pubcom/index.html)
-    - [調達情報（内閣府ＨＰ）](https://www.cao.go.jp/chotatsu/index.html)
-    - [内閣官房の災害用備蓄食品の有効活用](https://www.cas.go.jp/jp/bichiku_katsuyou/index.html)
-    - [情報公開・公文書管理](https://www.cas.go.jp/jp/koukai/index.html)
-    - [個人情報保護](https://www.cas.go.jp/jp/kojinjyouhou/index.html)
-    - [ソーシャルメディア](https://www.cas.go.jp/socialmedia/index.html)
-
-  - 関連リンク
-    - [内閣総務官室](https://www.cas.go.jp/jp/gaiyou/jimu/soumukan.html)
-    - [国家安全保障局](https://www.cas.go.jp/jp/gaiyou/jimu/anzenhosyou.html)
-    - [内閣官房副長官補](https://www.cas.go.jp/jp/gaiyou/jimu/fukutyoukanho.html)
-    - [内閣広報室](https://www.cas.go.jp/jp/gaiyou/jimu/kouhou.html)
-    - [内閣情報調査室](https://www.cas.go.jp/jp/gaiyou/jimu/jyouhoutyousa.html)
-      - [内閣衛星情報センター](https://www.cas.go.jp/jp/gaiyou/jimu/csice.html)
-    - [内閣サイバーセキュリティセンター](https://www.cas.go.jp/jp/gaiyou/jimu/nisc.html)
-    - [内閣人事局](https://www.cas.go.jp/jp/gaiyou/jimu/jinjikyoku/)
-
-#### 内閣法制局(CLB)
-  - 最近の法律・条約
-    - [最近の法律・条約](https://www.clb.go.jp/recent-laws/)
-    - [東日本大震災への対応](https://www.clb.go.jp/recent-laws/disaster/)
-    - [法律ができるまで](https://www.clb.go.jp/recent-laws/process/)
-
-  - [内閣法制局について](https://www.clb.go.jp/about/)
-    - [内閣法制局の概要](https://www.clb.go.jp/about/outline/)
-    - [組織](https://www.clb.go.jp/about/organization/)
-    - [幹部名簿](https://www.clb.go.jp/about/member/)
-    - [採用情報](https://www.clb.go.jp/about/recruitment/)
-
-  - [お知らせ](https://www.clb.go.jp/news/)
-    - [パブリックコメント](https://www.clb.go.jp/news/consultation/)
-    - [調達・公募情報](https://www.clb.go.jp/news/procurement/)
-    - [その他お知らせ](https://www.clb.go.jp/news/other/)
-
-  - [予算](https://www.clb.go.jp/policy/)
-    - [予算関係](https://www.clb.go.jp/policy/budget/)
-
-  - [法令](https://www.clb.go.jp/law/)
-    - [所管法令](https://www.clb.go.jp/law/juris/)
-    - [国会提出法案](https://www.clb.go.jp/law/bill/)
-
-  - [各種窓口](https://www.clb.go.jp/contact/)
-    - [情報公開窓口](https://www.clb.go.jp/contact/disclosure/)
-    - [個人情報保護窓口](https://www.clb.go.jp/contact/privacy/)
-    - [公文書管理に関する窓口](https://www.clb.go.jp/contact/archives/)
-    - [公務員倫理、セクシュアル・ハラスメント等に関する相談・通報窓口](https://www.clb.go.jp/contact/ethics/)
-    - [特定秘密の保護に関する通報窓口](https://www.clb.go.jp/contact/sds/)
-    - [障害を理由とする差別に関する相談窓口](https://www.clb.go.jp/contact/disabled/)
-    - [官民データに関する相談窓口](https://www.clb.go.jp/contact/data/)
-    - [公共調達に関する問い合わせの総合窓口](https://www.clb.go.jp/contact/procurement/)
-    - [オンライン申請可能な手続](https://www.clb.go.jp/contact/online/)
-
-#### 人事院(NPA)
-  - [人事院について](https://www.jinji.go.jp/ichiran/ichiran_jinjiin.html)
-  - [政策](https://www.jinji.go.jp/ichiran/ichiran_seisaku.html)
-  - [広報・報道資料等](https://www.jinji.go.jp/ichiran/ichiran_oshirase.html)
-  - [申請・問合せ･相談窓口](https://www.jinji.go.jp/ichiran/ichiran_shinsei.html)
-  - [政策評価・参与会・研究会等](https://www.jinji.go.jp/ichiran/ichiran_seisakuhyoukatou.html)
-  - [公務員研修所・地方事務局(所)](https://www.jinji.go.jp/link/index_chihouken.html)
-  - [リンク一覧](https://www.jinji.go.jp/link/index.html)
-  - [公式ＳＮＳ](https://www.jinji.go.jp/ichiran/ichiran_sns.html)
-  - [国家公務員倫理審査会](https://www.jinji.go.jp/rinri/index.html)
-  - [国家公務員試験採用情報NAVI](https://www.jinji.go.jp/saiyo/saiyo.html)
-  - [人事院で働きたい方](https://www.jinji.go.jp/jinjika/jinjika-saiyo.html)
-  - [職員からの各種相談](https://www.jinji.go.jp/ichiran/ichiran_soudan.html)
-  - [法令検索(e-Gov)](https://www.e-gov.go.jp/)
-  - [人事院の所在地、地図](https://www.jinji.go.jp/map/index.html)
-
-<!-- TODO: CO more info -->
-#### 内閣府(CO)
-  - [内閣府の政策](https://www.cao.go.jp/seisaku/seisaku.html)
-    - [経済財政（政府調達（CHANS）/対日投資関連/民間資金等活用事業（PPP/PFI）/地域経済活性化支援機構担当室等）](https://www5.cao.go.jp/keizai/index.html)
-    - [特定非営利活動法人](https://www.npo-homepage.go.jp/)
-    - [経済財政諮問会議](https://www5.cao.go.jp/keizai-shimon/index.html)
-    - [地方分権改革](https://www.cao.go.jp/bunken-suishin/index.html)
-    - [国家戦略特別区域諮問会議（首相官邸）](https://www.chisou.go.jp/tiiki/kokusentoc/shimonkaigi.html)
-    - [地方創生（内閣官房・内閣府 総合サイト）（首相官邸）](https://www.chisou.go.jp/sousei/index.html)
-    - [小さな拠点情報サイト](https://www.cao.go.jp/regional_management/index.html)
-    - [規制改革](https://www8.cao.go.jp/kisei-kaikaku/index.html)
-    - [科学技術・イノベーション](https://www8.cao.go.jp/cstp/stmain.html)
-    - [総合科学技術・イノベーション会議](https://www8.cao.go.jp/cstp/)
-    - [戦略的イノベーション創造プログラム（SIP）](https://www8.cao.go.jp/cstp/gaiyo/sip/index.html)
-    - [革新的研究開発推進プログラム（ImPACT）](https://www8.cao.go.jp/cstp/sentan/about-kakushin.html)
-    - [ムーンショット型研究開発制度](https://www8.cao.go.jp/cstp/moonshot/index.html)
-    - [原子力委員会](http://www.aec.go.jp/)
-    - [知的財産戦略推進事務局（首相官邸）](http://www.kantei.go.jp/jp/singi/titeki2/)
-    - [クールジャパン戦略](https://www.cao.go.jp/cool_japan/index.html)
-    - [健康・医療](https://www8.cao.go.jp/iryou/index.html)
-    - [宇宙](https://www8.cao.go.jp/space/index.html)
-    - [防災](https://www.bousai.go.jp/index.html)
-    - [災害情報](https://www.bousai.go.jp/updates/index.html)
-    - [中央防災会議](https://www.bousai.go.jp/kaigirep/chuobou/index.html)
-    - [原子力防災](https://www8.cao.go.jp/genshiryoku_bousai/index.html)
-    - [沖縄及び北方対策](https://www.cao.go.jp/seisaku/okinawa-hoppu.html)
-    - [沖縄政策](https://www8.cao.go.jp/okinawa/)
-    - [沖縄総合事務局](http://www.ogb.go.jp/)
-    - [北方対策本部](https://www8.cao.go.jp/hoppo/index.html)
-    - [政策調整（旧 共生社会）（子供・若者育成支援 /  青少年有害環境対策(インターネット利用環境整備・非行対策・健全育成) /  青年国際交流 /  子供の貧困対策 /  高齢社会対策 /  障害者施策 /  バリアフリー・ユニバーサルデザイン推進 /  交通安全対策 等）](https://www8.cao.go.jp/souki/index.html)
-    - [子ども・子育て支援](https://www8.cao.go.jp/shoushi/index.html)
-    - [勲章・褒章](https://www8.cao.go.jp/shokun/index.html)
-    - [男女共同参画（女性活躍推進法 /  女性の活躍促進 /  女性の活躍状況の「見える化」 /  ポジティブ・アクション /  女性に対する暴力の根絶 /  男性にとっての男女共同参画 /  地方との連携 /  災害対応 /  国際的協調）]()
-    - [仕事と生活の調和（ワーク・ライフ・バランス）](https://www.gender.go.jp/)
-    - [政府広報](https://www8.cao.go.jp/intro/kouhou/)
-    - [政府広報オンライン](https://www.gov-online.go.jp/index.html)
-    - [世論調査](https://survey.gov-online.go.jp/index.html)
-    - [政府インターネットテレビ](https://nettv.gov-online.go.jp/)
-    - [海外広報](https://www.gov-online.go.jp/eng/publicity/book/hlj/index.html)
-    - [制度（国旗・国歌/国民の祝日/公文書管理/元号）](https://www.cao.go.jp/seisaku/seido.html)
-    - [海洋](https://www8.cao.go.jp/ocean/index.html)
-    - [国際平和協力（PKO）](http://www.pko.go.jp/)
-    - [遺棄化学兵器処理](http://wwwa.cao.go.jp/acw/index.html)
-    - [日本学術会議](https://www.scj.go.jp/)
-    - [公益認定等委員会別](https://www.koeki-info.go.jp/)
-    - [野口英世アフリカ賞](https://www.cao.go.jp/noguchisho/index.html)
-    - [みどりの学術賞](https://www.cao.go.jp/midorisho/index.html)
-    - [官民人材交流センター](https://www8.cao.go.jp/jinzai/)
-    - [再就職等監視委員会](https://www5.cao.go.jp/kanshi/index.html)
-    - [消費者委員会](https://www.cao.go.jp/consumer/index.html)
-    - [特定秘密の検証及び監察](https://www8.cao.go.jp/kenshoukansatsu/index.html)
-    - [民間公益活動促進のための休眠預金等活用](https://www5.cao.go.jp/kyumin_yokin/index.html)
-    - [その他の施策](https://www.cao.go.jp/others/others.html)
-  - [組織・制度](https://www.cao.go.jp/soshiki/soshiki.html)
-    - [内閣府について](https://www.cao.go.jp/about/about.html)
-    - [大臣・副大臣・大臣政務官（プロフィール等）](https://www.cao.go.jp/minister/index.html)
-    - [内閣府人事採用情報](https://www8.cao.go.jp/jinji/saiyou.html)
-    - [所管の法令等](https://www8.cao.go.jp/hourei/index.html)
-    - [国会提出法案](https://www.cao.go.jp/houan/index.html)
-    - [施設等機関・所管の法人等](https://www.cao.go.jp/kikan/kikan.html)
-    - [経済社会総合研究所](https://www.esri.cao.go.jp/index.html)
-    - [迎賓館](https://www.geihinkan.go.jp/)
-    - [内閣府本府職員の行動指針](https://www.cao.go.jp/about/shishin.html)
-  - [広報・報道](https://www.cao.go.jp/press/index.html)
-  - [活動・白書等](https://www.cao.go.jp/action/action.html)
-  - [情報提供](https://www.cao.go.jp/info/index.html)
-
-<!-- TODO -->
-##### 宮内庁(IHA)
-##### 公正取引委員会(JFTC)
-##### 国家公安委員会(NPSC)
-##### 警察庁(NPA)
-##### 個人情報保護委員会(PPC)
-##### カジノ管理委員会(JCRC)
-##### 金融庁(FSA)
-##### 消費者庁(CAA)
-
-#### デジタル庁(DA)
-#### 復興庁(RA)
-#### 総務省(MIC)
-##### 公害等調査委員会(EDCC)
-##### 消防庁(FDMA)
-#### 法務省(MOJ)
-##### 出入国在留管理庁(ISA)
-##### 公安審査委員会(PSEC)
-##### 公安調査庁(PSIA)
-#### 外務省(MOFA)
-#### 財務省(MOF)
-##### 国税庁(NTA)
-#### 文部科学省(MEXT)
-##### スポーツ庁(JSA)
-##### 文化庁(ACA)
-#### 厚生労働省(MHLW)
-##### 中央労働委員会(CLRC)
-#### 農林水産省(MAFF)
-##### 林野庁(FoA)
-##### 水産庁(FiA)
-#### 経済産業(METI)
-##### 資源エネルギー庁(ANRE)
-##### 中小企業庁(SMEA)
-##### 特許庁(JPO)
-#### 国土交通省(MLIT)
-##### 観光庁(JTA)
-##### 気象庁(JMA)
-##### 運輸安全委員会(JTSB)
-##### 海上保安庁(JCG)
-#### 環境省(MOE)
-##### 原子力規制委員会(NRA)
-#### 防衛省(MOD)
-##### 防衛装備庁(ATLA)
+  - [内閣官房(CS)](https://www.cas.go.jp/index.html)
+  - [内閣法制局(CLB)](https://www.clb.go.jp/)
+  - [人事院(NPA)](https://www.jinji.go.jp/)
+  - [内閣府(CO)](https://www.cao.go.jp/)
+    - [宮内庁(IHA)](https://www.kunaicho.go.jp/)
+    - [公正取引委員会(JFTC)](https://www.jftc.go.jp/)
+    - [国家公安委員会(NPSC)](https://www.npsc.go.jp/)
+    - [警察庁(NPA)](https://www.npa.go.jp/)
+    - [個人情報保護委員会(PPC)](https://www.ppc.go.jp/)
+    - [カジノ管理委員会(JCRC)](https://www.jcrc.go.jp/index.html)
+    - [金融庁(FSA)](https://www.fsa.go.jp/)
+    - [消費者庁(CAA)](https://www.caa.go.jp/)
+  - [デジタル庁(DA)](https://www.digital.go.jp/)
+  - [復興庁(RA)](https://www.reconstruction.go.jp/)
+  - [総務省(MIC)](https://www.soumu.go.jp/)
+    - [公害等調査委員会(EDCC)](https://www.soumu.go.jp/kouchoi/)
+    - [消防庁(FDMA)](https://www.fdma.go.jp/)
+  - [法務省(MOJ)](https://www.moj.go.jp/)
+    - [出入国在留管理庁(ISA)](https://www.moj.go.jp/isa/index.html)
+    - [公安審査委員会(PSEC)](https://www.moj.go.jp/kouanshin/kouanshinsa_index.html)
+    - [公安調査庁(PSIA)](https://www.moj.go.jp/KOUAN/)
+  - [外務省(MOFA)](https://www.mofa.go.jp/mofaj/index.html)
+  - [財務省(MOF)](https://www.mof.go.jp/)
+    - [国税庁(NTA)](https://www.nta.go.jp/)
+  - [文部科学省(MEXT)](https://www.mext.go.jp/)
+    - [スポーツ庁(JSA)](https://www.mext.go.jp/sports/)
+    - [文化庁(ACA)](https://www.bunka.go.jp/)
+  - [厚生労働省(MHLW)](https://www.mhlw.go.jp/)
+    - [中央労働委員会(CLRC)](https://www.mhlw.go.jp/churoi/)
+  - [農林水産省(MAFF)](https://www.maff.go.jp/)
+    - [林野庁(FoA)](https://www.rinya.maff.go.jp/index.html)
+    - [水産庁(FiA)](https://www.jfa.maff.go.jp/index.html)
+  - [経済産業(METI)](https://www.meti.go.jp/)
+    - [資源エネルギー庁(ANRE)](https://www.enecho.meti.go.jp/)
+    - [中小企業庁(SMEA)](https://www.chusho.meti.go.jp/)
+    - [特許庁(JPO)](https://www.jpo.go.jp/index.html)
+  - [国土交通省(MLIT)](https://www.mlit.go.jp/)
+    - [観光庁(JTA)](https://www.mlit.go.jp/kankocho/index.html)
+    - [気象庁(JMA)](https://www.jma.go.jp/jma/index.html)
+    - [運輸安全委員会(JTSB)](https://www.mlit.go.jp/jtsb/index.html)
+    - [海上保安庁(JCG)](https://www.kaiho.mlit.go.jp/)
+  - [環境省(MOE)](https://www.env.go.jp/)
+    - [原子力規制委員会(NRA)](https://www.nsr.go.jp/)
+  - [防衛省(MOD)](https://www.mod.go.jp/)
+    - [防衛装備庁(ATLA)](https://www.mod.go.jp/atla/)
 
 ### 会計検査院(Board of Audit)
   - [会計検査院](https://www.jbaudit.go.jp/)
@@ -349,13 +148,63 @@
   - [宮崎](https://www.courts.go.jp/miyazaki/index.html)
   - [那覇](https://www.courts.go.jp/naha/index.html)
 
-## 2.テスト
+## 2.テレビジョン放送局
+||日本テレビ系列|テレビ朝日系列|東京放送系列|テレビ東京系列|フジテレビ系列|ローカル局|
+|:-|:-:|:-:|:-:|:-:|:-:|:-:|
+|北海道|札幌テレビ放送|北海道テレビ|北海道放送|テレビ北海道|北海道文化放送|-|
+|青森県|青森放送|青森朝日放送|青森テレビ|-|-|-|
+|岩手県|テレビ岩手|岩手朝日テレビ|岩手放送|-|岩手めんこいテレビ|-|
+|秋田県|秋田放送|秋田朝日放送|-|-|秋田テレビ|-|
+|山形県|山形放送|山形テレビ|テレビユー山形|-|さくらんぼテレビ|-|
+|宮城県|ミヤギテレビ|東日本放送|東北放送|-|仙台放送|-|
+|福島県|福島中央テレビ|福島放送|テレビユー福島|-|福島テレビ|-|
+|群馬県|日本テレビ|テレビ朝日|東京放送|テレビ東京|フジテレビ|群馬テレビ|
+|栃木県|"|"|"|"|"|とちぎテレビ|
+|茨城県|"|"|"|"|"|-|
+|千葉県|"|"|"|"|"|千葉テレビ放送|
+|埼玉県|"|"|"|"|"|テレビ埼玉|
+|東京都|"|"|"|"|"|東京ＭＸテレビ|
+|神奈川県|"|"|"|"|"|テレビ神奈川|
+|関東広域|"|"|"|"|"|放送大学|
+|山梨県|山梨放送|テレビ朝日|テレビ山梨|テレビ東京|フジテレビ|-|
+|長野県|テレビ信州|長野朝日放送|信越放送|-|長野放送|-|
+|新潟県|テレビ新潟|新潟テレビ２１|新潟放送|-|新潟総合テレビ|-|
+|富山県|北日本放送|-|チューリップテレビ|-|富山テレビ放送|-|
+|石川県|テレビ金沢|北陸朝日放送|北陸放送|-|石川テレビ|-|
+|福井県|福井放送|福井放送|-|-|福井テレビ|-|
+|静岡県|静岡第一テレビ|静岡朝日テレビ|静岡放送|-|テレビ静岡|-|
+|愛知県|中京テレビ|名古屋テレビ|中部日本放送|テレビ愛知|東海テレビ|-|
+|岐阜県|"|"|"|"|"|岐阜放送|
+|三重県|"|"|"|"|"|三重テレビ放送|
+|和歌山県|よみうりテレビ|朝日放送|毎日放送|テレビ大阪|関西テレビ放送|テレビ和歌山|
+|奈良県|"|"|"|"|"|奈良テレビ放送|
+|滋賀県|"|"|"|"|"|びわ湖放送|
+|京都府|"|"|"|"|"|京都放送|
+|大阪府|"|"|"|"|"|-|
+|兵庫県|"|"|"|"|"|サンテレビ|
+|岡山県|西日本放送|瀬戸内海放送|山陽放送|テレビせとうち|岡山放送|-|
+|広島県|広島テレビ放送|広島ホームテレビ|中国放送|-|テレビ新広島|-|
+|鳥取県|日本海テレビ|-|山陰放送|-|山陰中央テレビ|-|
+|島根県|"|-|"|-|"|-|
+|山口県|山口放送|山口朝日放送|テレビ山口|-|-|-|
+|徳島県|四国放送|朝日放送|毎日放送|テレビ大阪|関西テレビ放送|-|
+|高知県|高知放送|-|テレビ高知|-|高知さんさんテレビ|-|
+|香川県|西日本放送|瀬戸内海放送|山陽放送|テレビせとうち|岡山放送|-|
+|愛媛県|南海放送|愛媛朝日テレビ|あいテレビ|-|テレビ愛媛|-|
+|福岡県|福岡放送|九州朝日放送|ＲＫＢ毎日放送|ＴＶＱ九州放送|テレビ西日本|-|
+|佐賀県|福岡放送|九州朝日放送|ＲＫＢ毎日放送|-|サガテレビ|-|
+|長崎県|長崎国際テレビ|長崎文化放送|長崎放送|-|テレビ長崎|-|
+|熊本県|熊本県民テレビ|熊本朝日放送|熊本放送|-|テレビ熊本|-|
+|大分県|テレビ大分|大分朝日放送|大分放送|-|テレビ大分|-|
+|宮崎県|テレビ宮崎|テレビ宮崎|宮崎放送|-|テレビ宮崎|-|
+|鹿児島県|鹿児島読売テレビ|鹿児島放送|南日本放送|-|鹿児島テレビ放送|-|
+|沖縄県|-|琉球朝日放送|琉球放送|-|沖縄テレビ放送|-|
 
 ## Contributors
 help Ironman
 
 <a href="https://github.com/Coordinate-Cat/JAPAN-OSINT/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Coordinate-Cat/JAPAN-OSINT" />
+  <img src="https://contrib.rocks/image?repo=Coordinate-Cat/JAPAN-OSINT"/>
 </a>
 
 Made with [contrib.rocks](https://contrib.rocks).
