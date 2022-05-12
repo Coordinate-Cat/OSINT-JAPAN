@@ -8,7 +8,10 @@
 ![GitHub](https://img.shields.io/github/license/Coordinate-Cat/JAPAN-OSINT?color=black)
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Coordinate-Cat.JAPAN-OSINT&right_color=black)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Coordinate-Cat/JAPAN-OSINT?color=black)
-![GitHub repo size](https://img.shields.io/github/repo-size/Coordinate-Cat/JAPAN-OSINT?color=black)
+![GitHub repo size](https://img.shields.io/github/repo-size/Coordinate-Cat/JAPAN-OSINT?color=black)  
+
+[![StandWithUkraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine/)
 
 [JA](https://github.com/Coordinate-Cat/JAPAN-OSINT/blob/main/README.md) / EN
 
