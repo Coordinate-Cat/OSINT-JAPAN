@@ -1,0 +1,64 @@
+@import './reset.css';
+@import './mdDesign.css';
+@import 'highlight.js/styles/github.css';
+
+:root {
+  --main-color: #333;
+  --secondary-color: #6A7281;
+  --link-color: #0076df;
+  --border-color: #e5e7eb;
+  font-size: 16px;
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+h1 {
+  font-size: 2rem;
+  font-weight: 600;
+  margin: 1.2rem 0;
+}
+
+h2 {
+  font-size: 1.5rem;
+  font-weight: 600;
+  margin: 0.8rem 0;
+}
+
+h3 {
+  font-size: 1.17rem;
+  font-weight: 600;
+  margin: 0.6rem 0;
+}
+
+p {
+  font-size: 1rem;
+  display: block;
+  margin: 0.5rem 0;
+  line-height: 1.6;
+}
+
+a {
+  color:var(--link-color);
+  text-decoration: underline;
+  font-size: 1rem;
+}
+
+a:hover {
+  color: #000a13;
+}
+
+h1, h2, h3, p, a {
+  letter-spacing: 0.7px;
+}
+
+pre { 
+  white-space: pre-wrap;
+}
+
+ul {
+  list-style: circle;
+  list-style-type: disc;
+}
+
+ul li {
+  font-size: 1rem;
+}
