@@ -1,5 +1,5 @@
 {
-  "name": "sveltekit-blog-template",
+  "name": "osint-japan",
   "version": "0.0.1",
   "scripts": {
     "dev": "npm run md-to-json & svelte-kit dev",

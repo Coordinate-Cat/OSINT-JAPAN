@@ -12,7 +12,7 @@
         {format(new Date(post.date), "MMMM DD, YYYY")},
       </span>
 
-      <a class="post-detail__top__info__author" href="/about">by Yourname</a>
+      <a class="post-detail__top__info__author" href="/about">by Oka</a>
     </div>
   </div>
   <div class="post-detail__content">
