@@ -1,3 +1,7 @@
+<script>
+var year = new Date().getFullYear();
+</script>
+
 <footer class="footer">
   <ul class="footer__links">
     <li class="footer__links_item">
@@ -10,7 +14,10 @@
       <a href="/rss.xml" class="footer__links__item__link">RSS Feed</a>
     </li>
     <li class="footer__links_item">
-      <span class="footer__copy-right">© 2021 Yourname</span>
+      <a href="https://github.com/Coordinate-Cat/JAPAN-OSINT/blob/main/LICENSE" class="footer__links__item__link">MIT</a>
+    </li>
+    <li class="footer__links_item">
+      <a href="https://github.com/Coordinate-Cat" class="footer__links__item__link">© {year} OKA</a>
     </li>
   </ul>
 </footer>
@@ -46,9 +53,5 @@
 
   .footer__links__item__link:hover {
     border-bottom: 1.5px solid var(--secondary-color);
-  }
-
-  .footer__copy-right {
-    color: var(--secondary-color);
   }
 </style>

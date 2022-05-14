@@ -43,5 +43,9 @@
 />
 <div class="about-container">
   <h1>About</h1>
-  <p>Tell People about you!!</p>
+  <p>
+    Repository of this
+    <a href="https://github.com/Coordinate-Cat/JAPAN-OSINT">site</a>
+  </p>
+  
 </div>

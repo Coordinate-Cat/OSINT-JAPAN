@@ -1,0 +1,16 @@
+changelog:
+  exclude:
+    labels:
+      - ignore-for-release
+    authors:
+      - Coordinate-Cat
+  categories:
+    - title: Site Development
+      labels:
+        - site
+    - title: Documentation Maintenance
+      labels:
+        - documentation
+    - title: Other Changes
+      labels:
+        - "*"

@@ -1,10 +1,10 @@
 <script lang="ts">
-  export let posts;
+  // export let posts;
   import { envVariables } from "$lib/envVariables";
   import { blogMetaData } from "$lib/blogMetaData";
   import { MetaTags } from "svelte-meta-tags";
-  import PostList from "$lib/components/PostList.svelte";
-  import PostItem from "$lib/components/Post.svelte";
+  // import PostList from "$lib/components/PostList.svelte";
+  // import PostItem from "$lib/components/Post.svelte";
 
   const meta = {
     title: `Home | ${blogMetaData.blogTitle}`,
@@ -45,11 +45,32 @@
   }}
 />
 
-<PostList>
+<h1>Under Development</h1>
+<h2>
+  This is <a href="https://github.com/Coordinate-Cat/JAPAN-OSINT/issues" class="issue">OSS</a>.<br>
+  We are waiting for your great ideas.
+</h2>
+
+<!-- <PostList>
   {#each posts as post}
     <PostItem {post} />
   {/each}
-</PostList>
+</PostList> -->
 
 <style>
+  h1, h2 {
+    text-align: center;
+  }
+
+  .issue {
+    color: #FF4B4B;
+    font-size: 1.5rem;
+    font-weight: 600;
+    margin: 0.8rem 0;
+    text-decoration: none;
+  }
+
+  .issue:hover {
+    border-bottom: 2.5px solid #FF4B4B;
+  }
 </style>
