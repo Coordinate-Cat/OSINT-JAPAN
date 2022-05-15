@@ -23,10 +23,8 @@
 
 - [1.日本政府(Japanese government)](#1%E6%97%A5%E6%9C%AC%E6%94%BF%E5%BA%9Cjapanese-government)
   - [国会(Diet)](#%E5%9B%BD%E4%BC%9Adiet)
-  - [内閣(Cabinet)](#%E5%86%85%E9%96%A3cabinet)
-  - [会計検査院(Board of Audit)](#%E4%BC%9A%E8%A8%88%E6%A4%9C%E6%9F%BB%E9%99%A2board-of-audit)
-  - [裁判所(Courts)](#%E8%A3%81%E5%88%A4%E6%89%80courts)
-- [2.テレビジョン放送局](#2%E3%83%86%E3%83%AC%E3%83%93%E3%82%B8%E3%83%A7%E3%83%B3%E6%94%BE%E9%80%81%E5%B1%80)
+- [2.テレビジョン放送局(TV)](#2%E3%83%86%E3%83%AC%E3%83%93%E3%82%B8%E3%83%A7%E3%83%B3%E6%94%BE%E9%80%81%E5%B1%80tv)
+- [3.地図(maps)](#3%E5%9C%B0%E5%9B%B3maps)
 - [Contributors](#contributors)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -37,7 +35,7 @@
   - [衆議院](https://www.shugiin.go.jp/)
   - [参議院](https://www.sangiin.go.jp/)
 
-### 内閣(Cabinet)
+- 内閣(Cabinet)
   - [内閣官房(CS)](https://www.cas.go.jp/index.html)
   - [内閣法制局(CLB)](https://www.clb.go.jp/)
   - [人事院(NPA)](https://www.jinji.go.jp/)
@@ -84,10 +82,10 @@
   - [防衛省(MOD)](https://www.mod.go.jp/)
     - [防衛装備庁(ATLA)](https://www.mod.go.jp/atla/)
 
-### 会計検査院(Board of Audit)
+- 会計検査院(Board of Audit)
   - [会計検査院](https://www.jbaudit.go.jp/)
 
-### 裁判所(Courts)
+- 裁判所(Courts)
 - [裁判所](https://www.courts.go.jp/index.html)
   - [最高裁判所](https://www.courts.go.jp/saikosai/index.html)
   - [各地の裁判所](https://www.courts.go.jp/courthouse/map/index.html)
@@ -163,7 +161,7 @@
   - [宮崎](https://www.courts.go.jp/miyazaki/index.html)
   - [那覇](https://www.courts.go.jp/naha/index.html)
 
-## 2.テレビジョン放送局
+## 2.テレビジョン放送局(TV)
 ||日本テレビ系列|テレビ朝日系列|東京放送系列|テレビ東京系列|フジテレビ系列|ローカル局|
 |:-|:-:|:-:|:-:|:-:|:-:|:-:|
 |北海道|札幌テレビ放送|北海道テレビ|北海道放送|テレビ北海道|北海道文化放送|-|
@@ -214,6 +212,8 @@
 |宮崎県|テレビ宮崎|テレビ宮崎|宮崎放送|-|テレビ宮崎|-|
 |鹿児島県|鹿児島読売テレビ|鹿児島放送|南日本放送|-|鹿児島テレビ放送|-|
 |沖縄県|-|琉球朝日放送|琉球放送|-|沖縄テレビ放送|-|
+
+## 3.地図(maps)
 
 ## Contributors
 help Ironman

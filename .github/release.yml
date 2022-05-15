@@ -3,7 +3,7 @@ changelog:
     labels:
       - ignore-for-release
     authors:
-      - Coordinate-Cat
+      - octocat
   categories:
     - title: Site Development
       labels:
