@@ -5,6 +5,14 @@
 ![OSINT-JAPAN.png](static/osint.png)
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine/)
 
+<div align="center">
+  <img src="static/vercel-logo.png" width="50%"><br>
+  <a href="https://vercel.com/">The application is deployed in Vercel.</a>
+</div>
+<div align="center">
+  <img src="static/google-domains-logo.png" width="50%"><br>
+  <a href="https://domains.google/">osint-japan.jp domain name was obtained from google domains</a>
+</div>
 
 |Status||
 |:-|:-|
