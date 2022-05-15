@@ -25,7 +25,10 @@
 - [2.テレビジョン放送局(TV)](#2%E3%83%86%E3%83%AC%E3%83%93%E3%82%B8%E3%83%A7%E3%83%B3%E6%94%BE%E9%80%81%E5%B1%80tv)
 - [3.地図(maps)](#3%E5%9C%B0%E5%9B%B3maps)
 - [4.test](#4test)
-- [Contributors](#contributors)
+- [助けてください!(Help wanted!)](#%E5%8A%A9%E3%81%91%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84help-wanted)
+  - [何を手伝えますか？(What can I help you with?)](#%E4%BD%95%E3%82%92%E6%89%8B%E4%BC%9D%E3%81%88%E3%81%BE%E3%81%99%E3%81%8Bwhat-can-i-help-you-with)
+  - [助けるときのルール(Rules)](#%E5%8A%A9%E3%81%91%E3%82%8B%E3%81%A8%E3%81%8D%E3%81%AE%E3%83%AB%E3%83%BC%E3%83%ABrules)
+  - [助けてくれた方々(Contributors)](#%E5%8A%A9%E3%81%91%E3%81%A6%E3%81%8F%E3%82%8C%E3%81%9F%E6%96%B9%E3%80%85contributors)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
