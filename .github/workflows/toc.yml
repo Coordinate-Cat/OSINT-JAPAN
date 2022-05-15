@@ -11,5 +11,4 @@ jobs:
           TOC_TITLE: '## 目次(Toc)'
           COMMIT_MESSAGE: 'feat: update Toc'
           TARGET_PATHS:
-            documentation/japanese_goverment.md,
-            documentation/tv.md
+            documentation/*
