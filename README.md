@@ -37,7 +37,7 @@
   - [衆議院](https://www.shugiin.go.jp/)
   - [参議院](https://www.sangiin.go.jp/)
 
-### 内閣(Cabinet)
+- 内閣(Cabinet)
   - [内閣官房(CS)](https://www.cas.go.jp/index.html)
   - [内閣法制局(CLB)](https://www.clb.go.jp/)
   - [人事院(NPA)](https://www.jinji.go.jp/)
@@ -84,10 +84,10 @@
   - [防衛省(MOD)](https://www.mod.go.jp/)
     - [防衛装備庁(ATLA)](https://www.mod.go.jp/atla/)
 
-### 会計検査院(Board of Audit)
+- 会計検査院(Board of Audit)
   - [会計検査院](https://www.jbaudit.go.jp/)
 
-### 裁判所(Courts)
+- 裁判所(Courts)
 - [裁判所](https://www.courts.go.jp/index.html)
   - [最高裁判所](https://www.courts.go.jp/saikosai/index.html)
   - [各地の裁判所](https://www.courts.go.jp/courthouse/map/index.html)
@@ -163,7 +163,7 @@
   - [宮崎](https://www.courts.go.jp/miyazaki/index.html)
   - [那覇](https://www.courts.go.jp/naha/index.html)
 
-## 2.テレビジョン放送局
+## 2.テレビジョン放送局(TV)
 ||日本テレビ系列|テレビ朝日系列|東京放送系列|テレビ東京系列|フジテレビ系列|ローカル局|
 |:-|:-:|:-:|:-:|:-:|:-:|:-:|
 |北海道|札幌テレビ放送|北海道テレビ|北海道放送|テレビ北海道|北海道文化放送|-|
@@ -214,6 +214,8 @@
 |宮崎県|テレビ宮崎|テレビ宮崎|宮崎放送|-|テレビ宮崎|-|
 |鹿児島県|鹿児島読売テレビ|鹿児島放送|南日本放送|-|鹿児島テレビ放送|-|
 |沖縄県|-|琉球朝日放送|琉球放送|-|沖縄テレビ放送|-|
+
+## 3.地図(maps)
 
 ## Contributors
 help Ironman
