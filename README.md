@@ -58,7 +58,7 @@
     - others(その他)
 3. ブランチは`feature/issue-番号`でお願いします。e.g. `feature/issue-9`
 4. コミットメッセージは自由です。
-5. PRは`タイトル(#issue番号)`でお願いします。e.g. `README.mdでのtypo修正(#6)`
+5. PRは`issueタイトル(#issue番号)`でお願いします。e.g. `README.mdでのtypo修正(#6)`
 
 ### 助けてくれた方々(Contributors)
 
