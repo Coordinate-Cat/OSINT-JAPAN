@@ -3,15 +3,21 @@
 ⚠️During the maintenance process
 
 ![japan-osint.png](static/osint.png)
-![GitHub Workflow Status](https://img.shields.io/github/workflow/status/Coordinate-Cat/JAPAN-OSINT/TOC%20Generator?color=fff&label=TOC%20Generator)
-![GitHub Workflow Status](https://img.shields.io/github/workflow/status/Coordinate-Cat/JAPAN-OSINT/Markdown%20Workflow?color=fff&label=Markdown%20Link%20Check)  
-![GitHub](https://img.shields.io/github/license/Coordinate-Cat/JAPAN-OSINT?color=black)
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Coordinate-Cat.JAPAN-OSINT&right_color=black)
-![GitHub last commit](https://img.shields.io/github/last-commit/Coordinate-Cat/JAPAN-OSINT?color=black)
-![GitHub repo size](https://img.shields.io/github/repo-size/Coordinate-Cat/JAPAN-OSINT?color=black)  
-
-[![StandWithUkraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine/)
+
+
+|Status||
+|:-|:-|
+|Markdown Link Check|![Markdown Link Check](https://img.shields.io/github/workflow/status/Coordinate-Cat/JAPAN-OSINT/Markdown%20Workflow?color=black&label=Markdown%20Link%20Check)|
+|TOC Generator|![TOC Generator](https://img.shields.io/github/workflow/status/Coordinate-Cat/JAPAN-OSINT/TOC%20Generator?color=black&label=TOC%20Generator)|
+|Deploy:Production|![GitHub deployments](https://img.shields.io/github/deployments/coordinate-cat/osint-japan/Production?color=black&label=deploy%3AProduction)|
+|Deploy:Preview|![GitHub deployments](https://img.shields.io/github/deployments/coordinate-cat/osint-japan/Preview?color=black&label=deploy%3APreview)|
+|Repo:LastCommit|![GitHub last commit](https://img.shields.io/github/last-commit/Coordinate-Cat/JAPAN-OSINT?color=black)|
+|Repo:Size|![GitHub repo size](https://img.shields.io/github/repo-size/Coordinate-Cat/JAPAN-OSINT?color=black)|
+|Repo:Release|![GitHub release (latest by date)](https://img.shields.io/github/v/release/coordinate-cat/osint-japan?color=black)|
+|Repo:Visitor|![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Coordinate-Cat.JAPAN-OSINT&right_color=black)|
+|Repo:License|![license](https://img.shields.io/github/license/Coordinate-Cat/JAPAN-OSINT?color=black)|
+|Repo:Stars|![GitHub Repo stars](https://img.shields.io/github/stars/coordinate-cat/osint-japan?color=black)|
 
 [JA](https://github.com/Coordinate-Cat/JAPAN-OSINT/blob/main/README.md) / EN
 
@@ -80,4 +86,4 @@ Made with [contrib.rocks](https://contrib.rocks).
 [CODE_OF_CONDUCT.md](https://github.com/Coordinate-Cat/OSINT-JAPAN/blob/main/.github/CODE_OF_CONDUCT.md)
 
 ## ライセンス(License)
-[LICENSE.md](https://github.com/Coordinate-Cat/OSINT-JAPAN/blob/main/.github/LICENSE.md)
+[LICENSE.md](https://github.com/Coordinate-Cat/OSINT-JAPAN/blob/main/LICENSE)
