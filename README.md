@@ -28,13 +28,32 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-## 1.日本政府(Japanese government)
-## 2.テレビジョン放送局(TV)
+## [1.日本政府(Japanese government)](https://github.com/Coordinate-Cat/OSINT-JAPAN/blob/main/documentation/japanese_government.md)
+## [2.テレビジョン放送局(TV)](https://github.com/Coordinate-Cat/OSINT-JAPAN/blob/main/documentation/tv.md)
 ## 3.地図(maps)
 ## 4.test
 
-## Contributors
-help Ironman
+## 助けてください!(Help wanted!)
+### 何を手伝えますか？(What can I help you with?)
+
+- 誤字脱字の修正
+- カテゴリ、情報、ツールの追加
+- 各項目の説明(details)の追加
+- etc
+
+### 助けるときのルール(Rules)
+
+1. issueは必ず立ててください。
+2. AssigneesとLabelsを付けるのを忘れないでください。  
+  2-1. Labelsは3種類あります。
+    - site
+    - documentations
+    - others
+3. ブランチは`feature/issue-番号`でお願いします。e.g. `feature/issue-9`
+4. コミットメッセージは自由です。
+5. PRは`タイトル(#issue番号)`でお願いします。e.g. `README.mdでのtypo修正(#6)`
+
+### 助けてくれた方々(Contributors)
 
 <a href="https://github.com/Coordinate-Cat/JAPAN-OSINT/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Coordinate-Cat/JAPAN-OSINT"/>

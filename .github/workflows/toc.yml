@@ -13,4 +13,4 @@ jobs:
           TARGET_PATHS:
             README.md,
             documentation/*,
-            dorks/*
+            tools/*
