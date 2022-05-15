@@ -67,3 +67,14 @@
 </a>
 
 Made with [contrib.rocks](https://contrib.rocks).
+
+## 賛辞(Thanks)
+- [sveltejs/svelte](https://github.com/sveltejs/svelte)
+- [sveltejs/kit](https://github.com/sveltejs/kit)
+- [K-Sato1995/sveltekit-blog-template](https://github.com/K-Sato1995/sveltekit-blog-template)
+
+## 行動規範(Code of conduct)
+[CODE_OF_CONDUCT.md](https://github.com/Coordinate-Cat/OSINT-JAPAN/blob/main/.github/CODE_OF_CONDUCT.md)
+
+## ライセンス(License)
+[LICENSE.md](https://github.com/Coordinate-Cat/OSINT-JAPAN/blob/main/.github/LICENSE.md)
