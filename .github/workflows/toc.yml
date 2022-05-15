@@ -11,4 +11,6 @@ jobs:
           TOC_TITLE: '## 目次(Toc)'
           COMMIT_MESSAGE: 'feat: update Toc'
           TARGET_PATHS:
-            documentation/*
+            README.md,
+            documentation/*,
+            dorks/*
