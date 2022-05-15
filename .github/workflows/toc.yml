@@ -10,3 +10,4 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
           TOC_TITLE: '## 目次(Toc)'
           COMMIT_MESSAGE: 'feat: update Toc'
+          TARGET_PATHS: *.md
