@@ -5,15 +5,6 @@
 ![OSINT-JAPAN.png](static/osint.png)
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine/)
 
-<div align="center">
-  <img src="static/vercel-logo.png" width="50%"><br>
-  <a href="https://vercel.com/">The application is deployed in Vercel.</a>
-</div>
-<div align="center">
-  <img src="static/google-domains-logo.png" width="50%"><br>
-  <a href="https://domains.google/">osint-japan.jp domain name was obtained from google domains</a>
-</div>
-
 |Status||
 |:-|:-|
 |Markdown Link Check|![Markdown Link Check](https://img.shields.io/github/workflow/status/Coordinate-Cat/OSINT-JAPAN/Markdown%20Workflow?color=black&label=Markdown%20Link%20Check)|
@@ -86,9 +77,22 @@
 Made with [contrib.rocks](https://contrib.rocks).
 
 ## 賛辞(Thanks)
-- [sveltejs/svelte](https://github.com/sveltejs/svelte)
-- [sveltejs/kit](https://github.com/sveltejs/kit)
-- [K-Sato1995/sveltekit-blog-template](https://github.com/K-Sato1995/sveltekit-blog-template)
+<div align="center">
+  <img src="static/svelte-horizontal.png" width="40%"><br>
+  <a href="https://github.com/sveltejs/svelte">sveltejs/svelte</a><br>
+  <a href="https://github.com/sveltejs/kit">sveltejs/kit</a><br>
+  <a href="https://github.com/K-Sato1995/sveltekit-blog-template">K-Sato1995/sveltekit-blog-template</a>
+</div>
+<br>
+<div align="center">
+  <img src="static/vercel-logo.png" width="30%"><br>
+  <a href="https://vercel.com/">The application is deployed in Vercel.</a>
+</div>
+<br>
+<div align="center">
+  <img src="static/google-domains-logo.png" width="50%"><br>
+  <a href="https://domains.google/">osint-japan.jp domain name was obtained from google domains</a>
+</div>
 
 ## 行動規範(Code of conduct)
 [CODE_OF_CONDUCT.md](https://github.com/Coordinate-Cat/OSINT-JAPAN/blob/main/.github/CODE_OF_CONDUCT.md)
