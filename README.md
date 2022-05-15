@@ -46,10 +46,13 @@
 
 1. issueは必ず立ててください。
 2. AssigneesとLabelsを付けるのを忘れないでください。  
-  2-1. Labelsは3種類あります。
-    - site
-    - documentations
-    - others
+  2-1. Labelsは6種類あります。
+    - site(サイト関係)
+    - documentation(ドキュメント関係)
+    - bug(バグ全般)
+    - proposal(提案)
+    - question(質問)
+    - others(その他)
 3. ブランチは`feature/issue-番号`でお願いします。e.g. `feature/issue-9`
 4. コミットメッセージは自由です。
 5. PRは`タイトル(#issue番号)`でお願いします。e.g. `README.mdでのtypo修正(#6)`
