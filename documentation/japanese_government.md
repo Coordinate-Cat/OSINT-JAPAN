@@ -1,5 +1,14 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+## 目次(Toc)
+
+- [日本政府(Japanese government)](#%E6%97%A5%E6%9C%AC%E6%94%BF%E5%BA%9Cjapanese-government)
+  - [国会(Diet)](#%E5%9B%BD%E4%BC%9Adiet)
+  - [内閣(Cabinet)](#%E5%86%85%E9%96%A3cabinet)
+  - [会計検査院(Board of Audit)](#%E4%BC%9A%E8%A8%88%E6%A4%9C%E6%9F%BB%E9%99%A2board-of-audit)
+  - [裁判所(Courts)](#%E8%A3%81%E5%88%A4%E6%89%80courts)
+- [test](#test)
+
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## 日本政府(Japanese government)
