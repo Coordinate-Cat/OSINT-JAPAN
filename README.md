@@ -48,25 +48,40 @@
 ## 助けてください!(Help wanted!)
 ### 何を手伝えますか？(What can I help you with?)
 
+以下でカテゴリの追加、各カテゴリ内での項目の追加
+- カテゴリ
+  - [documentation(informations, tools): categorization #2](https://github.com/Coordinate-Cat/OSINT-JAPAN/issues/2)
+- 各カテゴリ内での項目追加
+  - [categorization: government #16](https://github.com/Coordinate-Cat/OSINT-JAPAN/issues/16)
+  - [categorization: TV #17](https://github.com/Coordinate-Cat/OSINT-JAPAN/issues/17)
+  - [categorization: maps #18](https://github.com/Coordinate-Cat/OSINT-JAPAN/issues/18)
+  - [categorization: SNS #19](https://github.com/Coordinate-Cat/OSINT-JAPAN/issues/19)
+  - [categorization: Phone #20](https://github.com/Coordinate-Cat/OSINT-JAPAN/issues/20)
+  - [categorization: information technology #21](https://github.com/Coordinate-Cat/OSINT-JAPAN/issues/21)
+  - [categorization: Search Engine #22](https://github.com/Coordinate-Cat/OSINT-JAPAN/issues/22)
+  - [categorization: Street Cam #23](https://github.com/Coordinate-Cat/OSINT-JAPAN/issues/23)
+  - [categorization: Stream #24](https://github.com/Coordinate-Cat/OSINT-JAPAN/issues/24)
+  - [categorization: Airline #25](https://github.com/Coordinate-Cat/OSINT-JAPAN/issues/25)
+  - [categorization: Traffic #26](https://github.com/Coordinate-Cat/OSINT-JAPAN/issues/26)
+
+その他
 - 誤字脱字の修正
-- カテゴリ、情報、ツールの追加
-- 各項目の説明(details)の追加
 - etc
 
-### 助けるときのルール(Rules)
+### ~~助けるときのルール(Rules)~~
 
-1. issueは必ず立ててください。
-2. AssigneesとLabelsを付けるのを忘れないでください。  
-  2-1. Labelsは6種類あります。
-    - site(サイト関係)
-    - documentation(ドキュメント関係)
-    - bug(バグ全般)
-    - proposal(提案)
-    - question(質問)
-    - others(その他)
-3. ブランチは`feature/issue-番号`でお願いします。e.g. `feature/issue-9`
-4. コミットメッセージは自由です。
-5. PRは`issueタイトル(#issue番号)`でお願いします。e.g. `README.mdでのtypo修正(#6)`
+1. ~~issueは必ず立ててください。~~
+2. ~~AssigneesとLabelsを付けるのを忘れないでください。~~  
+  2-1. ~~Labelsは6種類あります。~~
+    - ~~site(サイト関係)~~
+    - ~~documentation(ドキュメント関係)~~
+    - ~~bug(バグ全般)~~
+    - ~~proposal(提案)~~
+    - ~~question(質問)~~
+    - ~~others(その他)~~
+3. ~~ブランチは`feature/issue-番号`でお願いします。e.g. `feature/issue-9`~~
+4. ~~コミットメッセージは自由です。~~
+5. ~~PRは`issueタイトル(#issue番号)`でお願いします。e.g. `README.mdでのtypo修正(#6)`~~
 
 ### 助けてくれた方々(Contributors)
 
