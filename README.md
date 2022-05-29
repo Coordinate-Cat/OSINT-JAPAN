@@ -32,7 +32,6 @@
 - [4.test](#4test)
 - [助けてください!(Help wanted!)](#%E5%8A%A9%E3%81%91%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84help-wanted)
   - [何を手伝えますか？(What can I help you with?)](#%E4%BD%95%E3%82%92%E6%89%8B%E4%BC%9D%E3%81%88%E3%81%BE%E3%81%99%E3%81%8Bwhat-can-i-help-you-with)
-  - [~~助けるときのルール(Rules)~~](#%E5%8A%A9%E3%81%91%E3%82%8B%E3%81%A8%E3%81%8D%E3%81%AE%E3%83%AB%E3%83%BC%E3%83%ABrules)
   - [助けてくれた方々(Contributors)](#%E5%8A%A9%E3%81%91%E3%81%A6%E3%81%8F%E3%82%8C%E3%81%9F%E6%96%B9%E3%80%85contributors)
 - [賛辞(Thanks)](#%E8%B3%9B%E8%BE%9Ethanks)
 - [行動規範(Code of conduct)](#%E8%A1%8C%E5%8B%95%E8%A6%8F%E7%AF%84code-of-conduct)
