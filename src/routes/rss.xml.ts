@@ -38,7 +38,7 @@ const xml =
                 <a href="${envVariables.basePath}/blog/${post.slug}">
                   Keep reading
                 </a>
-              </strong>  
+              </strong>
             </div>
           </content:encoded>
         </item>
