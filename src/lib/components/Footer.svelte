@@ -8,6 +8,9 @@ var year = new Date().getFullYear();
       <a href="/" class="footer__links__item__link">Home</a>
     </li>
     <li class="footer__links_item">
+      <a href="/docs" class="footer__links__item__link">Docs</a>
+    </li>
+    <li class="footer__links_item">
       <a href="/about" class="footer__links__item__link">About</a>
     </li>
     <li class="footer__links_item">
