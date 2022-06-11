@@ -10,6 +10,7 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
+<!-- markdown-link-check-disable -->
 # ストリートカメラ(Street Cam)
 
 ## [Webcamtaxi](https://www.webcamtaxi.com/en/)
@@ -46,6 +47,9 @@
   - [Tokyo - Tokyo Skytree](https://www.webcamtaxi.com/en/japan/tokyo/tokyo-skytree.html)
   - [Tokyo - Tokyo Station Marunouchi](https://www.webcamtaxi.com/en/japan/tokyo/chiyoda-tokyo-station-marunouchi-cam.html)
   - [Tokyo - Train Hachioji](https://www.webcamtaxi.com/en/japan/tokyo/hachioji-chuo-line-traincam.html)
+
+<!-- Disbale link checking in this section. Ignore this [Bad Link](https://www.webcamtaxi.com) -->
+<!-- markdown-link-check-enable -->
 
 ## [Live Cams in Japan](https://www.skylinewebcams.com/webcam/japan.html)
 ### Tokyo
