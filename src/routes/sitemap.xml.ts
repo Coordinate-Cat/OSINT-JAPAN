@@ -18,6 +18,7 @@ export async function get() {
 
 const sitemap = posts => {
   const otherPages = [
+    {path: 'docs'},
     {path: 'about'},
     {path: 'projects'}
   ]

@@ -9,6 +9,9 @@
       <a href="/" class="header__links__item__link">Home</a>
     </li>
     <li class="header__links_item">
+      <a href="/docs" class="header__links__item__link">Docs</a>
+    </li>
+    <li class="header__links_item">
       <a href="/about" class="header__links__item__link">About</a>
     </li>
   </ul>
