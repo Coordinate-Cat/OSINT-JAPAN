@@ -34,6 +34,13 @@
     line-height: 6.2rem;
   }
 
+  @media screen and (max-width: 480px) {
+	/* under 480px */
+    .header__title {
+      font-size: 1rem;
+    }
+  }
+
   .header__links {
     display: flex;
     flex-direction: row;
