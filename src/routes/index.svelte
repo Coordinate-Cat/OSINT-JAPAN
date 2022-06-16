@@ -1,10 +1,10 @@
 <script lang="ts">
-  // export let posts;
+  export let posts;
   import { envVariables } from "$lib/envVariables";
   import { blogMetaData } from "$lib/blogMetaData";
   import { MetaTags } from "svelte-meta-tags";
-  // import PostList from "$lib/components/PostList.svelte";
-  // import PostItem from "$lib/components/Post.svelte";
+  import PostList from "$lib/components/PostList.svelte";
+  import PostItem from "$lib/components/Post.svelte";
 
   const meta = {
     title: `Home | ${blogMetaData.blogTitle}`,
@@ -45,32 +45,70 @@
   }}
 />
 
-<h1>Under Development</h1>
-<h2>
-  This is <a href="https://github.com/Coordinate-Cat/JAPAN-OSINT/issues" class="issue">OSS</a>.<br>
-  We are waiting for your great ideas.
-</h2>
+<h1>
+  OSINT JAPAN
+</h1>
 
-<!-- <PostList>
-  {#each posts as post}
-    <PostItem {post} />
-  {/each}
-</PostList> -->
+<div class="home_development">
+  <p>
+    Under Development<br>
+    This is <a href="https://github.com/Coordinate-Cat/JAPAN-OSINT/issues" class="home_development_issue">OSS</a>.<br>
+    We are waiting for your great ideas.
+  </p>
+</div>
+
+<div class="home_docs">
+  <h2>
+    Docs
+  </h2>
+  <ul class="home_docs_links">
+    <li class="home_docs_links_item">
+      <a href="/docs/news" class="">News</a>
+    </li>
+  </ul>
+</div>
+
+<div class="home_tools">
+  <h2>
+    Tools
+  </h2>
+</div>
+
+<div class="home_blogs">
+  <h2>
+    Blogs
+  </h2>
+  <PostList>
+    {#each posts as post}
+      <PostItem {post} />
+    {/each}
+  </PostList>
+</div>
 
 <style>
-  h1, h2 {
-    text-align: center;
+  .home_development {
+    background-color: #f5eeea;
+    color: #787878;
+    padding: 4px;
+    border-radius: 4px;
   }
 
-  .issue {
-    color: #FF4B4B;
-    font-size: 1.5rem;
+  .home_development > p {
+    margin: 0;
+  }
+
+  .home_development_issue {
+    color: #787878;
+    font-size: 1.1rem;
     font-weight: 600;
-    margin: 0.8rem 0;
     text-decoration: none;
   }
 
-  .issue:hover {
-    border-bottom: 2.5px solid #FF4B4B;
+  .home_development_issue:hover {
+    border-bottom: 2.5px solid #787878;
+  }
+
+  .home_docs_links {
+    list-style: none;
   }
 </style>

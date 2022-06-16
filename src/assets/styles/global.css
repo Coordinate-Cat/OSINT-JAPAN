@@ -5,10 +5,11 @@
 :root {
   --main-color: #333;
   --secondary-color: #6A7281;
-  --link-color: #0076df;
+  --link-color: #FF4B4B;
   --border-color: #e5e7eb;
   font-size: 16px;
   font-family: Inter, Arial, sans-serif;
+  background-color: #fff8f4;
 }
 
 h1 {
@@ -40,25 +41,23 @@ a {
   color:var(--link-color);
   text-decoration: underline;
   font-size: 1rem;
+  transition: 0.5s;
 }
 
 a:hover {
-  color: #000a13;
+  transition: 0.5s;
+  color: var(--secondary-color);
 }
 
 h1, h2, h3, p, a {
   letter-spacing: 0.7px;
 }
 
-pre { 
+pre {
   white-space: pre-wrap;
 }
 
-ul {
-  list-style: circle;
-  list-style-type: disc;
-}
-
 ul li {
+  list-style: none;
   font-size: 1rem;
 }

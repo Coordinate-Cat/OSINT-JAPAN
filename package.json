@@ -30,6 +30,7 @@
   "dependencies": {
     "fecha": "^4.2.1",
     "highlight.js": "^11.4.0",
+    "svelte-copy-to-clipboard": "^0.2.5",
     "svelte-meta-tags": "^2.3.4"
   }
 }

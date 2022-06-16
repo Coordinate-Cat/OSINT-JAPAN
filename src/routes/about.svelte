@@ -47,5 +47,4 @@
     Repository of this
     <a href="https://github.com/Coordinate-Cat/JAPAN-OSINT">site</a>
   </p>
-  
 </div>
