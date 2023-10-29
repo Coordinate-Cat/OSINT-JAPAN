@@ -1,5 +1,7 @@
 # OSINT-JAPAN
 
+Resource site for osint in Japan.
+
 ```
 npm run dev
 ```

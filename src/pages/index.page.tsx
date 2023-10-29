@@ -1,11 +1,10 @@
-import Image from "next/image";
-import { Inter } from "next/font/google";
-import { Noto_Sans_JP } from "next/font/google";
+// import Image from "next/image";
+import { Inter, Noto_Sans_JP } from "next/font/google";
 import Link from "next/link";
-import {
-  organizationsLength,
-  organizationsName,
-} from "@/components/links/GovernmentLinks";
+// import {
+//   organizationsLength,
+//   organizationsName,
+// } from "@/components/links/GovernmentLinks";
 
 // 英語フォントの読み込み
 const inter = Inter({ subsets: ["latin"] });
@@ -34,7 +33,7 @@ export default function Home() {
   // }
   return (
     <main
-      className={`flex justify-center items-center min-h-screen ${inter.className} ${notoSansJP.className} bg-black text-white`}
+      className={`flex ml-3 mt-3 ${inter.className} ${notoSansJP.className} bg-black text-white`}
     >
       <div className="text-left border-2 p-2">
         {/* <div className="grid grid-cols-4 gap-4">{gridItems}</div> */}
@@ -42,12 +41,12 @@ export default function Home() {
         <br />
         developing...
         <br />
-        <a
+        <Link
           href="https://github.com/Coordinate-Cat/OSINT-JAPAN"
           className="underline hover:underline hover:decoration-4"
         >
           Coordinate-Cat/OSINT-JAPAN
-        </a>
+        </Link>
       </div>
     </main>
   );
