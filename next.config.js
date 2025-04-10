@@ -1,14 +1,25 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  i18n: {
-    locales: ["ja"],
-    defaultLocale: "ja",
-  },
   compiler: {
     styledComponents: true,
   },
   reactStrictMode: true,
-  pageExtensions: ["page.tsx", "page.ts"],
+
+  // CSP設定をNext.js用に設定
+  async headers() {
+    return [
+      {
+        source: "/(.*)",
+        headers: [
+          {
+            key: "Content-Security-Policy",
+            value:
+              "default-src 'self'; script-src 'self' 'unsafe-eval' 'unsafe-inline' https://va.vercel-scripts.com; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob:; font-src 'self'; connect-src 'self' https://*.vercel.com;",
+          },
+        ],
+      },
+    ];
+  },
 };
 
 module.exports = nextConfig;
