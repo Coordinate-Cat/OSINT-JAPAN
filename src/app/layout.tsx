@@ -1,15 +1,26 @@
-import { Inter, Noto_Sans_JP } from "next/font/google";
+import { Inter } from "next/font/google";
+import localFont from "next/font/local";
 import { Metadata } from "next";
 import "@/styles/globals.css";
 
 // 英語フォントの読み込み
 const inter = Inter({ subsets: ["latin"] });
-// 日本語フォントの読み込み
-const notoSansJP = Noto_Sans_JP({ subsets: ["latin"] });
+// KikaiChokokuJISフォントの読み込み
+const kikaiChokoku = localFont({
+  src: "../../public/font/KikaiChokokuJIS-Md.otf",
+  variable: "--font-kikai-chokoku",
+  display: "swap",
+});
+
+// メタデータの定数定義
+const META = {
+  title: "osint japan",
+  description: "Resource site for osint in Japan.",
+};
 
 export const metadata: Metadata = {
-  title: "トップページ",
-  description: "Resource site for osint in Japan.",
+  title: META.title,
+  description: META.description,
 };
 
 export default function RootLayout({
@@ -18,10 +29,10 @@ export default function RootLayout({
   children: React.ReactNode;
 }) {
   return (
-    <html lang="ja">
+    <html lang="ja" className={kikaiChokoku.variable}>
       <body
         suppressHydrationWarning
-        className={`${inter.className} ${notoSansJP.className}`}
+        className={`${inter.className} font-kikai`}
       >
         {children}
       </body>

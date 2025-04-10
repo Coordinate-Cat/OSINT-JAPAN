@@ -2,6 +2,20 @@
 @tailwind components;
 @tailwind utilities;
 
+/* KikaiChokokuJIS-Mdフォントの定義 */
+@font-face {
+  font-family: "KikaiChokokuJIS";
+  src: url("/font/KikaiChokokuJIS-Md.otf") format("opentype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* フォント適用用ユーティリティクラス */
+.font-kikai {
+  font-family: "KikaiChokokuJIS", sans-serif;
+}
+
 :root {
   --foreground-rgb: 0, 0, 0;
   --background-start-rgb: 214, 219, 220;
