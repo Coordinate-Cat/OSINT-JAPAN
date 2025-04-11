@@ -5,7 +5,7 @@ import data from "./links.json";
 const organizations = data.organizations;
 export const organizationsLength = organizations.length;
 export const organizationsName = organizations.map(
-  (organization) => organization.name
+  (organization) => organization.name,
 );
 
 export const GovernmentLinks: FC = () => {
