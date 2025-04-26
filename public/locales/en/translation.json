@@ -1,0 +1,26 @@
+{
+  "welcome": "Welcome to our app!",
+  "home": {
+    "title": "Home"
+  },
+  "notFound": {
+    "title": "Page Not Found",
+    "message": "This page does not exist.",
+    "suggestion": "Please try another page.",
+    "homeLink": "Return to Home Page"
+  },
+  "error": {
+    "title": "An Error Occurred",
+    "message": "Sorry, something went wrong.",
+    "homeLink": "Return to Home Page"
+  },
+  "homePage": {
+    "title": "Construction Notice",
+    "description": "This site is currently under construction. We apologize for any inconvenience and appreciate your cooperation.",
+    "periodLabel": "Construction Period:",
+    "periodValue": "April 11, 2025 (Fri) - April 20, 2251 (Sun)",
+    "contentLabel": "Construction Details:",
+    "linkText": "External Site (GitHub) →",
+    "githubUrl": "https://github.com/Coordinate-Cat/OSINT-JAPAN"
+  }
+}

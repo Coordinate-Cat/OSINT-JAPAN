@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev & sleep 2 && open http://localhost:3000",
+    "dev": "next dev",
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
@@ -15,10 +15,17 @@
     "@types/react-dom": "19.1.2",
     "eslint": "9.24.0",
     "eslint-config-next": "15.3.0",
+    "i18next": "^25.0.1",
+    "i18next-browser-languagedetector": "^8.0.5",
+    "i18next-http-backend": "^3.0.2",
+    "i18next-resources-to-backend": "^1.2.1",
+    "lucide-react": "^0.503.0",
     "next": "^15.3.0",
+    "next-i18next": "^15.4.2",
     "postcss": "^8.5.3",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
+    "react-i18next": "^15.5.1",
     "tailwindcss": "^4.1.3",
     "typescript": "5.8.3"
   },

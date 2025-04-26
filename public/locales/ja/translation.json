@@ -1,0 +1,26 @@
+{
+  "welcome": "ようこそ、私たちのアプリに！",
+  "home": {
+    "title": "ホーム"
+  },
+  "notFound": {
+    "title": "ページが見つかりません",
+    "message": "このページは存在しません。",
+    "suggestion": "別のページをお試しください。",
+    "homeLink": "ホームページへ戻る"
+  },
+  "error": {
+    "title": "エラーが発生しました",
+    "message": "申し訳ありませんが、問題が発生しました。",
+    "homeLink": "ホームページへ戻る"
+  },
+  "homePage": {
+    "title": "工事のお知らせ",
+    "description": "只今工事中の為、通行できません。ご不便をお掛けしますが、皆様のご協力をお願いします。",
+    "periodLabel": "工事期間:",
+    "periodValue": "2025年4月11日(金) 〜 2251年4月20日(日)",
+    "contentLabel": "工事内容:",
+    "linkText": "外部サイト（GitHub）→",
+    "githubUrl": "https://github.com/Coordinate-Cat/OSINT-JAPAN"
+  }
+}

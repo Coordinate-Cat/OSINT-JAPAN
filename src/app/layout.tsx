@@ -2,13 +2,9 @@ import { inter } from "@/app/ui/fonts";
 import localFont from "next/font/local";
 import { Metadata } from "next";
 import "@/styles/globals.css";
-
-// KikaiChokokuJISフォントの読み込み
-const kikaiChokoku = localFont({
-  src: "../../public/font/KikaiChokokuJIS-Md.otf",
-  variable: "--font-kikai-chokoku",
-  display: "swap",
-});
+import I18nProvider from "@/i18n/provider";
+// Header のインポート方法を変更して、名前付きインポートを使用
+import { Header } from "@/_components/common/Header/Header";
 
 // メタデータの定数定義
 const META = {
@@ -27,12 +23,18 @@ export default function RootLayout({
   children: React.ReactNode;
 }) {
   return (
-    <html lang="ja" className={kikaiChokoku.variable}>
+    // サーバーサイドでは常に日本語をデフォルトとする
+    <html lang="ja" className={`${inter.variable}`}>
       <body
         suppressHydrationWarning
-        className={`${inter.className} font-kikai`}
+        // クラス構成を変更して、tailwindのfontファミリーを適用
+        className="text-base antialiased"
       >
-        {children}
+        <I18nProvider>
+          {/* クライアントサイドでフォントをロードするコンポーネント */}
+          <Header />
+          <main>{children}</main>
+        </I18nProvider>
       </body>
     </html>
   );

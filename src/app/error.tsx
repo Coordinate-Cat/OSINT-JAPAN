@@ -1,8 +1,8 @@
 "use client";
 
 import Link from "next/link";
-import { useEffect } from "react";
-import { ERROR } from "@/constants";
+import { useEffect, useState } from "react";
+import { useTranslation } from "react-i18next";
 
 /**
  * エラーページコンポーネント
@@ -17,25 +17,43 @@ export default function Error({
   error: Error & { digest?: string };
   reset: () => void;
 }) {
+  // 翻訳フックを呼び出し
+  const { t, ready } = useTranslation();
+  // クライアントサイドでのレンダリングかを判定するstate
+  const [mounted, setMounted] = useState(false);
+
   useEffect(() => {
+    // エラーをコンソールに出力
     console.error(error);
-  }, [error]);
+
+    // i18nの準備ができたらマウント状態を更新
+    if (ready) {
+      setMounted(true);
+    }
+  }, [error, ready]);
+
+  // i18nの準備ができるまでローディング表示
+  if (!mounted) {
+    return (
+      <main className="flex h-screen items-center justify-center bg-neutral-600 p-2">
+        <div className="font-kikai max-w-md border-2 bg-white p-2 text-center text-black">
+          <p>読み込み中...</p>
+        </div>
+      </main>
+    );
+  }
 
   return (
     <main className="flex h-screen items-center justify-center bg-neutral-600 p-2">
       <div className="font-kikai max-w-md border-2 bg-white p-2 text-left text-black">
         <div>
-          <p className="bg-red-600 text-center text-white">{ERROR.TITLE}</p>
-          <p className="mt-2">{ERROR.MESSAGE}</p>
+          <p className="bg-red-600 text-center text-white">
+            {t("error.title")}
+          </p>
+          <p className="mt-2">{t("error.message")}</p>
           <div className="mt-4 flex justify-around">
-            <button
-              onClick={() => reset()}
-              className="rounded bg-blue-500 px-4 py-1 text-white"
-            >
-              {ERROR.RETRY}
-            </button>
             <Link href="/" className="underline">
-              {ERROR.HOME_LINK}
+              {t("error.homeLink")}
             </Link>
           </div>
         </div>

@@ -1,9 +1,16 @@
 /**
  * アプリケーション全体で使用する定数を管理
+ *
+ * 注意: これらの定数は現在使用されていません。
+ * i18n翻訳システム（/public/locales/{言語}/translation.json）に移行済みです。
+ * 参照用のドキュメントとして残しています。
+ *
+ * 最終更新日: 2025年4月26日
  */
 
 /**
  * NotFoundページで使用するテキスト
+ * @deprecated i18nの`notFound`キーに移行済み
  */
 export const NOT_FOUND = {
   /** ページのタイトル */
@@ -18,6 +25,7 @@ export const NOT_FOUND = {
 
 /**
  * エラーページで使用するテキスト
+ * @deprecated i18nの`error`キーに移行済み
  */
 export const ERROR = {
   /** ページのタイトル */
@@ -32,6 +40,7 @@ export const ERROR = {
 
 /**
  * ホームページで使用するテキスト
+ * @deprecated i18nの`homePage`キーに移行済み
  */
 export const HOME = {
   /** ページのタイトル */

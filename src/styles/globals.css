@@ -31,17 +31,19 @@
 }
 
 /* KikaiChokokuJIS-Mdフォントの定義 */
-@font-face {
+/* @font-face {
   font-family: "KikaiChokokuJIS";
   src: url("/font/KikaiChokokuJIS-Md.otf") format("opentype");
   font-weight: normal;
   font-style: normal;
   font-display: swap;
-}
-
-/* フォント適用用ユーティリティクラス */
-.font-kikai {
+} */
+/* .font-kikai {
   font-family: "KikaiChokokuJIS", sans-serif;
+} */
+
+.font-latin {
+  font-family: var(--font-inter), sans-serif;
 }
 
 :root {
