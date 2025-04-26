@@ -23,6 +23,7 @@
     "typescript": "5.8.3"
   },
   "devDependencies": {
+    "eslint-plugin-import-access": "^2.2.2",
     "prettier": "^3.5.3",
     "prettier-plugin-tailwindcss": "^0.6.11"
   }

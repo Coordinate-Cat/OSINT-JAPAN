@@ -1,10 +1,8 @@
-import { Inter } from "next/font/google";
+import { inter } from "@/app/ui/fonts";
 import localFont from "next/font/local";
 import { Metadata } from "next";
 import "@/styles/globals.css";
 
-// 英語フォントの読み込み
-const inter = Inter({ subsets: ["latin"] });
 // KikaiChokokuJISフォントの読み込み
 const kikaiChokoku = localFont({
   src: "../../public/font/KikaiChokokuJIS-Md.otf",
