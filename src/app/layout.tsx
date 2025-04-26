@@ -14,7 +14,7 @@ const kikaiChokoku = localFont({
 
 // メタデータの定数定義
 const META = {
-  title: "osint japan",
+  title: "Osint Japan",
   description: "Resource site for osint in Japan.",
 };
 
