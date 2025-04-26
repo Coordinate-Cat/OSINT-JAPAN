@@ -83,7 +83,7 @@ src/
   └── utils/ (汎用純粋関数、単純な変換やヘルパー関数)
 ```
 
-### eslint-plugin-import-access
+### eslint-plugin-import-access (loophole)
 
 ```tsx
 // src/app/(colocation)/colocation-a/_components/index.ts
