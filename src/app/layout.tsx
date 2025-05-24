@@ -1,4 +1,4 @@
-import { inter } from "@/app/ui/fonts";
+import { inter, notoSansJP } from "@/app/ui/fonts";
 import localFont from "next/font/local";
 import { Metadata } from "next";
 import "@/styles/globals.css";
@@ -24,10 +24,13 @@ export default function RootLayout({
 }) {
   return (
     // サーバーサイドでは常に日本語をデフォルトとする
-    <html lang="ja" className={`${inter.variable}`}>
+    <html
+      lang="ja"
+      className={`${inter.variable} ${notoSansJP.variable} lang-ja`}
+    >
       <body
         suppressHydrationWarning
-        // クラス構成を変更して、tailwindのfontファミリーを適用
+        // クラス構成を変更して、tailwindのフォントファミリーを適用
         className="text-base antialiased"
       >
         <I18nProvider>

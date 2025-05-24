@@ -46,6 +46,20 @@
   font-family: var(--font-inter), sans-serif;
 }
 
+/* 言語ごとのフォント設定 */
+.lang-en {
+  font-family: var(--font-inter), system-ui, sans-serif;
+}
+
+.lang-ja {
+  font-family: var(--font-notosans-jp), var(--font-inter), sans-serif;
+}
+
+/* 日本語用フォントクラス */
+.font-kikai {
+  font-family: var(--font-notosans-jp), sans-serif;
+}
+
 :root {
   --foreground-rgb: 0, 0, 0;
   --background-start-rgb: 214, 219, 220;
