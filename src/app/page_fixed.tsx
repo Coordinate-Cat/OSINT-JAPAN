@@ -9,7 +9,6 @@ import LanguageSwitcher from "@/_components/pages/HomePage/LanguageSwitcher";
 import { DarkModeToggle } from "@/_components/pages/HomePage/DarkModeToggle";
 import { useTranslation } from "react-i18next";
 import { QRCodeSVG } from "qrcode.react";
-import { ClientOnly } from "@/_components/common/ClientOnly";
 
 /**
  * ホームページコンポーネント
@@ -56,12 +55,10 @@ export default function Home() {
               <h2 className="text-2xl font-bold">
                 {t("mainPage.qrCodeTitle")}
               </h2>
-              <ClientOnly fallback={<div className="w-32 h-32 bg-gray-200 dark:bg-gray-600 animate-pulse" />}>
-                <QRCodeSVG
-                  value="https://www.osint-japan.jp/"
-                  title={"QR Code for OSINT Japan"}
-                />
-              </ClientOnly>
+              <QRCodeSVG
+                value="https://www.osint-japan.jp/"
+                title={"QR Code for OSINT Japan"}
+              />
             </Card>
             <Card className="w-full justify-between bg-[#EFEFEF] p-4 dark:bg-gray-800">
               <h2 className="text-2xl font-bold">GitHub</h2>

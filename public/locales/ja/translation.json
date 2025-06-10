@@ -22,5 +22,13 @@
     "contentLabel": "工事内容:",
     "linkText": "外部サイト（GitHub）→",
     "githubUrl": "https://github.com/Coordinate-Cat/OSINT-JAPAN"
+  },
+  "mainPage": {
+    "title": "OJ",
+    "description1": "OSINT研究のガイド。",
+    "description2": "日本に関するOSINT情報とツールを含み、非日本語圏からのアプローチもカバーしています。",
+    "languageTitle": "言語を変更",
+    "qrCodeTitle": "このサイトのQRコード",
+    "darkModeTitle": "ダークモード"
   }
 }

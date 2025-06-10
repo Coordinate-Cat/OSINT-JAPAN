@@ -5,8 +5,6 @@
     "project": true,
     "sourceType": "module"
   },
-  "plugins": ["import-access"],
-  "rules": {
-    "import-access/jsdoc": ["error"]
-  }
+  "plugins": [],
+  "rules": {}
 }

@@ -56,11 +56,9 @@ export default function I18nProvider({
 
   return (
     <I18nextProvider i18n={i18n}>
-      {mounted ? (
-        children
-      ) : (
-        <div style={{ visibility: "hidden" }}>{children}</div>
-      )}
+      <div className={mounted ? "" : "opacity-0 pointer-events-none"}>
+        {children}
+      </div>
     </I18nextProvider>
   );
 }

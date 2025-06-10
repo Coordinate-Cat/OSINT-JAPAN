@@ -9,10 +9,13 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@radix-ui/react-switch": "^1.2.5",
     "@tailwindcss/postcss": "^4.1.3",
     "@types/node": "22.14.0",
     "@types/react": "19.1.0",
     "@types/react-dom": "19.1.2",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
     "eslint": "9.24.0",
     "eslint-config-next": "15.3.0",
     "i18next": "^25.0.1",
@@ -23,15 +26,17 @@
     "next": "^15.3.0",
     "next-i18next": "^15.4.2",
     "postcss": "^8.5.3",
+    "qrcode.react": "^4.2.0",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
     "react-i18next": "^15.5.1",
+    "tailwind-merge": "^3.3.0",
     "tailwindcss": "^4.1.3",
     "typescript": "5.8.3"
   },
   "devDependencies": {
-    "eslint-plugin-import-access": "^2.2.2",
     "prettier": "^3.5.3",
-    "prettier-plugin-tailwindcss": "^0.6.11"
+    "prettier-plugin-tailwindcss": "^0.6.11",
+    "tw-animate-css": "^1.3.0"
   }
 }
