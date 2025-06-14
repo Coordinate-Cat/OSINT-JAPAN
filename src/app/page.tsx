@@ -5,6 +5,9 @@ import { LoadingPlaceholder, Header, ClientOnly } from "../_components/common";
 import { useI18nReady } from "../hooks";
 import { OSINTCategoriesSection } from "@/_components/pages/HomePage";
 import { useTranslation } from "react-i18next";
+import { QRCodeSVG } from "qrcode.react";
+import Link from "next/link";
+import { ClipboardCopy } from "lucide-react";
 
 /**
  * ホームページコンポーネント
@@ -29,7 +32,7 @@ export default function Home() {
           <div className="mx-auto max-w-7xl">
             <div className="mb-8 flex flex-col justify-center text-center">
               <div className="flex items-center text-white sm:text-6xl">
-                <img src="./icons/OJ.svg" alt="OJ" className="h-16 w-16" />
+                <img src="OJ.svg" alt="OJ" className="h-16 w-16" />
                 <p className="ml-2 text-4xl text-gray-300">
                   {t(
                     "home.subtitle",
@@ -56,8 +59,8 @@ export default function Home() {
         </section>
 
         {/* フッター情報 */}
-        <footer className="border-t border-gray-800 py-12">
-          <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+        <footer className="py-12">
+          <div className="mx-auto max-w-7xl">
             <div className="grid grid-cols-1 gap-8 text-center md:grid-cols-3 md:text-left">
               <div>
                 <h3 className="mb-4 text-lg font-semibold text-white">
@@ -88,6 +91,45 @@ export default function Home() {
                   {t("footer.contact", "Contact")}
                 </h3>
                 <p className="text-sm text-gray-400">tetrapasta02@gmail.com</p>
+              </div>
+
+              {/* このサイトのurlとqr */}
+              <div className="">
+                <h3 className="mb-4 text-lg font-semibold text-white">
+                  このサイトのQRとURL
+                </h3>
+                <div className="flex flex-col space-y-2">
+                  <div className="mr-1 flex w-fit rounded bg-white p-1">
+                    <ClientOnly
+                      fallback={
+                        <div className="h-32 w-32 animate-pulse bg-gray-200" />
+                      }
+                    >
+                      <QRCodeSVG
+                        value="https://www.osint-japan.jp/"
+                        title="QR Code for OSINT Japan"
+                        size={128}
+                      />
+                    </ClientOnly>
+                  </div>
+                  <div className="flex items-start space-x-2">
+                    <p className="underline select-all">
+                      https://www.osint-japan.jp/
+                    </p>
+                    <div className="ml-1 flex items-center">
+                      <button
+                        className="rounded bg-white px-2 py-1 text-sm text-[#1c1c1c] hover:cursor-pointer hover:bg-[#1c1c1c] hover:text-white"
+                        onClick={() =>
+                          navigator.clipboard.writeText(
+                            "https://www.osint-japan.jp/",
+                          )
+                        }
+                      >
+                        <ClipboardCopy className="h-4 w-4" />
+                      </button>
+                    </div>
+                  </div>
+                </div>
               </div>
             </div>
           </div>

@@ -4,10 +4,7 @@ import { useState } from "react";
 import { useTranslation } from "react-i18next";
 import { DarkModeToggle } from "@/_components/pages/HomePage/DarkModeToggle";
 import LanguageSwitcher from "@/_components/pages/HomePage/LanguageSwitcher";
-import { QRCodeSVG } from "qrcode.react";
-import { ClientOnly } from "./ClientOnly";
 import { useI18nReady } from "@/hooks";
-import { QrCode } from "lucide-react";
 
 /**
  * メインヘッダーコンポーネント
@@ -27,7 +24,7 @@ export function Header() {
           <div className="flex items-center">
             <h1 className="text-xl font-bold">
               {/* {isI18nReady ? t("mainPage.title", "OJ") : "OJ"} */}
-              <img src="./icons/OJ.svg" alt="OJ" className="h-8 w-8" />
+              <img src="OJ.svg" alt="OJ" className="h-8 w-8" />
             </h1>
           </div>
 
@@ -64,49 +61,20 @@ export function Header() {
 
           {/* 右側のメニュー */}
           <div className="flex items-center space-x-4">
-            {" "}
-            {/* QRコードボタン */}
-            <div className="relative">
-              <button
-                onClick={() => setShowQR(!showQR)}
-                className="rounded-lg p-2 transition-colors hover:bg-gray-800"
-                title={
-                  isI18nReady
-                    ? t("mainPage.qrCodeTitle", "QRコード")
-                    : "QRコード"
-                }
-              >
-                <QrCode />
-              </button>
-
-              {showQR && (
-                <div className="absolute right-0 z-50 mt-2 rounded-lg bg-white p-4 shadow-lg">
-                  <ClientOnly
-                    fallback={
-                      <div className="h-32 w-32 animate-pulse bg-gray-200" />
-                    }
-                  >
-                    <QRCodeSVG
-                      value="https://www.osint-japan.jp/"
-                      title="QR Code for OSINT Japan"
-                      size={128}
-                    />
-                  </ClientOnly>
-                  <button
-                    onClick={() => setShowQR(false)}
-                    className="absolute top-1 right-1 text-gray-400 hover:text-gray-600"
-                  >
-                    ✕
-                  </button>
-                </div>
-              )}
+            {/* 言語切り替え */}
+            <div className="hidden sm:block">
+              <LanguageSwitcher />
+            </div>
+            {/* ダークモード切り替え */}
+            <div className="hidden sm:block">
+              <DarkModeToggle />
             </div>
             {/* GitHubリンク */}
             <a
               href="https://github.com/Coordinate-Cat/OSINT-JAPAN"
               target="_blank"
               rel="noopener noreferrer"
-              className="rounded-lg p-2 transition-colors hover:bg-gray-800"
+              className="rounded-lg p-2 transition-colors hover:bg-white hover:text-[#1c1c1c]"
               title="GitHub"
             >
               <svg className="h-5 w-5" fill="currentColor" viewBox="0 0 20 20">
@@ -117,14 +85,6 @@ export function Header() {
                 />
               </svg>
             </a>
-            {/* 言語切り替え */}
-            <div className="hidden sm:block">
-              <LanguageSwitcher />
-            </div>
-            {/* ダークモード切り替え */}
-            <div className="hidden sm:block">
-              <DarkModeToggle />
-            </div>
           </div>
         </div>
       </div>
