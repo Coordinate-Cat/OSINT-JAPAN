@@ -39,7 +39,7 @@ export default function Home() {
               </div>
             </div>
 
-            <p className="mb-8 max-w-3xl text-lg text-gray-300">
+            <p className="mb-8 text-lg text-gray-300">
               {t(
                 "home.description",
                 "Electronic scientific library of open access OSINT tools. The site catalog is regularly overgrown with tools of articles from various scientific publications. Grouped by journals and headings.",
