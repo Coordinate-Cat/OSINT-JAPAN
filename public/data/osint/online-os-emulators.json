@@ -1,0 +1,20 @@
+{
+  "title": "Online OS Emulators",
+  "slug": "online-os-emulators",
+  "sections": [
+    {
+      "name": "OS Emulation Tools",
+      "slug": "os-emulation-tools",
+      "tools": [
+        {
+          "link": "https://www.onworks.net/runos/create-os.html?os=win10_emulator&home=init",
+          "description": "Windows 10 Online Emulator"
+        },
+        {
+          "link": "https://www.onworks.net/os-distributions/special-os/free-parrot-security-os-online",
+          "description": "Parrot Security OS Online Emulator"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "title": "Phone numbers",
+  "slug": "phone-numbers",
+  "sections": [
+    {
+      "name": "Phone Number Investigation Tools",
+      "slug": "phone-number-investigation-tools",
+      "tools": [
+        {
+          "link": "https://www.loc.gov/collections/united-states-telephone-directory-collection/",
+          "description": "USA Telephone Directory Collection - 3512 of paper \"yellow\" and \"white\" pages available for download in PDF published from 1887 to 1987"
+        },
+        {
+          "link": "http://www.oldphonebook.com/",
+          "description": "Oldphonebook - USA phonenumbers database from 1994 to 2014"
+        },
+        {
+          "link": "https://github.com/s41r4j/phomber",
+          "description": "Phomber - Get information about phone number with command line."
+        },
+        {
+          "link": "https://numverify.com/",
+          "description": "Numverify API - free api for global phone number lookup and validation"
+        },
+        {
+          "link": "https://github.com/Lexxrt/FireFly",
+          "description": "FireFly - Get information about phone number using Numverify API"
+        },
+        {
+          "link": "https://github.com/spider863644/PhoneNumber-OSINT",
+          "description": "PhoneNumber OSINT - Simple tool for gathering basic information about phone numbers (country code, timezone, provider)"
+        }
+      ]
+    }
+  ]
+}

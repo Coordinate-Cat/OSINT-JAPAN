@@ -1,0 +1,52 @@
+{
+  "title": "Cryptocurrencies",
+  "slug": "cryptocurrencies",
+  "sections": [
+    {
+      "name": "Cryptocurrency Investigation Tools",
+      "slug": "cryptocurrency-investigation-tools",
+      "tools": [
+        {
+          "link": "https://www.walletexplorer.com/",
+          "description": "bitcoin wallet transaction history"
+        },
+        {
+          "link": "https://blockpath.com/",
+          "description": "viewing bitcoin wallet transactions as a graph"
+        },
+        {
+          "link": "https://cryptocurrencyalerting.com/",
+          "description": "track spending and deposits in Bitcoin and Ethereum wallets"
+        },
+        {
+          "link": "https://learnmeabitcoin.com/tools/path/",
+          "description": "find transactions between two Bitcoin adresses"
+        },
+        {
+          "link": "https://coinwink.com/",
+          "description": "allows you to set up email notifications in case Bitcoin (or other #cryptocurrency) rate rises (falls) above (below) a certain value"
+        },
+        {
+          "link": "https://blockcypher.herokuapp.com/",
+          "description": "Blockchain explorer for Bitcoin, Ethereum, Litecoin, DogeCoin, Dash. Getting into about address, transactions and block hashes, block number or wallet name."
+        },
+        {
+          "link": "https://www.bitcoinabuse.com/",
+          "description": "A simple tool to check whether a Bitcoin address has been used for ransomware, blackmailers, fraudsters and view incident reports."
+        },
+        {
+          "link": "https://www.breadcrumbs.app/",
+          "description": "Enter your BTC or ETH wallet number to see a graph of associated wallets (with transaction history and lot of other details)."
+        },
+        {
+          "link": "https://github.com/aaarghhh/a_TON_of_privacy",
+          "description": "Tool for OSINT investigations on TON NFTs. Search info (balance, scam status etc) by Telegram nickname, phone number or domain."
+        },
+        {
+          "link": "https://www.walletlabels.xyz/",
+          "description": "Search across more than 7.5M #Ethereum addresses labeled to easily identify wallets and exchange"
+        }
+      ]
+    }
+  ]
+}

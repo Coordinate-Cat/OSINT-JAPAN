@@ -1,0 +1,44 @@
+{
+  "title": "Movies",
+  "slug": "movies",
+  "sections": [
+    {
+      "name": "Movie Search Tools",
+      "slug": "movie-search-tools",
+      "tools": [
+        {
+          "link": "https://reelgood.com/",
+          "description": "Reelgood.com - search engine for more than 300 free and paid streaming services (Netflix, Amazon Prime Video, HBO, BBC, DisneyPlus)"
+        },
+        {
+          "link": "http://imcdb.org",
+          "description": "IMCDB - Internet Movie Cars Database"
+        },
+        {
+          "link": "https://frinkiac.com/",
+          "description": "Sympsons screencaps search"
+        },
+        {
+          "link": "https://morbotron.com/",
+          "description": "Search Futuruma screencaps"
+        },
+        {
+          "link": "https://masterofallscience.com/",
+          "description": "Rick and Morty screencaps search"
+        },
+        {
+          "link": "http://www.subzin.com/",
+          "description": "Subzin.com - by one phrase will find the movie, as well as the full text of the dialogue with the timing"
+        },
+        {
+          "link": "https://www.doesthedogdie.com/",
+          "description": "Doesthedogdie - This is an ingenious site that lets you find out if a movie (video game) has scenes that might upset someone (death of dogs, cats and horses, animal abuse, domestic violence etc)."
+        },
+        {
+          "link": "https://playphrase.me/",
+          "description": "PlayPhrase - Search across 7 million + phrase from movies and watch fragments in which this3 phrase is spoken."
+        }
+      ]
+    }
+  ]
+}

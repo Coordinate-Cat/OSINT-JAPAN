@@ -1,0 +1,124 @@
+{
+  "title": "Messengers",
+  "slug": "messengers",
+  "sections": [
+    {
+      "name": "Telegram",
+      "slug": "telegram",
+      "tools": [
+        {
+          "link": "https://cse.google.com/cse?q=+&cx=006368593537057042503:efxu7xprihg#gsc.tab=0&gsc.q=%20&gsc.page=1",
+          "description": "Telegram search engine"
+        },
+        {
+          "link": "https://cse.google.com/cse?cx=006368593537057042503:ig4r3rz35qi#gsc.tab=0",
+          "description": "search by Telegram comments"
+        },
+        {
+          "link": "https://github.com/zqtay/Telegram-Message-Analyzer",
+          "description": "Export #Telegram chat (with Windows version of Telegram app) and get detailed analyze of it (message count, average message count per day, word frequency etc)"
+        },
+        {
+          "link": "https://t.me/SangMataInfo_bot",
+          "description": "forward a message from the user and find out the history of their name in Telegram"
+        },
+        {
+          "link": "https://t.me/tgscanrobot",
+          "description": "telegram bot to show which telegram groups a person is member of."
+        },
+        {
+          "link": "https://t.me/telebrellabot",
+          "description": "telegram bot to show which telegram groups a person is member of (users in DB: 4019357, groups in DB: 1745)."
+        },
+        {
+          "link": "https://github.com/tejado/telegram-nearby-map",
+          "description": "Discover the location of nearby Telegram users on OpenStreetMap"
+        },
+        {
+          "link": "https://github.com/pielco11/telescan",
+          "description": "search users in groups (and in which groups is the user) by id, username or phone number (if it's in your contacts)"
+        },
+        {
+          "link": "https://tgstat.com",
+          "description": "one of the largest directories of Telegram channels, which has detailed information about the growth of the audience, its engagement and mentions of a particular channel in various sources."
+        },
+        {
+          "link": "https://telegcrack.com/",
+          "description": "search in telegra.ph"
+        },
+        {
+          "link": "https://t.me/VoiceMsgBot",
+          "description": "telegram bot to which you can send voice messages and it converts them into text"
+        },
+        {
+          "link": "https://t.me/transcriber_bot",
+          "description": "telegram bot, which can convert to text voice messages in 24 languages (view pic)"
+        },
+        {
+          "link": "https://telegramchannels.me/list/biggest?language=en",
+          "description": "Ratings of the 100 largest (by number of subscribers) #Telegram channels for different languages"
+        },
+        {
+          "link": "https://t.me/YTranslateBot",
+          "description": "type text or resend messages to Telegram bot for translate it."
+        }
+      ]
+    },
+    {
+      "name": "WhatsApp",
+      "slug": "whatsapp",
+      "tools": [
+        {
+          "link": "https://Whatsanalyze.com",
+          "description": "analyzes #WhatsApp group message statistics (world cloud, timeline, message frequency)"
+        },
+        {
+          "link": "https://chatvisualizer.com",
+          "description": "another #WhatsApp chat analyzer."
+        },
+        {
+          "link": "https://watools.io/download-profile-picture",
+          "description": "download whatsapp profile picture"
+        },
+        {
+          "link": "https://github.com/riz4d/WaGpScraper",
+          "description": "Scraps Whatsapp Group Links From Google Results And Gives Working Links (with group names and images)"
+        }
+      ]
+    },
+    {
+      "name": "Kik",
+      "slug": "kik",
+      "tools": [
+        {
+          "link": "https://kikusernames.com/search",
+          "description": "Kik messenger username search"
+        }
+      ]
+    },
+    {
+      "name": "Slack",
+      "slug": "slack",
+      "tools": [
+        {
+          "link": "https://github.com/emtunc/SlackPirate",
+          "description": "tool developed in Python which uses the native Slack APIs to extract 'interesting' information from a Slack workspace given an access token"
+        }
+      ]
+    },
+    {
+      "name": "Skype",
+      "slug": "skype",
+      "tools": [
+        {
+          "link": "https://www.vedbex.com/tools/email2skype",
+          "description": "finding a Skype account by email"
+        },
+        {
+          "link": "https://github.com/8C/skypehunt",
+          "description": "A tool for finding Skype users by nickname. Shows a list of users with date of birth, year of account creation, country, avatar link, and other information."
+        }
+      ]
+    }
+  ]
+}

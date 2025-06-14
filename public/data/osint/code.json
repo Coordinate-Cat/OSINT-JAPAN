@@ -1,0 +1,164 @@
+{
+  "title": "Code",
+  "slug": "code",
+  "sections": [
+    {
+      "name": "Code Search and Analysis",
+      "slug": "code-search-analysis",
+      "tools": [
+        {
+          "link": "https://grep.app/",
+          "description": "regExp search in Github repositories"
+        },
+        {
+          "link": "https://searchcode.com/",
+          "description": "Search engine for @github, @gitlab, @bitbucket, @GoogleCode and other source code storages"
+        },
+        {
+          "link": "https://cipher387.github.io/code_repository_google_custom_search_engines/",
+          "description": "Google CSE for search 15 code repository services"
+        },
+        {
+          "link": "https://libraries.io",
+          "description": "search by 4 690 628 packages across 32 different package managers"
+        },
+        {
+          "link": "https://github.com/champmq/TheScrapper",
+          "description": "Simple tool for scrapping emails and social media accounts from the website's source code."
+        },
+        {
+          "link": "https://github.com/jordanpotti/CloudScraper",
+          "description": "Scrape URL's of the target website and find links to cloud resources: Amazonaws, Digitaloceanspaces, Azure (windows net), Storage.googleapis, Aliyuncs"
+        },
+        {
+          "link": "https://freemailscraper.herokuapp.com/complete-website-email-scraper",
+          "description": "Paste the link to the site and the bot finds the sitemap. The bot then goes through all the links on the site looking for email addresses (strings contains @)."
+        },
+        {
+          "link": "https://extendsclass.com/python-tester.html",
+          "description": "quick find errors in code"
+        },
+        {
+          "link": "https://github.com/gwen001/github-search",
+          "description": "collection of Github investigation command line tools. Explore users, employes, endpoints,surveys and grab the repos"
+        },
+        {
+          "link": "https://sploitus.com/",
+          "description": "exploit and hacker's tools search engine"
+        },
+        {
+          "link": "https://leakcop.info/",
+          "description": "service that monitors in real-time the illegal use of source code from certain repositories on Github"
+        },
+        {
+          "link": "https://github.com/github/github-artifact-exporter",
+          "description": "provides a set of packages to make exporting Issues easier useful for those migrating information out of Github"
+        },
+        {
+          "link": "https://publicwww.com/",
+          "description": "webpages source code search engine"
+        },
+        {
+          "link": "https://beta.sayhello.so/",
+          "description": "#AI Search engine for developers. Type a question (e.g. how to do something) in normal human language and get code examples in response."
+        },
+        {
+          "link": "https://about.sourcegraph.com/",
+          "description": "universal code search engine"
+        },
+        {
+          "link": "https://www.nerdydata.com/",
+          "description": "html/css/code search engine"
+        },
+        {
+          "link": "https://you.com/code",
+          "description": "Add free, privacy source code search engine with popular tech sites snippets in search results: Mozilla Developer Network; Github; W3 Schools; Hacker News; Read the Docs; Geek for Geeks"
+        },
+        {
+          "link": "https://lelinhtinh.github.io/de4js/",
+          "description": "HTML/JS deobfuscator"
+        },
+        {
+          "link": "https://tio.run",
+          "description": "Run and test code written in one of 680 programming languages (260 practical and 420 recreational) directly in your browser"
+        },
+        {
+          "link": "https://explainshell.com/",
+          "description": "this site will help you quickly understand terminal commands-lines from articles, manuals, and tutorials"
+        },
+        {
+          "link": "https://codesandbox.io/",
+          "description": "Great online environment for creating, testing, and researching written JavaScript tools (and #OSINT has many: social-analyzer, opencti, rengine, aleph)."
+        },
+        {
+          "link": "https://www.shellcheck.net/",
+          "description": "analyzes command-line scripts and explains in detail the errors found in them"
+        },
+        {
+          "link": "https://xenon.stanford.edu/~xusch/regexp/",
+          "description": "super tool for those who forget to leave comments on their code or have to deal with someone else's code."
+        },
+        {
+          "link": "https://chrome.google.com/webstore/detail/developer-search-tool/bkolnanfonknnhpeakommihhllojnecf/related",
+          "description": "Take the art of copy and paste from Stack Overflow to a new level of speed and productivity"
+        },
+        {
+          "link": "https://github.com/httpcats/http.cat",
+          "description": "free #API to get pictures with cats for different HTTP response codes"
+        },
+        {
+          "link": "https://www.functions-online.com/",
+          "description": ""
+        },
+        {
+          "link": "https://httpie.io/run",
+          "description": "command-line HTTP client"
+        },
+        {
+          "link": "https://brew.sh/",
+          "description": ""
+        },
+        {
+          "link": "https://gitpod.io/workspaces",
+          "description": "run code from repositories on Github directly in a browser"
+        },
+        {
+          "link": "https://github.com/feross/thanks",
+          "description": "A simple script that analyzes the #opensource products used in your project and displays a list of links to pages for financial support for their developers."
+        },
+        {
+          "link": "https://github.com/nvbn/thefuck",
+          "description": "Simple app which corrects your previous console commands."
+        },
+        {
+          "link": "https://api-guesser.netlify.app/",
+          "description": "Enter the API key or token to find out which service it can be used by."
+        },
+        {
+          "link": "https://github.com/chubin/cheat.sh",
+          "description": "Timesaving tool that allows cheat sheets to be loaded directly into the command line (or Sublime Text/IntelliJ IDEA) using the curl command (run after installation)."
+        },
+        {
+          "link": "https://www.digitalocean.com/community/tools/nginx",
+          "description": "Online tool to configure stable and secure #nginx server. Select the options and then download the config files."
+        },
+        {
+          "link": "https://www.digitalocean.com/community/tools/spf",
+          "description": "Simple online tool that explain in details Sender Policy Framework (email authentication standard) record of target domain."
+        },
+        {
+          "link": "https://github.com/tldr-pages/tldr",
+          "description": "A tool that is a great time-saver when working with the command line. Enter \"tldr command name\" and get a brief description with examples of how to use it."
+        },
+        {
+          "link": "https://awk.js.org/",
+          "description": "AWK (script language) is a powerful command line tool for extracting data from texts and auto generating texts. For those who don't use CLI yet (or just want to solve some problem without leaving browser) a good alternative is an online version of awk."
+        },
+        {
+          "link": "https://pldb.com/",
+          "description": "A huge knowledge base of 4050 programming languages. For each language you can see its place in the ranking, the number of users and repositories, the history of creation, linguistic features + huge lists of books and articles"
+        }
+      ]
+    }
+  ]
+}

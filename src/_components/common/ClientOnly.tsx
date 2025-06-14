@@ -21,7 +21,7 @@ export const ClientOnly = ({ children, fallback = null }: ClientOnlyProps) => {
   // フォールバックがある場合は常に同じDOM構造を維持
   if (fallback) {
     return (
-      <div className={hasMounted ? "" : "opacity-0 pointer-events-none"}>
+      <div className={hasMounted ? "" : "pointer-events-none opacity-0"}>
         {hasMounted ? children : fallback}
       </div>
     );

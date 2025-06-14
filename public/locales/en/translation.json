@@ -1,8 +1,5 @@
 {
   "welcome": "Welcome to our app!",
-  "home": {
-    "title": "Home"
-  },
   "notFound": {
     "title": "Page Not Found",
     "message": "This page does not exist.",
@@ -29,6 +26,49 @@
     "description2": "Including osint information and tools about japan. Approaches to non-japanese speaking countries.",
     "languageTitle": "Change language",
     "qrCodeTitle": "QR code for this site",
-    "darkModeTitle": "Dark Mode"
+    "darkModeTitle": "Dark Mode",
+    "osintResourcesTitle": "OSINT Resources",
+    "osintResourcesDescription": "Select a category of OSINT tools to use for investigation"
+  },
+  "osint": {
+    "searchPlaceholder": "Search tools...",
+    "noToolsFound": "No matching tools found",
+    "categoryDescription": "Detailed list of OSINT tools. Use the search function to find the tools you need.",
+    "popularSections": "POPULAR SECTIONS",
+    "allCategories": "ALL CATEGORIES",
+    "categories": {
+      "maps-geolocation-transport": "Maps, Geolocation & Transport",
+      "social-media": "Social Media",
+      "domain-ip-links": "Domain, IP & Links",
+      "image-search-identification": "Image Search & Identification",
+      "cryptocurrencies": "Cryptocurrencies",
+      "messengers": "Messengers",
+      "code": "Code",
+      "search-engines": "Search Engines",
+      "passwords": "Passwords",
+      "emails": "Emails"
+    }
+  },
+  "common": {
+    "back": "Back",
+    "search": "Search",
+    "loading": "Loading...",
+    "error": "Error"
+  },
+  "header": {
+    "searchPlaceholder": "Search OSINT tools..."
+  },
+  "home": {
+    "subtitle": "- this is a numerous collection of various OSINT tools",
+    "description": "A comprehensive collection of OSINT tools and resources for investigation and research purposes.",
+    "goToTools": "Go to tools"
+  },
+  "footer": {
+    "about": "About OSINT Japan",
+    "description": "A comprehensive collection of OSINT tools and resources for investigation and research purposes.",
+    "stats": "Statistics",
+    "totalCategories": "46 Categories",
+    "totalTools": "1000+ Tools",
+    "contact": "Contact"
   }
 }

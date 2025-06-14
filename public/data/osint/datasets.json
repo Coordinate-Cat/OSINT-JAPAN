@@ -1,0 +1,36 @@
+{
+  "title": "Datasets",
+  "slug": "datasets",
+  "sections": [
+    {
+      "name": "Research Datasets",
+      "slug": "research-datasets",
+      "tools": [
+        {
+          "link": "https://afrobarometer.org/online-data-analysis/analyse-online",
+          "description": "Afrobarometer - huge database of the results of sociological surveys conducted in African countries over the last 20 years"
+        },
+        {
+          "link": "https://www.arabbarometer.org/survey-data/data-analysis-tool/",
+          "description": "Arabbarometer - database of the results of sociological surveys conducted in the Arab countries of Africa and the Middle East in 2007-2018"
+        },
+        {
+          "link": "https://dataset.domainsproject.org/",
+          "description": "dataset.domainsproject.org - dataset of 616 millions domains (16GB!)"
+        },
+        {
+          "link": "https://stevemorse.org/ssdi/ssdi.html",
+          "description": "Stevemorse.org - Searching the Social Security Death Index"
+        },
+        {
+          "link": "https://ukcensusonline.com/search/",
+          "description": "UK Census Online - Database of deaths, births, and marriages. From 1841 to the beginning of the 21st century. Only the first and last names can be searched."
+        },
+        {
+          "link": "https://variable-search.ipums.org/#/",
+          "description": "IPUMS Variable Search - A service for finding variables in data from sociological surveys in 157 countries from 1960 to 2022. You can find completely rare and surprising things there, like a survey to count the number of bananaboat owners in Zambia."
+        }
+      ]
+    }
+  ]
+}

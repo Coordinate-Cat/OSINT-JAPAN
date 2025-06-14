@@ -1,0 +1,104 @@
+{
+  "title": "Universal Contact Search and Leaks Search",
+  "slug": "universal-contact-search-leaks",
+  "sections": [
+    {
+      "name": "Universal Search Tools",
+      "slug": "universal-search-tools",
+      "tools": [
+        {
+          "link": "https://github.com/TheRealDalunacrobate/DaProfiler",
+          "description": "DaProfiler - Get emails, social medias, adresses of peoples using web scraping and google dorking"
+        },
+        {
+          "link": "https://www.signalhire.com/candidates/47dc037faace4abeb0727d6f4d0f3079",
+          "description": "SingleHire - Tool for search contacts by full name, location and job title. Shows phones, emails, Linkedin, Facebook, Twitter and other social media profile"
+        },
+        {
+          "link": "https://github.com/qeeqbox/social-analyzer",
+          "description": "Social Analyzer - tool for searching nickname profiles on more than 300 sites"
+        },
+        {
+          "link": "http://sovaweb.herokuapp.com/",
+          "description": "SovaWeb - web version of a famous Russian bot in Telegram for searching by email, nickname, IMSI, IMEI, MSISDN, BTS, IP, BSSID"
+        },
+        {
+          "link": "https://www.behindthename.com",
+          "description": "BehindTheNames - when conducting an in-depth search for information about a person, it is important to check the different pronunciations of their name and diminutives. This service will help you find them"
+        },
+        {
+          "link": "https://cipher387.github.io/pastebinsearchengines/",
+          "description": "My CSE for search in 48 pastebin sites"
+        },
+        {
+          "link": "https://psbdmp.ws",
+          "description": "Psbdmp.ws - search sensitive user data by 25 759 511 pastebins"
+        },
+        {
+          "link": "https://cybernews.com/personal-data-leak-check/",
+          "description": "Cybernews RockYour2021 - check if your data has been leaked"
+        },
+        {
+          "link": "https://gofindwho.com/",
+          "description": "GoFindWho People Search - More than 300 tools for gathering information about people in one. Search by name, username, phone, adress, company name."
+        },
+        {
+          "link": "https://thatsthem.com/people-search",
+          "description": "That's them people search"
+        },
+        {
+          "link": "https://anywho.com/",
+          "description": "Anywho - Search for people in USA. Enter first and last name to get age, address, and part of phone number (free)"
+        },
+        {
+          "link": "https://usersearch.org/index.php",
+          "description": "Usersearch.org - search people by nickname, phone or email"
+        },
+        {
+          "link": "http://heritage.statueofliberty.org",
+          "description": "Ellis Island - online searchable database of 65 million arrivals to NewYork between (late 19th and early 20th century)."
+        },
+        {
+          "link": "https://recordsearch.naa.gov.au/SearchNRetrieve/Interface/SearchScreens/PassengerSearch.aspx",
+          "description": "recordsearch.naa.gov.au - National archives of Australia"
+        },
+        {
+          "link": "https://www.spydialer.com/",
+          "description": "SpyDialer - Free search contact information by phone number, name, address or email"
+        },
+        {
+          "link": "https://stevemorse.org/ssn/ssn.html",
+          "description": "Decoding Social Security Numbers in One Step"
+        },
+        {
+          "link": "http://inmateinfo.indy.gov/IML",
+          "description": "Inmate Database Search"
+        },
+        {
+          "link": "http://scamdigger.com/",
+          "description": "Scamdigger.com - search in scammers database by name, IP-adress, email or phone"
+        },
+        {
+          "link": "https://www.cloob.com/profile/search/index",
+          "description": "Cloob.com - Iranian people search"
+        },
+        {
+          "link": "https://slavevoyages.org/resources/names-database",
+          "description": "SlaveVoyages.org - the Trans-Atlantic and Intra-American slave trade databases are the culmination of several decades of independent and collaborative research by scholars drawing upon data in libraries and archives around the Atlantic world."
+        },
+        {
+          "link": "https://data.fei.org/Person/Search.aspx",
+          "description": "FEI Database Person Search - If the person you are researching is related to equestrian sports, check the FEI database for information about him or her. There you can find cards of riders, horse owners, grooms and fans around the world."
+        },
+        {
+          "link": "https://bellingcat.github.io/name-variant-search/#gsc.tab=0",
+          "description": "Name Variant Search - Type in a name and get a list of possible spelling options (+ quick links to Google, DuckDuckGo and Facebook searches for each option)"
+        },
+        {
+          "link": "https://github.com/rohsec/LEAKEY/",
+          "description": "LEAKEY - bash script which checks and validates for leaked credentials (45 types)."
+        }
+      ]
+    }
+  ]
+}

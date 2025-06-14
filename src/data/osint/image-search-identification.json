@@ -1,0 +1,306 @@
+{
+  "title": "Image Search and Identification",
+  "slug": "image-search-identification",
+  "sections": [
+    {
+      "name": "Reverse Image Search Engines and automation tools",
+      "slug": "reverse-image-search-engines-automation-tools",
+      "tools": [
+        {
+          "link": "https://news.myseldon.com/en/",
+          "description": "from the photo looks for famous and little-known (like minor officials) people"
+        },
+        {
+          "link": "http://ascii2d.net",
+          "description": "Japanese reverse image search engine for anime lovers expose image properties, EXIF data, and one-click download"
+        },
+        {
+          "link": "https://searchbyimage.app/",
+          "description": "search clothes in online shops"
+        },
+        {
+          "link": "https://www.aliseeks.com/search",
+          "description": "search items by photo in AliExpress and Ebay"
+        },
+        {
+          "link": "https://lykdat.com/",
+          "description": "clothing reverse image search services"
+        },
+        {
+          "link": "https://iqdb.org/",
+          "description": "reverse image search specially for anime art"
+        },
+        {
+          "link": "https://pic.sogou.com/",
+          "description": "chinese reverse image search engine"
+        },
+        {
+          "link": "https://same.energy/",
+          "description": "reverse image search engine for finding beautiful art and photos in the same style as the original picture"
+        },
+        {
+          "link": "https://revesesearch.com",
+          "description": "allows to upload an image once and immediately search for it in #Google, #Yandex, and #Bing."
+        },
+        {
+          "link": "https://chrome.google.com/webstore/detail/image-search-assistant/kldhhobmmejaeaiilomaibhjlcfpceac/related",
+          "description": "searches for a picture, screenshot or fragment of a screenshot in several search engines and stores at once"
+        },
+        {
+          "link": "https://pixsy.com",
+          "description": "allows to upload pictures from computer, social networks or cloud storages, and then search for their duplicates and check if they are copyrighted"
+        },
+        {
+          "link": "https://www.everypixel.com/",
+          "description": "Reverse image search engine. Search across 50 leading stock images agencies. It's possible to filter only free or only paid images."
+        },
+        {
+          "link": "https://openi.nlm.nih.gov/gridquery",
+          "description": "Reverse image search engine for scientific and medical images"
+        },
+        {
+          "link": "https://ru.depositphotos.com/search/by-images.html",
+          "description": "tool for reverse image search (strictly from DepositPhoto's collection of 222 million files)."
+        },
+        {
+          "link": "http://zeus.robots.ox.ac.uk/portraitmatcher/index?error=agree",
+          "description": "Upload a picture of a face and get three paintings that show similar people."
+        },
+        {
+          "link": "https://image.so.com/",
+          "description": "Qihoo 360 Reverse Images Search"
+        },
+        {
+          "link": "https://github.com/tanaikech/goris",
+          "description": "Command line tool for Google reverse image search automation. It can find links to similar pictures by URL or by file."
+        },
+        {
+          "link": "https://www.webmd.com/pill-identification/default.htm",
+          "description": "How to know which pill drug is pictured or accidentally found on the floor of your home? Use a special online identifier that suggests possible variations based on colour, shape and imprint."
+        },
+        {
+          "link": "http://www.logobook.com/",
+          "description": "help to see which companies have a logo that looks like a certain object. You can use the suggested variants to geolocate photo."
+        },
+        {
+          "link": "http://immerse.zone",
+          "description": "Reverse Image Search Engine. Search by uploaded image or URl; Search by sketch (it can be drawn directly in the browser); Search by quote (can be selected from the catalog)"
+        },
+        {
+          "link": "https://lexica.art/",
+          "description": "Download the image to find thousands Stable Diffusion AI artworks that are as similar to it as possible. You can also search by description and keywords."
+        },
+        {
+          "link": "https://www.numlookup.com/reverse-image-search",
+          "description": "The results are very different from Yandex Images and Google Lens search results, as the service only searches for links to exact matches with the original picture."
+        },
+        {
+          "link": "https://googlelens.imagesniper.eu/",
+          "description": "Google lens is not too user friendly for investigations. But this tool will help you get back to the old Google Image Search. (in case of problems, upload images to http://Postimages.org)"
+        }
+      ]
+    },
+    {
+      "name": "Image editing tools",
+      "slug": "image-editing-tools",
+      "tools": [
+        {
+          "link": "https://theinpaint.com/",
+          "description": "One of the best (and free) online photo object removal tools I've ever seen. Just highlight red on the photo and press Erase. Then do it again, and again, and again (until you get the perfect result)."
+        },
+        {
+          "link": "https://replicate.com/tencentarc/gfpgan",
+          "description": "Blind face restoration algorithm towards real-world face images. Restores blurry, blurred and damaged faces in photos."
+        },
+        {
+          "link": "https://app.remini.ai/",
+          "description": "Tool allows to restore blurry faces to photos."
+        },
+        {
+          "link": "https://letsenhance.io/",
+          "description": "Online #AI tool to increase image resolution (x2, x4, x8) without quality loss. 100% automatic. Very fast."
+        },
+        {
+          "link": "https://www.media.io/app/removeWatermark",
+          "description": "Select the area and mark the time frame in which you want to remove the object. Works for barely visible watermarks as well as for bright and large objects."
+        },
+        {
+          "link": "https://www.remove.bg/",
+          "description": "Remove background from image with AI"
+        },
+        {
+          "link": "https://www.watermarkremover.io/",
+          "description": "Remove watermark from image with AI"
+        },
+        {
+          "link": "https://huggingface.co/spaces/timbrooks/instruct-pix2pix",
+          "description": "Image editing with prompt"
+        }
+      ]
+    },
+    {
+      "name": "Image Analyze",
+      "slug": "image-analyze",
+      "tools": [
+        {
+          "link": "https://www.aperisolve.com/",
+          "description": "Online steganography tool: PngCheck,Strings,Foremost,Binwalk,ExifTool,Outguess,Steghide,Zsteg,Blue/Green/Red/Superimposed"
+        },
+        {
+          "link": "http://github.com/GuidoBartoli/sherloq",
+          "description": "open source image #forensic toolset made by profesional photograph Guido Bartoli"
+        },
+        {
+          "link": "https://imagecolorpicker.com/",
+          "description": "pick color (HEX or RGB) from image or website screenshot"
+        },
+        {
+          "link": "https://www.blocklayer.com/scale-fixereng.aspx",
+          "description": ""
+        },
+        {
+          "link": "http://www.imageforensic.org/",
+          "description": ""
+        },
+        {
+          "link": "https://compress-or-die.com/analyze",
+          "description": "get detail information about images (exif, metatags, ICC_Profile, quantanisation tables)"
+        },
+        {
+          "link": "https://aperisolve.fr",
+          "description": "Deep image layers (Supperimposed, Red, Green, Blue) and properties (Zsteg, Steghide, Outguess, Exif, Binwalk, Foremost) analyze tool."
+        },
+        {
+          "link": "https://www.imaios.com/en/Imaios-Dicom-Viewer",
+          "description": "view MRI or CT photo online (.DCM files)"
+        },
+        {
+          "link": "https://www.caloriemama.ai/api",
+          "description": "AI can identify the type of food from the photo and give information about its caloric value."
+        },
+        {
+          "link": "https://chrome.google.com/webstore/detail/betterviewer/llcpfkbjgkpmapiidpnohffjmmnhpmpb",
+          "description": "#Google Chrome extension for work with images. Right click on the picture and open it in new tab. You will get access to the following tools: Zoom, Flip, Rotate, Color picker, Extract text, Reverse image search, QR code scanner and much more"
+        },
+        {
+          "link": "https://chrome.google.com/webstore/detail/photosint/gonhdjmkgfkokhkflfhkbiagbmoolhcd/related?hl=nl",
+          "description": "A simple extension that checks in a couple of seconds if a web page contains images that have not had their exif data deleted."
+        },
+        {
+          "link": "https://chrome.google.com/webstore/detail/perceptual-image-analysis/gidmeabdffonnejjlkbglmppmfniakdf/",
+          "description": "Chrome extension for quick access to image #forensic tools: Metadata Levels Principal Component Analysis Slopes Error Level Analysis"
+        },
+        {
+          "link": "https://platerecognizer.com/",
+          "description": "Online tool to recognise number plates on blurred pictures. Sometimes it may not work accurately, but it is valuable for identifying the country when the flag is not visible."
+        },
+        {
+          "link": "https://www.plugger.ai/models/street-clip",
+          "description": "AI, which determines from a photo the likelihood that it was taken in a particular country. (don't forget to change the list of countries for each photo⚠️)"
+        }
+      ]
+    },
+    {
+      "name": "Exif Analyze and editing",
+      "slug": "exif-analyze-editing",
+      "tools": [
+        {
+          "link": "https://github.com/ianare/exif-py",
+          "description": "get exif data of photos thrue command line"
+        },
+        {
+          "link": "http://exif.app",
+          "description": "Press \"Diff check button\", upload two graphical images and get a comparison table of their metadata. The differences are highlighted in yellow"
+        },
+        {
+          "link": "https://chrome.google.com/webstore/detail/image-analyzer/bgadhpbbppdihhbfcjbbihfcckbblcek",
+          "description": "View all images on a page and expose image properties, EXIF data, and one-click download"
+        },
+        {
+          "link": "https://products.groupdocs.app/metadata/",
+          "description": "High-quality and well-made. Support docx, xlsx, msg, pptx, jpeg, vsd, mpp."
+        },
+        {
+          "link": "https://4qrcode.com/scan-qr-code.php",
+          "description": "While determining the location of the photo, sometimes the research of QR codes on the road poles, showcases and billboards helps a lot. This service will help to recognize a QR-code by a picture"
+        },
+        {
+          "link": "https://identify.plantnet.org/",
+          "description": ""
+        },
+        {
+          "link": "https://www.forensicdots.de/",
+          "description": "find \"yellow dots\" (Machine Identification Code) in printed documents"
+        },
+        {
+          "link": "https://www.diffchecker.com/image-diff/",
+          "description": ""
+        },
+        {
+          "link": "https://vsudo.net/tools/geotag",
+          "description": "tool for mass geotagging of photos"
+        },
+        {
+          "link": "https://github.com/aydinnyunus/exifLooter",
+          "description": "Quick #go tool to automate work with EXIF data"
+        },
+        {
+          "link": "https://github.com/m8sec/pymeta",
+          "description": "A tool that searches (using Google, Bing etc.) for documents in the domain, analyses their metadata and generate a report in CSV format."
+        }
+      ]
+    },
+    {
+      "name": "Face recognition and search",
+      "slug": "face-recognition-search",
+      "tools": [
+        {
+          "link": "https://github.com/ageitgey/face_recognition",
+          "description": "facial recognition api for Python and the command line"
+        },
+        {
+          "link": "http://facemaker.uvrg.org/",
+          "description": ""
+        },
+        {
+          "link": "https://search4faces.com/",
+          "description": "search people in VK, Odnoklassniki, TikTok and ClubHouse by photo or identikit"
+        },
+        {
+          "link": "https://t.me/facematch_bot",
+          "description": "searching for a face among the archive of photographs from public events in Kazakhstan"
+        }
+      ]
+    },
+    {
+      "name": "Font Identification",
+      "slug": "font-identification",
+      "tools": [
+        {
+          "link": "https://www.myfonts.com/WhatTheFont/",
+          "description": ""
+        },
+        {
+          "link": "https://www.whatfontis.com/",
+          "description": ""
+        },
+        {
+          "link": "https://www.fontsquirrel.com/matcherator",
+          "description": ""
+        },
+        {
+          "link": "https://www.fontspring.com/matcherator",
+          "description": ""
+        },
+        {
+          "link": "http://www.identifont.com/",
+          "description": ""
+        },
+        {
+          "link": "https://en.likefont.com/",
+          "description": ""
+        }
+      ]
+    }
+  ]
+}

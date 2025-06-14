@@ -1,0 +1,24 @@
+{
+  "title": "Brand/trademark information search",
+  "slug": "brand-trademark-information-search",
+  "sections": [
+    {
+      "name": "Trademark Search Tools",
+      "slug": "trademark-search-tools",
+      "tools": [
+        {
+          "link": "https://www3.wipo.int/branddb/en/",
+          "description": "WIPO.int - Global Brands Database (46,020,000 records)"
+        },
+        {
+          "link": "https://www.tmdn.org/tmdsview-web/",
+          "description": "TMDN Design View - Search 17 684 046 products designs across the European Union and beyond"
+        },
+        {
+          "link": "https://tmsearch.uspto.gov/bin/gate.exe?f=login&p_lang=english&p_d=trmk",
+          "description": "TESS - Search engine for USA trademarks"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Apps and programs",
+  "slug": "apps-programs",
+  "sections": [
+    {
+      "name": "App Store Analysis Tools",
+      "slug": "app-store-analysis-tools",
+      "tools": [
+        {
+          "link": "https://github.com/facundoolano/google-play-scraper",
+          "description": "Google Play Scraper - get the most detailed metadata about the app from Google Play Store"
+        },
+        {
+          "link": "https://github.com/facundoolano/app-store-scraper",
+          "description": "App Store Scraper - get the most detailed metadata about the app from AppStore"
+        }
+      ]
+    }
+  ]
+}

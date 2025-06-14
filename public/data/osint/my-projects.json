@@ -1,0 +1,52 @@
+{
+  "title": "My Projects",
+  "slug": "my-projects",
+  "sections": [
+    {
+      "name": "Creator's OSINT Projects",
+      "slug": "creators-osint-projects",
+      "tools": [
+        {
+          "link": "https://github.com/cipher387/Python-osint-automation-examples",
+          "description": "Python OSINT automation examples - In this repository, I will collect quick and simple code examples that use Python to automate various osint tasks."
+        },
+        {
+          "link": "https://cipher387.github.io/osintmap/",
+          "description": "Worldwide OSINT Tools Map"
+        },
+        {
+          "link": "https://cipher387.github.io/hashtags_and_keywords_social_media_quick_search/",
+          "description": "Quick hashtags and keywords search"
+        },
+        {
+          "link": "https://cipher387.github.io/quickgeolocationsearch/",
+          "description": "Quick geolocation search"
+        },
+        {
+          "link": "https://cipher387.github.io/phonenumberqueryconstructor/",
+          "description": "Phone Number Search Constructor"
+        },
+        {
+          "link": "https://cipher387.github.io/domain_investigation_toolbox/",
+          "description": "Domain Investigation Toolbox"
+        },
+        {
+          "link": "https://cipher387.github.io/domain_investigation_toolbox/ip.html",
+          "description": "IP adress Investigation Toolbox"
+        },
+        {
+          "link": "https://cipher387.github.io/quickcacheandarchivesearch/",
+          "description": "Quick Cache and Archive search"
+        },
+        {
+          "link": "https://github.com/cipher387/grep_for_osint",
+          "description": "Grep for OSINT - Set of very simple shell scripts that will help you quickly analyze a text or a folder with files for data useful for investigation (phone numbers, bank card numbers, URLs, emails"
+        },
+        {
+          "link": "https://cipher387.github.io/pastebinsearchengines/",
+          "description": "5 Google Custom Search Engine for search 48 pastebin sites"
+        }
+      ]
+    }
+  ]
+}

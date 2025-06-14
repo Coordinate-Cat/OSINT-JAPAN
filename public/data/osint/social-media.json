@@ -1,0 +1,614 @@
+{
+  "title": "Social Media",
+  "slug": "social-media",
+  "sections": [
+    {
+      "name": "Twitter",
+      "slug": "twitter",
+      "tools": [
+        {
+          "link": "https://github.com/markowanga/stweet",
+          "description": "Opensource Python library for scraping tweets (by user, by hashtag, by keyword). NO LOGIN OR API KEY REQUIRED."
+        },
+        {
+          "link": "https://birdhunt.co/",
+          "description": "A very simple tool that allows you to select a geolocation/radius and get a list of recent tweets made in that place."
+        },
+        {
+          "link": "https://chrome.google.com/webstore/detail/twitter-account-detector/papcdbgfejihdinhieggiamjnkclhkck/related",
+          "description": "A simple and fast Chrome extension that finds all Twitter accounts on a site."
+        },
+        {
+          "link": "https://followerwonk.com/compare/",
+          "description": "this service allows you to find out how many followers two (or three) Twitter accounts have in common."
+        },
+        {
+          "link": "https://tweepsmap.com/dash/unfollows",
+          "description": "displayed unsubscribed accounts (list for the one week available for free)"
+        },
+        {
+          "link": "https://app.truthnest.com/",
+          "description": "best tool for Twitter account investigation"
+        },
+        {
+          "link": "https://en.whotwi.com/",
+          "description": "A free online tool for analysing your #Twitter account: - shows the mutual following; - search for tweets by calendar; - list of most active readers; - analysis of daily activity, hashtags and more."
+        },
+        {
+          "link": "https://treeverse.app",
+          "description": "view dialogs in Twitter as a graph"
+        },
+        {
+          "link": "https://hashtagify.me/",
+          "description": "compare the popularity of the two hashtags"
+        },
+        {
+          "link": "https://www.scoutzen.com/twitter-lists/search",
+          "description": "search twitter lists by keywords"
+        },
+        {
+          "link": "https://onemilliontweetmap.com/",
+          "description": ""
+        },
+        {
+          "link": "https://www.tweetbinder.com/",
+          "description": "detailed twitter account analyze"
+        },
+        {
+          "link": "https://www.csc2.ncsu.edu/faculty/healey/tweet_viz/tweet_app/",
+          "description": ""
+        },
+        {
+          "link": "https://tweetbeaver.com/friendsfollowing.php",
+          "description": ""
+        },
+        {
+          "link": "http://tweettopicexplorer.neoformix.com/#n=NYTimes",
+          "description": ""
+        },
+        {
+          "link": "https://influencermarketinghub.com/twitter-money-calculator/",
+          "description": ""
+        },
+        {
+          "link": "https://analytics.twitter.com/",
+          "description": "gather detailed infromation about your own account"
+        },
+        {
+          "link": "https://chrome.google.com/webstore/detail/twemex-sidebar-for-twitte/amoldiondpmjdnllknhklocndiibkcoe/related",
+          "description": "Twitter sidebar with: quick commands for searching your own tweets, lists, users tweets and replies; quick links to quotes of current tweet, user's most liked tweets and conversations."
+        },
+        {
+          "link": "https://www.vicinitas.io/free-tools/download-twitter-followers",
+          "description": "very fast export of information about Twitter account followers to XLSX"
+        },
+        {
+          "link": "https://shadowban.yuzurisa.com/",
+          "description": "If you suddenly notice that your account's tweets have decreased in views and the flow of audience has slowed down, it's worth checking to see if your account has been shadow-banned."
+        },
+        {
+          "link": "https://www.twitonomy.com/mentions-map.php",
+          "description": "A world map that shows the locations of users who mention you in their tweets."
+        },
+        {
+          "link": "https://apify.com/zuzka/twitter-url-scraper",
+          "description": "A simple tool for analyzing twitter conversations (and other pages). Get profile pictures, user names and the text of the conversation's tweets and replies. Data can be exported to CSV, JSON, XML."
+        },
+        {
+          "link": "https://doesfollow.com/",
+          "description": "quick check if one user is subscribed to another on Twitter"
+        },
+        {
+          "link": "http://sleepingtime.org/",
+          "description": "determining the approximate sleeping time of a user based on analysis of the timing of a tweet"
+        },
+        {
+          "link": "https://tweettunnel.com/reverse.php",
+          "description": "tool for quick and comfortable viewing old tweet's of someone account"
+        },
+        {
+          "link": "https://twitter.com/i/directory/",
+          "description": ""
+        },
+        {
+          "link": "https://www.followeraudit.com",
+          "description": "In-depth analysis of Twitter followers. Identifies inactive and fake accounts, assesses followers by the number of tweets, profile information (biography, geolocation, links, profile picture)."
+        },
+        {
+          "link": "https://foller.me/",
+          "description": "Twitter account detailed analyze"
+        },
+        {
+          "link": "https://getdaytrends.com/",
+          "description": ""
+        },
+        {
+          "link": "https://us.trend-calendar.com/",
+          "description": ""
+        },
+        {
+          "link": "https://followerwonk.com/bio",
+          "description": "search by Twitter bio"
+        },
+        {
+          "link": "https://botometer.osome.iu.edu/",
+          "description": ""
+        },
+        {
+          "link": "http://projects.noahliebman.net/listcopy/connect.php",
+          "description": "copy a list made by another user to your Twitter account"
+        },
+        {
+          "link": "https://unfollowerstats.com/",
+          "description": "iOS App that tracking unfollowers and show nofollowersback and unactive followers for your Twitter account"
+        },
+        {
+          "link": "https://chrome.google.com/webstore/detail/twish/afpegchfbaddfmenhkajjggbnjfjejeh/related",
+          "description": "very simple, quick, comfortable and nicely designed advanced #Twitter search query builder for #GoogleChrome."
+        },
+        {
+          "link": "https://console.apify.com/actors/u6ppkMWAx2E2MpEuF",
+          "description": "Scrape any #Twitter user profile. Creates an unofficial Twitter API to extract tweets, retweets, replies, favorites, and conversation threads with no Twitter API limits."
+        }
+      ]
+    },
+    {
+      "name": "YouTube",
+      "slug": "youtube",
+      "tools": [
+        {
+          "link": "https://huggingface.co/spaces/jeffistyping/Youtube-Whisperer",
+          "description": "Transcribe YouTube video"
+        },
+        {
+          "link": "https://chrome.google.com/webstore/detail/eightify-ai-youtube-summa/cdcpabkolgalpgeingbdcebojebfelgb/related",
+          "description": "ChatGPT YouTube summary"
+        },
+        {
+          "link": "https://unlistedvideos.com/",
+          "description": "search for videos available only by link on youtube"
+        },
+        {
+          "link": "https://tools.digitalmethods.net/netvizz/youtube/mod_video_info.php",
+          "description": "Download detailed information about YouTube video comments to a .tab or .gdf"
+        },
+        {
+          "link": "https://chrome.google.com/webstore/detail/youtube-actual-top-commen/hbdmelobmfcompinikjdaiphhonbgfpn/",
+          "description": "The main drawback of the standard #YouTube comment display is that it does not sort comments by the number of likes, but simply shows popular comments in a random order. This extension solves this problem:"
+        },
+        {
+          "link": "https://noxinfluencer.com/youtube/channel-compare",
+          "description": "youtube channels comparing"
+        },
+        {
+          "link": "https://citizenevidence.amnestyusa.org/",
+          "description": ""
+        },
+        {
+          "link": "https://chrome.google.com/webstore/detail/pockettube-youtube-subscr/kdmnjgijlmjgmimahnillepgcgeemffb/related",
+          "description": "YouTube Subscription Manager"
+        },
+        {
+          "link": "https://ytcomment.kmcat.uk/",
+          "description": ""
+        },
+        {
+          "link": "https://youtube-comments.io/get-comments",
+          "description": ""
+        },
+        {
+          "link": "https://github.com/egbertbouman/youtube-comment-downloader",
+          "description": "easy to install and fast tool for downloading YouTube comments in txt/json. Does NOT require authorization or API keys."
+        },
+        {
+          "link": "https://montage.meedan.com",
+          "description": "Search #YouTube video by date (uploaded or recording) and by geolocation."
+        },
+        {
+          "link": "https://github.com/huhmit/slashtags",
+          "description": "tool for recommending YouTube tags and displaying related statistical data from search keyword(s)"
+        },
+        {
+          "link": "https://ytplaylist-len.herokuapp.com/",
+          "description": "Find out the total time of all the videos in playlist"
+        },
+        {
+          "link": "https://anilyzer.com/",
+          "description": "watch frame by frame YouTube and Vimeo)"
+        },
+        {
+          "link": "https://chrome.google.com/webstore/detail/improve-youtube-video-you/bnomihfieiccainjcjblhegjgglakjdd",
+          "description": "extension with dozens of different tweaks to the standard #YouTube interface"
+        },
+        {
+          "link": "https://tools.digitalmethods.net/netvizz/youtube/mod_channels_search.php",
+          "description": "Tool for searching YouTube channels by keywords in the name and creation date. The result is a table with the channel ID, name, description, date of creation, as well as the number of subscribers, views, and uploaded videos"
+        },
+        {
+          "link": "http://www.watchframebyframe.com/",
+          "description": "watch frame by frame YouTube and Vimeo"
+        },
+        {
+          "link": "https://hadzy.com/",
+          "description": "YouTube comment search)"
+        },
+        {
+          "link": "https://github.com/lettapp/ytcs",
+          "description": "google chrome extension to search YouTube comments without leaving the site (link to source code)"
+        },
+        {
+          "link": "https://chrome.google.com/webstore/detail/ycs-youtube-comment-searc/pmfhcilikeembgbiadjiojgfgcfbcoaa/related",
+          "description": ""
+        },
+        {
+          "link": "https://github.com/jdepoix/youtube-transcript-api",
+          "description": "Get the transcript/subtitles for a given #YouTube video (by ID from adress bar). It also works for automatically generated subtitles and supports translating subtitles."
+        },
+        {
+          "link": "https://chrome.google.com/webstore/detail/jump-cutter/lmppdpldfpfdlipofacekcfleacbbncp/related",
+          "description": "An extension for those who watch university lectures on #YouTube and want to save their time. It identifies chunks where the lecturer writes silently on the board (or is just silent) and plays them back at double speed..."
+        },
+        {
+          "link": "https://chrome.google.com/webstore/detail/youfilter-–-youtube-advan/lnlanlnejphdbhplbgokklmgfbjphigi/related?hl=ru",
+          "description": "An extension that displays #YouTube search results in a table with very detailed information about each video (including quick links to the channel owner's contacts). It's can to download the results in CSV."
+        },
+        {
+          "link": "https://chrome.google.com/webstore/detail/youtube-timestamp-comment/khngjoedfeicfbjlcfmiigbokbnlibei/related",
+          "description": "extension finds all the timestamps in YouTube video comments and arranges them in chronological order."
+        },
+        {
+          "link": "https://chrome.google.com/webstore/detail/youtube-actual-top-commen/hbdmelobmfcompinikjdaiphhonbgfpn/related",
+          "description": "Fetch all comments to Youtube video (without answers). Sort them by likes and filter by keywords"
+        },
+        {
+          "link": "https://github.com/dmn001/youtube_channel_archiver",
+          "description": "Tool for automation downloading video, thumbnails and comments text from target YouTube channel (or channels)."
+        }
+      ]
+    },
+    {
+      "name": "Instagram",
+      "slug": "instagram",
+      "tools": [
+        {
+          "link": "http://imginn.com/",
+          "description": "This service allows you to do the following without logging in to Instagram account: - search for accounts containing a keyword in the profile name; - view all of the user's photos; - view photos in which the profile has been tagged by other users"
+        },
+        {
+          "link": "https://instahunt.co/",
+          "description": "Click on the point on the world map Click \"Find places\" Click \"Get Instagram Place Data\" Copy and paste the \"Place Data\" into the box View Insta locations on the map with links to photos!"
+        },
+        {
+          "link": "https://github.com/bellingcat/instagram-location-search",
+          "description": "Get the names and links to all the locations on Instagram tied to specific geographic coordinates"
+        },
+        {
+          "link": "https://inflact.com/tools/instagram-search/",
+          "description": "Instagram profiles search tool with the ability to filter results by number of subscribers, number of posts, gender, categories (personal blog, artist, product/service etc.)"
+        },
+        {
+          "link": "https://github.com/xadhrit/terra",
+          "description": "Collect information about twitter and Instagram accounts"
+        },
+        {
+          "link": "https://gramho.com/",
+          "description": ""
+        },
+        {
+          "link": "https://github.com/novitae/sterraxcyl",
+          "description": "Tool for export to excel someone's #Instagram followers and/or following with details (Username, FullName, Bio, Followers and Following count, etc)"
+        },
+        {
+          "link": "https://www.storysaver.net",
+          "description": "download Instagram stories."
+        },
+        {
+          "link": "https://apify.com/jaroslavhejlek/instagram-scraper",
+          "description": "Scrape info about accounts, posts, stories and comment"
+        },
+        {
+          "link": "https://console.apify.com/actors/reGe1ST3OBgYZSsZJ",
+          "description": "Enter hashtag name and scrape all post tagged it. Get caption, commentsCount, photo dimensions, URL, other hashtags and other details in CSV, JSON or XLS table."
+        },
+        {
+          "link": "https://github.com/novitae/Tenai",
+          "description": "Simple tool that uncover some followers of a private #Instagram account"
+        },
+        {
+          "link": "https://trendhero.io/",
+          "description": "An Instagram profile search tool with a huge number of filters and the ability to view profile statistics."
+        },
+        {
+          "link": "https://github.com/instaloader/instaloader",
+          "description": "Allows to download Instagram posts, photos, stories, comments, geolocation tags and more from #instagram"
+        },
+        {
+          "link": "https://chrome.google.com/webstore/detail/insfo-export-instagram-fo/bckleejkdhlponanidmjfjdigpahlado/related",
+          "description": "The ultimate simple tool for saving followers/following an Instagram account to a table."
+        },
+        {
+          "link": "https://inflact.com/",
+          "description": "Another online tool that allows you to watch Instagram, without logging in: - search users by nickname; - view last posts; - analyze profile;"
+        },
+        {
+          "link": "https://imginn.com/",
+          "description": "Free service to view Instagram profile posts without registration"
+        },
+        {
+          "link": "https://www.osintcombine.com/instagram-explorer",
+          "description": "Click on a point on the map. Follow the instructions on the left. Get a link to view Instagram posts made at this location on a specific date range"
+        }
+      ]
+    },
+    {
+      "name": "Facebook",
+      "slug": "facebook",
+      "tools": [
+        {
+          "link": "https://randomtools.io/",
+          "description": ""
+        },
+        {
+          "link": "http://4wbwa6vcpvcr3vvf4qkhppgy56urmjcj2vagu2iqgp3z656xcmfdbiqd.onion.pet/",
+          "description": ""
+        },
+        {
+          "link": "https://www.facebook.com/directory/people/",
+          "description": ""
+        },
+        {
+          "link": "https://sowdust.github.io/fb-search/",
+          "description": "search facebook posts, people and groups using URL-filtres"
+        },
+        {
+          "link": "https://chrome.google.com/webstore/detail/dumpitblue%2B/igmgknoioooacbcpcfgjigbaajpelbfe/related",
+          "description": "GoogleChrome extension for @Facebook: dump to txt file friends, group members, messenger contacts etc, automate scroll page to bottom (+isolate scrolling), automate expanding comments and replies and much more."
+        },
+        {
+          "link": "https://fdown.net",
+          "description": "Facebook video downloader"
+        },
+        {
+          "link": "https://console.apify.com/actors/EtZ9lsiipPgKrQIi6",
+          "description": "Scrape #Facebook posts with comments from one or multiple page URLs. Get post and comment texts, timestamps, post URLs, likes, shares, comments count, author ID."
+        },
+        {
+          "link": "https://console.apify.com/actors/w8bYllu7Jq18uWz99",
+          "description": "Enter link to the #Facebook post and get comments comments to it (text, timestamp and other info)."
+        },
+        {
+          "link": "https://github.com/narkopolo/fb_friend_list_scraper",
+          "description": "Scrape names and usernames from large friend lists on Facebook, without being rate limited\""
+        }
+      ]
+    },
+    {
+      "name": "LinkedIn",
+      "slug": "linkedin",
+      "tools": [
+        {
+          "link": "https://freepeoplesearchtool.com/",
+          "description": "find people in Linkedin without registration"
+        },
+        {
+          "link": "https://github.com/m8r0wn/crosslinked",
+          "description": "LinkedIn enumeration tool to extract valid employee names from an organization through search engine scraping"
+        },
+        {
+          "link": "https://github.com/linkedin/datahub/blob/master/docs/faq.md",
+          "description": "linkedIn's generalized metadata search & discovery tool"
+        },
+        {
+          "link": "https://recruitin.net/",
+          "description": "easily use Google to search profiles on LinkedIn"
+        }
+      ]
+    },
+    {
+      "name": "TikTok",
+      "slug": "tiktok",
+      "tools": [
+        {
+          "link": "https://bellingcat.github.io/tiktok-timestamp/",
+          "description": "determines the time of publication of the video to the nearest second. Just copy the link."
+        },
+        {
+          "link": "https://tikstats.org/",
+          "description": "detailed statistics on the growth dynamics of subscribers, likes, and video views for the TikTok account"
+        },
+        {
+          "link": "https://github.com/drawrowfly/tiktok-scraper",
+          "description": "scrapping video from user, trend or hashtag feed, extracting video's or user's metadata, downloading video or music, processing a list of clips or users from a file"
+        },
+        {
+          "link": "https://tiktokdownloader.com/",
+          "description": "TikTok Video Downloader"
+        },
+        {
+          "link": "https://tiktokd.com/",
+          "description": "TikTok Video Downloader"
+        },
+        {
+          "link": "https://snaptik.app/",
+          "description": "TikTok Video Downloader"
+        },
+        {
+          "link": "https://tiktake.net/",
+          "description": "TikTok Video Downloader"
+        },
+        {
+          "link": "https://exolyt.com/",
+          "description": "TikTok profile analyze"
+        },
+        {
+          "link": "https://app.tikbuddy.com/",
+          "description": "TikTok profile analytics"
+        },
+        {
+          "link": "https://mavekite.com/",
+          "description": "Enter the nickname of the user #TikTok and get the data on likes, comments, views, shares and engagements for his forty last videos"
+        },
+        {
+          "link": "https://github.com/sauermar/Tiktok-Scraper",
+          "description": "Extract data about videos, users, and channels based on hashtags, profiles and individual posts."
+        },
+        {
+          "link": "https://tikrank.com",
+          "description": "free tool for comparing and analyzing #TikTok accounts. Available ranking of the most popular users by country (there are more than a million accounts with the largest number of subscribers in the database)"
+        },
+        {
+          "link": "https://ads.tiktok.com/business/creativecenter/inspiration/popular/hashtag/pc/en?from=001114",
+          "description": "List of most popular hashtags; songs; creators; videos for different countries and periods."
+        }
+      ]
+    },
+    {
+      "name": "Reddit",
+      "slug": "reddit",
+      "tools": [
+        {
+          "link": "https://anvaka.github.io/map-of-reddit/?x=255000&y=381000&z=615624.4584051393",
+          "description": "an alternative format for interacting with Reddit"
+        },
+        {
+          "link": "https://www.redditinvestigator.com/",
+          "description": ""
+        },
+        {
+          "link": "http://redditcommentsearch.com",
+          "description": "getting a list of all comments by a Reddit user with a certain name"
+        },
+        {
+          "link": "https://dashboard.laterforreddit.com/analysis",
+          "description": "examine popular post trends for a given subreddit"
+        },
+        {
+          "link": "https://ebof1223-reddit-timer.netlify.app/",
+          "description": "Get last week's hourly activity schedule for a specific subreddit"
+        },
+        {
+          "link": "https://redditsave.com",
+          "description": "Reddit video downloader"
+        },
+        {
+          "link": "https://apify.com/trudax/reddit-scraper",
+          "description": "Crawl posts, comments, communities, and users without login."
+        },
+        {
+          "link": "https://redditsearch.io/",
+          "description": "Reddit search tool"
+        },
+        {
+          "link": "https://reddloader.com",
+          "description": "Reddit video downloader"
+        },
+        {
+          "link": "https://camas.github.io/reddit-search/",
+          "description": "Search engines for Reddit with a lot of filtres"
+        },
+        {
+          "link": "https://redditmetis.com/",
+          "description": "View statistics fot Reddit users's account"
+        },
+        {
+          "link": "https://repostsleuth.com/",
+          "description": "Reddit trends analyzer"
+        },
+        {
+          "link": "https://www.redective.com/",
+          "description": "Reddit search tool"
+        },
+        {
+          "link": "https://www.unddit.com/",
+          "description": "Display deleted content in Reddit"
+        },
+        {
+          "link": "https://www.reveddit.com/about/#welcome",
+          "description": "Reveal reddit's removed content. Search by username, subreddit (r/), link or domain."
+        },
+        {
+          "link": "https://github.com/mylk/reddit-user-extractor",
+          "description": "#python script that allows you to get a complete list of comments by user name on Reddit in CSV format"
+        },
+        {
+          "link": "https://betterredditsearch.web.app/",
+          "description": "Reddit search tool for posts and subreddits (with boolean filters by keywords and filters by publication date)."
+        },
+        {
+          "link": "https://github.com/rly0nheart/reddit-post-scraping-tool",
+          "description": "Simple #python script for scraping post from #Reddit (by keywords and subreddit name)"
+        },
+        {
+          "link": "https://subredditstats.com/subreddit-user-overlaps/",
+          "description": "A tool to find similar subreddits. The higher the score of a subreddit in the list, the higher the probability that users of the original subreddit (in our case r/osint) are active in it too."
+        },
+        {
+          "link": "https://reddit-user-analyser.netlify.app/",
+          "description": "Registration date; Activity stats; Kindness Meter; Text readability; Top subreddits; Most frequently used words; Submission and comment activity over time; Submission and comment karma over time; Best and worst comments"
+        }
+      ]
+    },
+    {
+      "name": "Telegram",
+      "slug": "telegram",
+      "tools": [
+        {
+          "link": "https://cse.google.com/cse?q=+&cx=006368593537057042503:efxu7xprihg#gsc.tab=0&gsc.q=%20&gsc.page=1",
+          "description": "Telegram search engine"
+        },
+        {
+          "link": "https://cse.google.com/cse?cx=006368593537057042503:ig4r3rz35qi#gsc.tab=0",
+          "description": "search by Telegram comments"
+        },
+        {
+          "link": "https://github.com/zqtay/Telegram-Message-Analyzer",
+          "description": "Export #Telegram chat (with Windows version of Telegram app) and get detailed analyze of it (message count, average message count per day, word frequency etc)"
+        },
+        {
+          "link": "https://t.me/SangMataInfo_bot",
+          "description": "forward a message from the user and find out the history of their name in Telegram"
+        },
+        {
+          "link": "https://t.me/tgscanrobot",
+          "description": "telegram bot to show which telegram groups a person is member of."
+        },
+        {
+          "link": "https://t.me/telebrellabot",
+          "description": "telegram bot to show which telegram groups a person is member of (users in DB: 4019357, groups in DB: 1745)."
+        },
+        {
+          "link": "https://github.com/tejado/telegram-nearby-map",
+          "description": "Discover the location of nearby Telegram users on OpenStreetMap"
+        },
+        {
+          "link": "https://github.com/pielco11/telescan",
+          "description": "search users in groups (and in which groups is the user) by id, username or phone number (if it's in your contacts)"
+        },
+        {
+          "link": "https://tgstat.com",
+          "description": "one of the largest directories of Telegram channels, which has detailed information about the growth of the audience, its engagement and mentions of a particular channel in various sources."
+        },
+        {
+          "link": "https://telegcrack.com/",
+          "description": "search in telegra.ph"
+        },
+        {
+          "link": "https://t.me/VoiceMsgBot",
+          "description": "telegram bot to which you can send voice messages and it converts them into text"
+        },
+        {
+          "link": "https://t.me/transcriber_bot",
+          "description": "telegram bot, which can convert to text voice messages in 24 languages (view pic)"
+        },
+        {
+          "link": "https://telegramchannels.me/list/biggest?language=en",
+          "description": "Ratings of the 100 largest (by number of subscribers) #Telegram channels for different languages"
+        },
+        {
+          "link": "https://t.me/YTranslateBot",
+          "description": "type text or resend messages to Telegram bot for translate it."
+        }
+      ]
+    }
+  ]
+}

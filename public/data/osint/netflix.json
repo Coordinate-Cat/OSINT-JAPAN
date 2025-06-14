@@ -1,0 +1,44 @@
+{
+  "title": "Netflix",
+  "slug": "netflix",
+  "sections": [
+    {
+      "name": "Netflix Search Tools",
+      "slug": "netflix-search-tools",
+      "tools": [
+        {
+          "link": "http://unogs.com/",
+          "description": "Unogs.com - Netflix search without registration"
+        },
+        {
+          "link": "http://flixable.com",
+          "description": "flixable.com - alternative way to find anything interesting on Netflix"
+        },
+        {
+          "link": "http://flixwatch.co",
+          "description": "flixwatch.co - alternative way to find anything interesting on Netflix"
+        },
+        {
+          "link": "http://flicksurfer.com",
+          "description": "flicksurfer.com - alternative way to find anything interesting on Netflix"
+        },
+        {
+          "link": "http://flixboss.com",
+          "description": "flixboss.com - alternative way to find anything interesting on Netflix"
+        },
+        {
+          "link": "http://flickmetrix.com",
+          "description": "flickmetrix.com - alternative way to find anything interesting on Netflix"
+        },
+        {
+          "link": "http://whatthehellshouldiwatchonnetflix.com",
+          "description": "whatthehellshouldiwatchonnetflix.com - alternative way to find anything interesting on Netflix"
+        },
+        {
+          "link": "http://netflix-codes.com",
+          "description": "netflix-codes.com - alternative way to find anything interesting on Netflix"
+        }
+      ]
+    }
+  ]
+}

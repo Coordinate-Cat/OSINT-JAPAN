@@ -19,23 +19,34 @@ export default function I18nProvider({
 
   // クライアントサイドでの初期化処理
   useEffect(() => {
-    // マウント時に言語設定を復元
-    try {
-      const savedLang = localStorage.getItem("i18nextLng");
-      if (savedLang && savedLang !== i18n.language) {
-        i18n.changeLanguage(savedLang);
+    // ハイドレーション完了後に言語設定を復元
+    const initializeLanguage = async () => {
+      try {
+        // ハイドレーション完了まで待機
+        await new Promise((resolve) => setTimeout(resolve, 0));
+
+        const savedLang = localStorage.getItem("i18nextLng");
+        if (
+          savedLang &&
+          savedLang !== i18n.language &&
+          (savedLang === "ja" || savedLang === "en")
+        ) {
+          await i18n.changeLanguage(savedLang);
+        }
+      } catch (e) {
+        console.error("言語設定の読み込みに失敗しました:", e);
       }
-    } catch (e) {
-      console.error("言語設定の読み込みに失敗しました:", e);
-    }
+    };
 
     // 言語変更を検知してHTMLのlang属性を更新
-    const handleLanguageChange = () => {
-      document.documentElement.lang = i18n.language;
-      try {
-        localStorage.setItem("i18nextLng", i18n.language);
-      } catch (e) {
-        console.error("言語設定の保存に失敗しました:", e);
+    const handleLanguageChange = (lng: string) => {
+      if (typeof document !== "undefined") {
+        document.documentElement.lang = lng;
+        try {
+          localStorage.setItem("i18nextLng", lng);
+        } catch (e) {
+          console.error("言語設定の保存に失敗しました:", e);
+        }
       }
     };
 
@@ -43,7 +54,12 @@ export default function I18nProvider({
     i18n.on("languageChanged", handleLanguageChange);
 
     // 初期lang属性の設定
-    document.documentElement.lang = i18n.language;
+    if (typeof document !== "undefined") {
+      document.documentElement.lang = i18n.language;
+    }
+
+    // 言語設定を初期化
+    initializeLanguage();
 
     // マウント完了フラグを設定
     setMounted(true);
@@ -56,7 +72,7 @@ export default function I18nProvider({
 
   return (
     <I18nextProvider i18n={i18n}>
-      <div className={mounted ? "" : "opacity-0 pointer-events-none"}>
+      <div className={mounted ? "" : "pointer-events-none opacity-0"}>
         {children}
       </div>
     </I18nextProvider>

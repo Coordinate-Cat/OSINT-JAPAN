@@ -1,8 +1,5 @@
 {
   "welcome": "ようこそ、私たちのアプリに！",
-  "home": {
-    "title": "ホーム"
-  },
   "notFound": {
     "title": "ページが見つかりません",
     "message": "このページは存在しません。",
@@ -29,6 +26,49 @@
     "description2": "日本に関するOSINT情報とツールを含み、非日本語圏からのアプローチもカバーしています。",
     "languageTitle": "言語を変更",
     "qrCodeTitle": "このサイトのQRコード",
-    "darkModeTitle": "ダークモード"
+    "darkModeTitle": "ダークモード",
+    "osintResourcesTitle": "OSINTリソース",
+    "osintResourcesDescription": "調査に使用するOSINTツールのカテゴリを選択してください"
+  },
+  "osint": {
+    "searchPlaceholder": "ツールを検索...",
+    "noToolsFound": "該当するツールが見つかりません",
+    "categoryDescription": "OSINTツールの詳細一覧です。検索機能を使って目的のツールを見つけてください。",
+    "popularSections": "人気セクション",
+    "allCategories": "全カテゴリ",
+    "categories": {
+      "maps-geolocation-transport": "地図・位置情報・交通",
+      "social-media": "ソーシャルメディア",
+      "domain-ip-links": "ドメイン・IP・リンク",
+      "image-search-identification": "画像検索・識別",
+      "cryptocurrencies": "暗号通貨",
+      "messengers": "メッセンジャー",
+      "code": "コード",
+      "search-engines": "検索エンジン",
+      "passwords": "パスワード",
+      "emails": "メール"
+    }
+  },
+  "common": {
+    "back": "戻る",
+    "search": "検索",
+    "loading": "読み込み中...",
+    "error": "エラー"
+  },
+  "header": {
+    "searchPlaceholder": "OSINTツールを検索..."
+  },
+  "home": {
+    "subtitle": "- 様々なOSINTツールの膨大なコレクション",
+    "description": "調査と研究目的のためのOSINTツールとリソースの包括的なコレクション。",
+    "goToTools": "ツールへ移動"
+  },
+  "footer": {
+    "about": "OSINT Japanについて",
+    "description": "調査と研究目的のためのOSINTツールとリソースの包括的なコレクション。",
+    "stats": "統計",
+    "totalCategories": "46カテゴリ",
+    "totalTools": "1000+ツール",
+    "contact": "連絡先"
   }
 }

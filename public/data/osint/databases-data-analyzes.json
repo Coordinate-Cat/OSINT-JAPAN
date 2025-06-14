@@ -1,0 +1,36 @@
+{
+  "title": "Databases and data analyzes",
+  "slug": "databases-data-analyzes",
+  "sections": [
+    {
+      "name": "Data Analysis Tools",
+      "slug": "data-analysis-tools",
+      "tools": [
+        {
+          "link": "https://github.com/alephdata/cronodump",
+          "description": "Cronodump - When searching for information about citizens of Ukraine, Russia and other CIS countries, often have to deal with leaked databases for the Cronos program (used in government organizations). This simple utility generates Cronos files in CSV."
+        },
+        {
+          "link": "https://jsonvisio.com/",
+          "description": "Jsonvisio - Well-made JSON file renderer. Allows you to quickly understand the structure of even the most complex JSON files."
+        },
+        {
+          "link": "https://github.com/soxoj/1c-database-converter",
+          "description": "1C Database Converter - 1C is a very popular program in CIS countries for storing data in enterprises (accounting, document management, etc.). This tool allows you to convert 1C files into CSV files."
+        },
+        {
+          "link": "https://insightjini.com/",
+          "description": "Insight Jini - Extreme quick, extreme simple and free online tool for data visalization and analysis"
+        },
+        {
+          "link": "https://diagramify.agiliq.com/",
+          "description": "DIAGRAMIFY - generates flow charts from the text description. Branching and backtracking are supported"
+        },
+        {
+          "link": "https://github.com/Yakitrak/obsidian-cli",
+          "description": "OBSIDIAN CLI - Very simple go tool that let to interact with the Obsidian using the terminal. Open, search, create and edit files. Can be combined with any other cli osint tools to automate your workflow."
+        }
+      ]
+    }
+  ]
+}

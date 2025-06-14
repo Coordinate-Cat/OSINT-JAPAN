@@ -1,0 +1,24 @@
+{
+  "title": "NFT",
+  "slug": "nft",
+  "sections": [
+    {
+      "name": "NFT Search and Analysis Tools",
+      "slug": "nft-search-analysis-tools",
+      "tools": [
+        {
+          "link": "https://nonfungible.com",
+          "description": "Nonfungible.com - help to analyze the NFT market, find out which tokens were sold most actively (week, month, year, all time)"
+        },
+        {
+          "link": "https://nftsearch.site/",
+          "description": "Numbers - Search NFT by Content ID, Commit hash, keywords or uploaded photo."
+        },
+        {
+          "link": "https://fingible.nftport.xyz/",
+          "description": "Fingble Nftport - One of the most accurate search engines for finding NFT by uploaded image. Works well with faces. Also it's possible to search by keyword or Token ID."
+        }
+      ]
+    }
+  ]
+}

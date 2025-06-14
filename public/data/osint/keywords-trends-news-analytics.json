@@ -1,0 +1,44 @@
+{
+  "title": "Keywords, trends, news analytics",
+  "slug": "keywords-trends-news-analytics",
+  "sections": [
+    {
+      "name": "Trend Analysis Tools",
+      "slug": "trend-analysis-tools",
+      "tools": [
+        {
+          "link": "https://wordstat.yandex.ru/",
+          "description": "Wordstat.yandex.ru - the estimated number of Yandex searches in the coming month for different keywords"
+        },
+        {
+          "link": "https://trends.google.com/trends/",
+          "description": "Trends Google"
+        },
+        {
+          "link": "https://keywordtool.io/search/keywords/",
+          "description": "Keywordtool.io - keyword matching for Google, YouTube, Amazon, Ebay, Bing, Instagram, Twitter"
+        },
+        {
+          "link": "https://books.google.com/ngrams/",
+          "description": "Google Books Ngram Viewer"
+        },
+        {
+          "link": "http://news-explorer.mybluemix.net/",
+          "description": "News Explorer BlueMix"
+        },
+        {
+          "link": "https://trends.pinterest.com/",
+          "description": "Pinterest Trends"
+        },
+        {
+          "link": "https://github.com/GeneralMills/pytrends",
+          "description": "PyTrends - Simple python library for automatically collecting data from Google Trends."
+        },
+        {
+          "link": "https://keywordspeopleuse.com/",
+          "description": "KeyWordPeopleUse - Type in a keyword and see what questions mentioning it are being asked on Quora and Reddit. The service is also able to analyse Google Autocomplete and \"People also ask\""
+        }
+      ]
+    }
+  ]
+}

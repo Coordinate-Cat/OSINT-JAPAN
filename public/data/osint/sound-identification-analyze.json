@@ -1,0 +1,28 @@
+{
+  "title": "Sound identification and analyze",
+  "slug": "sound-identification-analyze",
+  "sections": [
+    {
+      "name": "Sound Analysis Tools",
+      "slug": "sound-analysis-tools",
+      "tools": [
+        {
+          "link": "https://youlean.co/online-loudness-meter/",
+          "description": "allows to estimate the volume of noises in the room or to analyze the volume of sounds in a recording file."
+        },
+        {
+          "link": "https://www.cignaglobal.com/stress-care/individuals/voice-tool",
+          "description": "tool analyzes the voice and determines a person's stress level."
+        },
+        {
+          "link": "https://chrome.google.com/webstore/detail/aha-music-song-finder-for/dpacanjfikmhoddligfbehkpomnbgblf/related",
+          "description": "A very simple tool that helps you determine what track is playing in the current browser tab. What I like best about it is that it works when the sound is turned OFF (albeit with a slight delay)"
+        },
+        {
+          "link": "https://academo.org/demos/spectrum-analyzer/",
+          "description": "MP3 Spectrum Analyzer"
+        }
+      ]
+    }
+  ]
+}

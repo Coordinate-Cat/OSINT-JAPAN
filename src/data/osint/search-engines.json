@@ -1,0 +1,294 @@
+{
+  "title": "Search Engines",
+  "slug": "search-engines",
+  "sections": [
+    {
+      "name": "Alternative Search Engines",
+      "slug": "alternative-search-engines",
+      "tools": [
+        {
+          "link": "https://fnd.io/",
+          "description": "alternative search engine for the AppStore and iTunes"
+        },
+        {
+          "link": "https://www.globalspec.com/",
+          "description": ""
+        },
+        {
+          "link": "https://uvrx.com",
+          "description": "Based by Google Custom Search tool for searching in popular cloud storages service"
+        },
+        {
+          "link": "http://mac.lc",
+          "description": "search by full Mac adress, part of Mac adress (prefix), vendor name or brand name"
+        },
+        {
+          "link": "https://www.hashatit.com/",
+          "description": "hastag searchengine. Search in twitter, instagram, facebook, youtube, pinterest"
+        },
+        {
+          "link": "https://www.goo.ne.jp/",
+          "description": "beautiful japanese search engine"
+        },
+        {
+          "link": "https://peteyvid.com",
+          "description": "search engine for 70 video hosting sites"
+        },
+        {
+          "link": "https://3dfindit.com/textsearch",
+          "description": "tool for searching 3D models by 3560 3D CAD (computer aided design) and BIM (Building Information Model) catalogs."
+        },
+        {
+          "link": "http://filechef.com",
+          "description": "tool for searching different type of files (videos, application, documents, audio, images)"
+        },
+        {
+          "link": "https://cse.google.com/cse?cx=017922636351918147428:v7m0tfgk6uj#gsc.tab=0",
+          "description": "Google CSE for finding events by location (keywords) in #Facebook, #Eventbrite, #Xing, #Meetup, #Groupon, #Ticketmaster, #Yepl, #VK, #Eventective, #Nextdoor"
+        },
+        {
+          "link": "https://www.listennotes.com/",
+          "description": "Podcast Search Engine"
+        },
+        {
+          "link": "https://thereisabotforthat.com/bots/search",
+          "description": "search by catalog of 5151 bots for 17 different apps and platforms"
+        },
+        {
+          "link": "https://www.scoperac.com/booleanstringbank/",
+          "description": "over 430+ strings and 3553+ keywords"
+        },
+        {
+          "link": "https://github.com/Ibit-to/google-unlocked",
+          "description": "browser extension uncensor google search results"
+        },
+        {
+          "link": "https://www.iconfinder.com/search",
+          "description": "Icons Search Engine"
+        },
+        {
+          "link": "https://datasetsearch.research.google.com/",
+          "description": ""
+        },
+        {
+          "link": "https://gifcities.org/",
+          "description": "GIF Search Engine from archive.org"
+        },
+        {
+          "link": "https://presearch.org/",
+          "description": "privately decentralized search engine, powered by #blockchain technology"
+        },
+        {
+          "link": "https://milled.com/search",
+          "description": "search engine for searching through the texts of email marketing messages"
+        },
+        {
+          "link": "https://github.com/Araekiel/orion",
+          "description": "open-Source Search Engine for social networking websites."
+        },
+        {
+          "link": "https://packettotal.com/app/search",
+          "description": ".pcap files (Packet Capture of network data) search engine and analyze tool. Search by URL, IP, file hash, network indicator, view timeline of dns-queries and http-connections, download files for detailed analyze."
+        },
+        {
+          "link": "https://github.com/searxng/searxng",
+          "description": "Free internet metasearch engine which aggregates results from more than 70 search services. No tracking. Can be used over Tor"
+        },
+        {
+          "link": "https://www.yeggi.com/",
+          "description": "3D printer model search engine. There are more than 3 million 700 thousand objects in the database. There are both paid and free."
+        },
+        {
+          "link": "https://memegine.com/",
+          "description": "A search engine to find memes. Helps you find rare and obscure memes when Google fails."
+        },
+        {
+          "link": "https://chatbottle.co/bots/",
+          "description": "A search engine to find the weirdest and most highly specialised chatbots for all occasions. There are over 150,000 bots in the database. Of these, 260 are chatbots related to cats for Facebook Messenger."
+        },
+        {
+          "link": "https://search3.com/",
+          "description": "New privacy search engine (no trackers + just a little bit of ads). With NFT search tab and cryptocurrencies realtime info tab"
+        },
+        {
+          "link": "http://densephrases.korea.ac.kr/",
+          "description": "This tool searches phrase-level answers to your questions or retrieve relevant passages in real-time in 5 million Wikipedia articles."
+        },
+        {
+          "link": "https://metaphor.systems/",
+          "description": "A search engine with a new and unusual search method. This AI \"trained to predict the next _link_ (similar to the way GPT-3 predicts the next _word_)\". Enter a statement (or an entire dialog) and Metaphor will end it with the appropriate link."
+        }
+      ]
+    },
+    {
+      "name": "Universal search tools",
+      "slug": "universal-search-tools",
+      "tools": [
+        {
+          "link": "https://github.com/zquestz/s",
+          "description": "Search from command line in 106 different sources"
+        },
+        {
+          "link": "https://searchall.net",
+          "description": "75 fields for quick entry of queries to different search services on one page"
+        },
+        {
+          "link": "https://query-server.herokuapp.com",
+          "description": "A tool that can send queries to popular search engines (list in picture) and return search results in JSON, CSV or XML format."
+        },
+        {
+          "link": "https://github.com/tasos-py/Search-Engines-Scraper",
+          "description": "Collects search results in text files. It's possible to search Google, Bing, DuckDuckGo, AOL and other search engines."
+        },
+        {
+          "link": "https://chrome.google.com/webstore/detail/trufflepiggy-context-sear/chffnhocnckigoapjdienmaphjnljpmo",
+          "description": "Search selected text in different search engines and sites from Google Chrome context menu."
+        },
+        {
+          "link": "https://chrome.google.com/webstore/detail/search-patterns/hjlahhonnlceifaecpjejlhhgjkipnbj/related?hl=zh-CN&gl=001",
+          "description": "A tool that analyzes autosuggest for #Google and #YouTube search queries (questions, prepositions, comparisons, and words starting with different letters of the alphabet)."
+        },
+        {
+          "link": "https://github.com/davemolk/searcher",
+          "description": "A very fast and simple #go tool that allows you to collect search results from a list of keywords in the following search engines: Ask Bing Brave DuckDuckGo Yahoo Yandex"
+        },
+        {
+          "link": "https://github.com/knassar702/startpage-parser",
+          "description": "Startpage.com search engine produces similar (but not identical) results to Google's, but is much less likely to get banned. This #python tool allows to scrape big amounts of results without using proxies."
+        },
+        {
+          "link": "https://github.com/garywill/BigSearch",
+          "description": "Google Chrome and Firefox addon for quick access to dozens of online search tools: general search engines, video hosts, programming forums, translators and much more."
+        }
+      ]
+    },
+    {
+      "name": "Darknet/deepweb search tools",
+      "slug": "darknet-deepweb-search-tools",
+      "tools": [
+        {
+          "link": "https://github.com/megadose/OnionSearch",
+          "description": ""
+        },
+        {
+          "link": "https://github.com/rlyonheart/thedevilseye",
+          "description": "Search links in #darknet (.onion domain zone) from command line without using a Tor network."
+        },
+        {
+          "link": "https://onionsearchengine.com/",
+          "description": ""
+        },
+        {
+          "link": "http://dnmugu4755642434.onion.pet/captcha",
+          "description": ""
+        },
+        {
+          "link": "https://ahmia.fi/stats/link_graph/",
+          "description": "Enter the name of the site in the .onion domain zone and see what other sites in the #onion domain zone it is associated with."
+        },
+        {
+          "link": "https://github.com/Kr0ff/Pasta",
+          "description": "Pastebin scraper, which generates random paste addresses and checks if there is any text in them."
+        },
+        {
+          "link": "https://apify.com/epcsht/darkweb-scraper#dark-web-scraper",
+          "description": "Specify the start link and depth of crawl to research the .onion website for sensitive data (crypto wallets, API keys, emails, phone numbers, social media profiles)."
+        },
+        {
+          "link": "https://github.com/bbbbbrie/pastebin-bisque",
+          "description": "Command line #python tool, which downloads all the pastes of a particular #Pastebin user."
+        },
+        {
+          "link": "https://dark.fail/",
+          "description": "List of several dozen services in the .onion domain (marketplaces, email clients, VPN services, search engines) with up-to-date links and status (online/offline)"
+        },
+        {
+          "link": "https://darkweb-archive.activetk.jp/",
+          "description": "Free simple tool that allows you to download website files in the .onion domain zone as an archive with html, css, javascript and other files."
+        }
+      ]
+    },
+    {
+      "name": "Filesharing Search Engines",
+      "slug": "filesharing-search-engines",
+      "tools": [
+        {
+          "link": "https://www.searchftps.net/",
+          "description": ""
+        },
+        {
+          "link": "http://filesearch.link",
+          "description": "search music, books, video, programs archives in 59 file-sharing sites (#meganz, #dropark, #turbotit etc)"
+        },
+        {
+          "link": "https://filesearching.com",
+          "description": "old FTP servers search engine with filter by top-level domain name and filetype"
+        },
+        {
+          "link": "https://snowfl.com",
+          "description": "torrent aggregator which searches various public torrent indexes in real-time"
+        },
+        {
+          "link": "https://torrends.to",
+          "description": "torrent aggregator with search engines and list of new torrents trackers"
+        },
+        {
+          "link": "https://ewasion.github.io/opendirectory-finder/#",
+          "description": "Tool for search files based by Google CSE"
+        },
+        {
+          "link": "https://www.mmnt.net",
+          "description": ""
+        },
+        {
+          "link": "https://orionoid.com",
+          "description": "Lightning Fast Link Indexer for Torrents, Usenet, and Hosters"
+        },
+        {
+          "link": "https://libgen.fun",
+          "description": "\"search engine for articles and books, which allows free access to content that is otherwise paywalled or not digitized elsewhere\" (c)"
+        },
+        {
+          "link": "http://sunxdcc.com",
+          "description": "XDCC file search engine"
+        },
+        {
+          "link": "https://www.xdcc.eu",
+          "description": "XDCC search engine"
+        },
+        {
+          "link": "http://www.uvrx.com",
+          "description": "File storage search engine based by Google CSE"
+        },
+        {
+          "link": "http://ddlsearch.free.fr",
+          "description": "search engine for Rapidshare, Megaupload, Filefactory, Depositfile, Fileserve and a lot of other file sharing sites"
+        },
+        {
+          "link": "http://www.sharedigger.com",
+          "description": "search files in popular file hosting services"
+        },
+        {
+          "link": "https://www.xtorx.com",
+          "description": "fast torrents search engine"
+        },
+        {
+          "link": "https://torrentseeker.com",
+          "description": "torrents search engine"
+        },
+        {
+          "link": "http://www.freewareweb.com/ftpsearch.shtml",
+          "description": "ftp servers search engine"
+        },
+        {
+          "link": "https://search-22.com/ftp-search-tools",
+          "description": "access to 10+ ftp search tools from one page"
+        },
+        {
+          "link": "https://heystacks.com/",
+          "description": "Service for finding public files in Google Docs, Google Sheets and Google Slides. It's possible to filter results by topic group and creation date."
+        }
+      ]
+    }
+  ]
+}

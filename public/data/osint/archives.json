@@ -1,0 +1,230 @@
+{
+  "title": "Archives",
+  "slug": "archives",
+  "sections": [
+    {
+      "name": "Web Archives",
+      "slug": "web-archives",
+      "tools": [
+        {
+          "link": "https://quickcacheandarchivesearch.onrender.com/",
+          "description": "quick search website old versions in different search engines and archives (21 source)"
+        },
+        {
+          "link": "http://trove.nla.gov.au/search/category/websites",
+          "description": "australian web archive"
+        },
+        {
+          "link": "https://chrome.google.com/webstore/detail/vandal/knoccgahmcfhngbjhdbcodajdioedgdo/related",
+          "description": "extension that makes working with http://archive.org faster, more comfortable, and more efficient."
+        },
+        {
+          "link": "https://theoldnet.com/",
+          "description": ""
+        },
+        {
+          "link": "http://carbondate.cs.odu.edu/",
+          "description": ""
+        },
+        {
+          "link": "https://arquivo.pt/",
+          "description": ""
+        },
+        {
+          "link": "https://archive.md/",
+          "description": ""
+        },
+        {
+          "link": "http://webarchive.loc.gov/",
+          "description": ""
+        },
+        {
+          "link": "https://swap.stanford.edu/",
+          "description": ""
+        },
+        {
+          "link": "http://wayback.archive-it.org/",
+          "description": ""
+        },
+        {
+          "link": "https://vefsafn.is/",
+          "description": ""
+        },
+        {
+          "link": "http://web.archive.bibalex.org/",
+          "description": ""
+        },
+        {
+          "link": "https://archive.vn/",
+          "description": ""
+        },
+        {
+          "link": "https://www.webarchive.org.uk/",
+          "description": "archive of more than half a billion saved English-language web pages (data from 2013)"
+        }
+      ]
+    },
+    {
+      "name": "Tools for working with web archives",
+      "slug": "tools-web-archives",
+      "tools": [
+        {
+          "link": "https://github.com/anmolksachan/TheTimeMachine",
+          "description": "Tool for gathering domain info from WayBackMachine: - fetches subdomains from waybackurl; - search for /api/JSON/Configuration endpoints and many more (view pic)"
+        },
+        {
+          "link": "https://chrome.google.com/webstore/detail/web-archives/hkligngkgcpcolhcnkgccglchdafcnao/related",
+          "description": "extension for viewing cached web page version in 18 search engines and services"
+        },
+        {
+          "link": "https://gaetanlhf.github.io/EasyCache/",
+          "description": "quick search website old versions in different search engines and archives"
+        },
+        {
+          "link": "https://cachedview.b4your.com/en/",
+          "description": "quick search website old versions in different search engines and archives"
+        },
+        {
+          "link": "https://tools.digitalmethods.net/beta/internetArchiveWaybackMachineLinkRipper/#",
+          "description": "Enter a host or URL to retrieve the links to the URL's archived versions at http://wayback.archive.org. A text file is produced which lists the archive URLs."
+        },
+        {
+          "link": "https://github.com/jsvine/waybackpack",
+          "description": "download the entire #WaybackMachine archive for a given URL. You can only download versions for a certain date range (date format YYYYMMDDhhss)"
+        },
+        {
+          "link": "https://github.com/anmolksachan/TheTimeMachine",
+          "description": "Toolkit to use http://archive.org to search for vulnerabilities"
+        },
+        {
+          "link": "https://github.com/akamhy/waybackpy",
+          "description": "If you want to write your own script to work with http://archive.org, check out the #python library Wayback Machine API. You can use it to quickly automate the extraction of all sorts of website data from the webarchive."
+        },
+        {
+          "link": "https://archivebox.io",
+          "description": "Create your own self-hosted web archive. Save pages from browser history, bookmarks, Pocket etc. Save html, js, css, media, pdf and other files"
+        },
+        {
+          "link": "https://github.com/Haax9/WaybackPDF",
+          "description": "Collects a list of saved PDFs for the given domain from http://archive.org and downloads them into a folder."
+        },
+        {
+          "link": "https://github.com/MiniGlome/Archive.org-Downloader",
+          "description": "A simple #python script for downloading books from http://archive.org in PDF format. You can adjust image resolution to optimize file size and work with link lists."
+        },
+        {
+          "link": "https://github.com/xnl-h4ck3r/waymore",
+          "description": "Search archived links to domain in Wayback Machine and Common Crawl (+ Urlscan and Alien Vault OTX)."
+        },
+        {
+          "link": "https://github.com/lorenzoromani1983/wayback-keyword-search",
+          "description": "A tool that allows you to download all the pages of a particular domain from http://archive.org for a particular month or day, and quickly do a keyword search on those pages."
+        },
+        {
+          "link": "https://github.com/husseinphp/web-archive",
+          "description": "Simple Chrome Extensions for getting information about current URL using http://archive.org CDX API"
+        },
+        {
+          "link": "https://github.com/bellingcat/wayback-google-analytics",
+          "description": "A tool that finds all Google Analytics ID in URL (including old ones from Web Archive)."
+        }
+      ]
+    },
+    {
+      "name": "Tools for working with WARC files",
+      "slug": "warc-tools",
+      "tools": [
+        {
+          "link": "https://github.com/chfoo/warcat",
+          "description": "My favorite (because it's the easiest) tool for working with Warc files. It allows you to see the list of files in the archive (command \"list\") and unpack it (command \"extract\")."
+        },
+        {
+          "link": "https://github.com/webrecorder/replayweb.page",
+          "description": "If the warc file is small, you can view its contents with this extreme simple online tool. Also it's possible to deploy ReplayWeb on your own server"
+        },
+        {
+          "link": "https://github.com/datacoon/metawarc",
+          "description": "Allows you to quickly analyze the structure of the warc file and collect metadata from all the files in the archive"
+        },
+        {
+          "link": "https://webrecorder.net/tools",
+          "description": "Archiving various interesting sites is a noble and useful activity for society. To make it easier for posterity to analyze your web archives, save them in Warc format with an online tool"
+        },
+        {
+          "link": "https://github.com/ArchiveTeam/grab-site",
+          "description": "Af you need to make a Warc archive out of a huge site with a lot of different content, then it is better to use this #python script with dozens of different settings that will optimize the process as much as possible."
+        },
+        {
+          "link": "https://github.com/webrecorder/har2warc",
+          "description": "Convert HTTP Archive (HAR) -> Web Archive (WARC) format"
+        }
+      ]
+    },
+    {
+      "name": "Archives of documents/newspapers",
+      "slug": "document-archives",
+      "tools": [
+        {
+          "link": "https://nationalarchives.gov.uk/",
+          "description": "search in the catalogue of United Kingdom \"The National Archives\""
+        },
+        {
+          "link": "https://doaj.org/search/journals",
+          "description": "Search by 16 920 journals, 6, 588, 661 articles, 80 lanquages, 129 countries"
+        },
+        {
+          "link": "https://www.ncbi.nlm.nih.gov/",
+          "description": "unique tool to search 39 scientific databases (Pubmed, SRA, OMIN, MedGen etc) from one page"
+        },
+        {
+          "link": "http://industrydocuments.ucsf.edu/",
+          "description": "digital archive of documents created by industries which influence public health (tobacco, chemical, drug, fossil fuel)"
+        },
+        {
+          "link": "https://offshoreleaks.icij.org/",
+          "description": "Search through various databases of leaked documents of offshore companies"
+        },
+        {
+          "link": "https://vault.fbi.gov/search",
+          "description": "Vault is FOIA Library, containing 6,700 documents that have been scanned from paper"
+        },
+        {
+          "link": "https://projects.icij.org/luxembourg-leaks/viz/industries/index.html",
+          "description": "— the name of a financial scandal revealed in November 2014 by a journalistic investigation. On this site you will find documents related to more than 350 of the world's largest companies involved in this story"
+        },
+        {
+          "link": "https://rootssearch.io/search",
+          "description": "Quick search service for five sites with genealogical information (as well as births, weddings and deaths/burials)"
+        },
+        {
+          "link": "https://news-navigator.labs.loc.gov/search",
+          "description": "Keyword search of a database of 1.5 million newspaper clippings with photos from the Library of Congress database. It's possible to filter results by year (1900 to 1963) and state."
+        },
+        {
+          "link": "https://annas-archive.org/search",
+          "description": "Search engine of shadow libraries: books, papers, comics, magazines (IPFS Gateway, Library Genesis etc)."
+        },
+        {
+          "link": "https://worldcat.org/",
+          "description": "Enter the name of the paper book and find out which public libraries near you can find it. Works for the USA, Australia and most European countries."
+        },
+        {
+          "link": "https://dailyearth.com/",
+          "description": "Worldwide catalog of daily newspapers (since 1999). 52 USA states. 73 countries."
+        },
+        {
+          "link": "https://www.vialibri.net/",
+          "description": "World's largest search engine for old, rare & second-hand books. Search across 140+ websites worldwide.(Ebay, Amazone, Booklooker, Catawiki, Antiqbook etc)"
+        },
+        {
+          "link": "https://factinsect.com/",
+          "description": "Free online tool for automating #factchecking. In order to confirm or deny some information, the service provides several arguments with references to information sources."
+        },
+        {
+          "link": "https://www.documentcloud.org/documents/",
+          "description": "5 million + publicly available documents. Search by user, organization, project, creation date and many other parameters. There are many documents from government organizations and large corporations."
+        }
+      ]
+    }
+  ]
+}

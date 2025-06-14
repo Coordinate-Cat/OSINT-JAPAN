@@ -1,0 +1,72 @@
+{
+  "title": "Science",
+  "slug": "science",
+  "sections": [
+    {
+      "name": "Academic Research Tools",
+      "slug": "academic-research-tools",
+      "tools": [
+        {
+          "link": "https://www.connectedpapers.com/",
+          "description": "ConnectedPapers - A tool for gathering information about academic papers. It shows a large graph of references to other articles that are present in the text and clearly see the connections between different authors."
+        },
+        {
+          "link": "https://academictree.org/",
+          "description": "AcademicTree - A tool for finding links between scientists (including little-known ones). 150000+ people in database (in all sections combined). Select a field of science. Enter a person's name. See a tree of their teachers and students"
+        },
+        {
+          "link": "https://clinicaltrials.gov/",
+          "description": "clinicaltrials.gov - 433,207 research studies in 221 countries. For people who have a difficult-to-treat disease, this registry will help them learn about recently developed drugs and treatments and get contacts of organizations that are researching a particular disease."
+        },
+        {
+          "link": "https://elicit.org/",
+          "description": "Elicit - AI research assistant. Find answers to any question from 175 million papers. The results show a list of papers with summaries + Summary of the 4 most relevant papers."
+        },
+        {
+          "link": "https://www.explainpaper.com/",
+          "description": "ExplainPaper - AI is a tool to make reading scientific articles easier. Highlight a phrase, sentence or whole paragraph to get its simple and detailed explanation with AI."
+        },
+        {
+          "link": "https://www.base-search.net/",
+          "description": "Bielefeld Academic Search Engine - Search across 311 million 481 thousands documents (most of them with free access). Search by email, domain, first/last name, part of address or keywords."
+        },
+        {
+          "link": "https://scite.ai/",
+          "description": "Scite.ai - Enter the article title or DOI to get a list of publications that cite it. Results can be filtered by type (book, review, article), year, author, journal and other parameters."
+        },
+        {
+          "link": "https://article-summarizer.scholarcy.com/",
+          "description": "Scholarcy - AI papers summarizer. Upload the file or copy the access URL to the article to get: Key concepts; Abstract; Synopsis; Highlights; Summary; Links to download tables from paper in Excel."
+        },
+        {
+          "link": "https://researchrabbitapp.com/home",
+          "description": "Research Rabbit - Find articles and view its connections - similar works, references, citations and more"
+        },
+        {
+          "link": "http://trinka.ai",
+          "description": "Trinka - A partly free online tool to help you prepare a research paper for publication: AI Grammar; Checker (made especially for scientific papers); Consistency checker; Citation checker; Plagiarism checker; Journal founder"
+        },
+        {
+          "link": "https://zendy.io",
+          "description": "Zendy.io - Discover academic journals, articles, & books on one seamless platform. Search keyword, authors, titles ISBN, ISSN etc"
+        },
+        {
+          "link": "https://scinapse.io",
+          "description": "Scinapse.io - Academic Search Engine. Search by 48000 journals"
+        },
+        {
+          "link": "https://poloclub.github.io/argo-scholar/",
+          "description": "Argo Scholar - A tool for analysing connections between research articles"
+        },
+        {
+          "link": "https://inciteful.xyz/",
+          "description": "INCITEFUL - Enter paper title, DOI, PubMed URl, arXiv URL to build a graph of links between the research article and other publications (who it cites and who cites it)"
+        },
+        {
+          "link": "https://chrome.google.com/webstore/detail/paperpanda-%E2%80%94-get-millions/ggjlkinaanncojaippgbndimlhcdlohf/related?utm_source=web",
+          "description": "PaperPanda - In recent years it has become increasingly difficult to find scientific articles. To download their full versions, websites require registration or payment. This extension finds freely available PDF versions of articles in one click."
+        }
+      ]
+    }
+  ]
+}

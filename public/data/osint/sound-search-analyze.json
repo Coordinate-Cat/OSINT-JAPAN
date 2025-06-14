@@ -1,0 +1,20 @@
+{
+  "title": "Sound search and analyze",
+  "slug": "sound-search-analyze",
+  "sections": [
+    {
+      "name": "Sound Search Tools",
+      "slug": "sound-search-tools",
+      "tools": [
+        {
+          "link": "https://www.soundeffectssearch.com/find-a-sound-library/",
+          "description": "find a sound library"
+        },
+        {
+          "link": "https://vocalremover.org/",
+          "description": "An AI-based service that removes vocals from a song, leaving only the music. It works amazingly well."
+        }
+      ]
+    }
+  ]
+}

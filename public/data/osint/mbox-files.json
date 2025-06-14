@@ -1,0 +1,16 @@
+{
+  "title": "MBOX files",
+  "slug": "mbox-files",
+  "sections": [
+    {
+      "name": "MBOX Analysis Tools",
+      "slug": "mbox-analysis-tools",
+      "tools": [
+        {
+          "link": "https://github.com/soxoj/mailto_analyzer",
+          "description": "MAILTO ANALYZER - .mbox files analyzer will show your email address exposure on various services. Helps you find all the sites you are registered. The tool does not transfer data to third-party servers."
+        }
+      ]
+    }
+  ]
+}

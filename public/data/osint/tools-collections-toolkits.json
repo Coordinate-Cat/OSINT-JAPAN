@@ -1,0 +1,228 @@
+{
+  "title": "Tools collections/toolkits",
+  "slug": "tools-collections-toolkits",
+  "sections": [
+    {
+      "name": "OSINT Framework Collections",
+      "slug": "osint-framework-collections",
+      "tools": [
+        {
+          "link": "https://osint.hopain.cyou/index.html",
+          "description": "Osint Search Tools - Several hundred links for quick search in Social Media, Communties, Maps, Documents Search Engines, Maps, Pastes..."
+        },
+        {
+          "link": "https://github.com/matamorphosis/Scrummage",
+          "description": "Scrummage - Ultimate OSINT and Threat Hunting Framework"
+        },
+        {
+          "link": "https://github.com/Lucksi/Mr.Holmes",
+          "description": "Mr.Holmes - osint toolkit for gathering information about domains, phone numbers and social media accounts"
+        },
+        {
+          "link": "https://github.com/Himatric/SEMID",
+          "description": "SEMID osint framework - Search user info in Tiktok, Playstation, Discord, Doxbin,Twitter, Github"
+        },
+        {
+          "link": "https://github.com/MR-NULL666/NAZAR",
+          "description": "NAZAR - universal Osint Toolkit"
+        },
+        {
+          "link": "https://github.com/C0MPL3XDEV/E4GL30S1NT",
+          "description": "E4GL30S1NT - ShellScript toolkit for osint (12 tools)"
+        },
+        {
+          "link": "https://github.com/bhavsec/reconspider",
+          "description": "Recon Spider - Advanced Open Source Intelligence (OSINT) Framework for scanning IP Address, Emails, Websites, Organizations"
+        },
+        {
+          "link": "https://nitinpandey.in/ihunt/",
+          "description": "Hunt Osint Framework - Dozens of online tools for different stages of osint investigations"
+        },
+        {
+          "link": "https://github.com/nodauf/GoMapEnum",
+          "description": "GoMapEnum - Gather emails on Linkedin (via Linkedin and via Google) + User enumeration and password bruteforce on Azure, ADFS, OWA, O365 (this part seems to be still in development)"
+        },
+        {
+          "link": "https://extendsclass.com/",
+          "description": "ExtendClass - One of my favorite sites for automating various routine tasks. Among the many analogues, it stands out for its quality of work and variety of functions"
+        },
+        {
+          "link": "https://addons.mozilla.org/ru/firefox/addon/foxyrecon/",
+          "description": "FoxyRecon - 44 osint tools in one add-on for Firefox"
+        },
+        {
+          "link": "https://github.com/termuxhackers-id/SIGIT",
+          "description": "S.I.G.I.T. - Simple information gathering toolkit"
+        },
+        {
+          "link": "https://github.com/ByDog3r/GvngSearch",
+          "description": "GVNG Search - Command line toolkit for gathering information about person (nickname search, validate email, geolocate ip) and domain (traceroute, dns lookup, tcp port scan etc)."
+        },
+        {
+          "link": "https://github.com/saeeddhqan/Maryam",
+          "description": "Owasp Maryam - modular open-source framework based on OSINT and data gathering"
+        },
+        {
+          "link": "https://github.com/hitesh22rana/ghoulbond",
+          "description": "Ghoulbond - Just another all-in-one command line toolkit for gathering information about system (technical characteristics, internet speed, IP/Mac address, port scanner)+some features for nickname and phone number osint."
+        },
+        {
+          "link": "https://github.com/j3ssie/metabigor",
+          "description": "Metabigoor - Simple and fast osint framework"
+        },
+        {
+          "link": "https://gf.dev/toolbox",
+          "description": "Geekflare Tools - 39 online free tools for website testing"
+        },
+        {
+          "link": "https://docs.google.com/spreadsheets/d/1_x3PXGOahhKT3-ePaWhb3hM1dVxjmBvsVlw6D6lilTQ/edit#gid=1116439221",
+          "description": "Oryon OSINT query tool - Construct investigations links in Google Sheet"
+        },
+        {
+          "link": "https://github.com/leebaird/discover",
+          "description": "Discover - Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing and listeners with metasploit (16 tools in one)"
+        },
+        {
+          "link": "https://one-plus.github.io/DocumentSearch",
+          "description": "one-plus.github.io/DocumentSearch - Document Search osint Toolkit"
+        },
+        {
+          "link": "https://t.me/HowToFindBot",
+          "description": "Telegram HowToFindBot"
+        },
+        {
+          "link": "https://github.com/Te-k/harpoon",
+          "description": "Harpoon"
+        },
+        {
+          "link": "https://researchbuzz.github.io/",
+          "description": "ResearchBuzz - Google Sinker Search queries constructor, Google News Search queries constructor, Quick twitter account historical navigation in archive.org, Blogspace Time Machine and more tools"
+        },
+        {
+          "link": "https://github.com/d8rkmind/Profounder",
+          "description": "Profounder - searching users by nickname and scrapping url's from website"
+        },
+        {
+          "link": "https://github.com/AzizKpln/Moriarty-Project",
+          "description": "Moriarty Project"
+        },
+        {
+          "link": "https://osintcombine.tools/",
+          "description": "Osintcombine Tools"
+        },
+        {
+          "link": "https://github.com/Bafomet666/OSINT-SAN",
+          "description": "OSINT-SAN"
+        },
+        {
+          "link": "https://github.com/ninoseki/mihari",
+          "description": "Mihari"
+        },
+        {
+          "link": "https://one-plus.github.io/Instagram",
+          "description": "One Plus OSINT Toolkit"
+        },
+        {
+          "link": "https://github.com/umair9747/vichiti",
+          "description": "Vichiti"
+        },
+        {
+          "link": "https://github.com/pawlaczyk/sarenka",
+          "description": "Sarenka"
+        },
+        {
+          "link": "https://www.vedbex.com/tools/home",
+          "description": "Vedbex.com"
+        },
+        {
+          "link": "https://synapsint.com/",
+          "description": "Synapsint.com"
+        },
+        {
+          "link": "https://github.com/ankitdobhal/Ashok",
+          "description": "Ashok - Swiff knife for osint"
+        },
+        {
+          "link": "https://github.com/ivre/ivre",
+          "description": "IVRE - framework for network recon"
+        },
+        {
+          "link": "https://chrome.google.com/webstore/detail/search-investigative-and/idgjbdfnngdcenpahfalcamfmcjdfbcj/related",
+          "description": "SEARCH Investigative and Forensic Toolbar - extension with quick access to dozens of online tools for osint, forensics and othef investigations goals."
+        },
+        {
+          "link": "https://github.com/thenurhabib/tenssens",
+          "description": "Tenssens - osint framework"
+        },
+        {
+          "link": "https://github.com/galihap76/collector",
+          "description": "Collector - Universal Osint Toolkit"
+        },
+        {
+          "link": "https://randomtools.io/",
+          "description": "Randomtools - Several dozen online tools for a variety of purposes. Including to facilitate gathering information on Facebook, Twitter, YouTube, Instagram"
+        },
+        {
+          "link": "https://github.com/devXprite/infoooze",
+          "description": "Infooze - User Recon, Mail Finder, Whois/IP/DNS/headers lookup, InstaRecon, Git Recon, Exif Metadata"
+        },
+        {
+          "link": "https://chrome.google.com/webstore/detail/threatpinch-lookup/ljdgplocfnmnofbhpkjclbefmjoikgke/related",
+          "description": "ThreatPinch Lookup - Helps speed up security investigations by automatically providing relevant information upon hovering over any IPv4 address, MD5 hash, SHA2 hash, and CVE title. It's designed to be completely customizable and work with any rest API"
+        },
+        {
+          "link": "https://osint-tool.com/",
+          "description": "Osint tool - A universal online tool for searching various services and APIs with more than a dozen different inputs (phone number, email, website address, domain, etc.)."
+        },
+        {
+          "link": "https://chrome.google.com/webstore/detail/hackers-toolkit/iebkeiopbbfnmieadmojmocohdmaghmb/related",
+          "description": "Hackers toolkit - An extension for quick access to dozens of tools for decoding/encoding strings as well as generating queries for popular types of web attacks (SQLi,LFI,XSS)."
+        },
+        {
+          "link": "https://botster.io/bots",
+          "description": "BOTSTER - A huge collection of bots for gathering, monitoring, analysing and validating data from Instagram, Twitter, Google, Amazon, Linkedin, Shopify and other services."
+        },
+        {
+          "link": "https://github.com/TheEyeOfCyber/Magnifier",
+          "description": "Magnifier - osint python toolkit. 15 scripts in one: - subdomain finder; - website emails collector; - zone transfer; - reverse IP lookup; and much more."
+        },
+        {
+          "link": "https://wannabe1337.xyz/",
+          "description": "Wannabe1337 Toolkit - This site has dozens of free online tools (many of which will be useful for osint): - website and network info gathering tools; - code, text and image processing tools; - IPFS and Fraud tools; - Discord and Bitcoin tools."
+        },
+        {
+          "link": "https://github.com/dmw94/bazzellpy",
+          "description": "BazzellPy - Unofficial(!) Python library for automation work with IntelTechniques Search Tools https://inteltechniques.com/tools/"
+        },
+        {
+          "link": "https://github.com/blacklanternsecurity/bbot",
+          "description": "BBOT - Toolkit of 51 modules (for collecting domain/IP information - cookie_brute, wappalyzer, sslcert, leakix, urlscan, wayback"
+        },
+        {
+          "link": "https://github.com/theahmadov/slash",
+          "description": "SLASH - Universal cli search tool. Search email or username across social media, forums, Pastebin leaks, Github commits and more."
+        },
+        {
+          "link": "https://www.howtoverify.info/",
+          "description": "How to verify? - Visual fact checking mind maps for verification video, audio, source, text. Detailed workflows descriptions with tools, tips and tricks."
+        },
+        {
+          "link": "https://www.godaddy.com/forsale/cyclect.io?utm_source=TDFS_BINNS&utm_medium=BINNS&utm_campaign=TDFS_BINNS&traffic_type=TDFS_BINNS&traffic_id=binns&",
+          "description": "Cyclect - Ultimate OSINT Search Engine + list of 281+ tools for information gathering about: IP Adress, Social Media Account, Email, Phone, Domain, Person, Venicle and more."
+        },
+        {
+          "link": "https://shrewdeye.app/",
+          "description": "ShrewdEye - Online versions of popular command line osint tools: Amass, SubFinder, AssetFinder, GAU, DNSX"
+        },
+        {
+          "link": "https://github.com/dev-lu/osint_toolkit",
+          "description": "OSINT Toolkit - Self-hosted web app (one minute Docker installation) for gathering information about IPs, Domains, URLs, Emails, Hashes, CVEs and more."
+        },
+        {
+          "link": "https://app.osintracker.com/",
+          "description": "OSINTTracker - A simple and free online tool to visualize investigations and collect data about different entry points (domains, email addresses, crypto wallet numbers) using hundreds of different online services."
+        }
+      ]
+    }
+  ]
+}

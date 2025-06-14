@@ -1,0 +1,104 @@
+{
+  "title": "Nicknames",
+  "slug": "nicknames",
+  "sections": [
+    {
+      "name": "Username Search Tools",
+      "slug": "username-search-tools",
+      "tools": [
+        {
+          "link": "https://t.me/maigret_osint_bot",
+          "description": "check accounts by username on 1500 sites. Based on maigret CLI tool"
+        },
+        {
+          "link": "https://analyzeid.com/username/",
+          "description": "view \"Summary\" of accounts found: list of names used, locations, bio, creations dates etc."
+        },
+        {
+          "link": "https://github.com/thewhiteh4t/nexfil",
+          "description": "Search username by 350 social media platforms"
+        },
+        {
+          "link": "https://github.com/CYB3R-G0D/SPY",
+          "description": "Just another very quick and simple account checker by username (210 sites in list)."
+        },
+        {
+          "link": "https://github.com/Rog3rSm1th/Profil3r",
+          "description": "search for profiles in social networks by nickname"
+        },
+        {
+          "link": "https://github.com/BLINKING-IDIOT/Aliens_eye",
+          "description": "Find links to social media accounts in 70 websites by username"
+        },
+        {
+          "link": "https://github.com/rlyonheart/thorndyke",
+          "description": "Checks the availability of a specified username on over 200 websites"
+        },
+        {
+          "link": "https://github.com/soxoj/marple",
+          "description": "It collect links contains nickname/name/surname in url from Google and DuckDuckGo search results."
+        },
+        {
+          "link": "https://github.com/megadose/holehe",
+          "description": "check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function"
+        },
+        {
+          "link": "https://github.com/mishakorzik/UserFinder",
+          "description": "tool for finding profiles by username"
+        },
+        {
+          "link": "https://github.com/snooppr/snoop",
+          "description": "Search users profile by nickname"
+        },
+        {
+          "link": "https://github.com/d8rkmind/Pyosint",
+          "description": "Search for usenames form a list of 326 websites. Scrap a website to extract all links form a given website. Automate the search of subdomains of a given domain from diffrent services"
+        },
+        {
+          "link": "https://datayze.com/alternate-spelling-finder",
+          "description": "When searching for information by name, remember that the same name can be recorded in documents and files very differently, as people of different nationalities perceive sounds differently."
+        },
+        {
+          "link": "https://translit.net",
+          "description": "Sometimes it happens that a person's name is written in Cyrillic, but you can find a lot of info about him in Google if you type his transliteration \"Ivan Ivanov\". This tool will come in handy when working with Russian, Belarusian, Ukrainian, Armenian names"
+        },
+        {
+          "link": "https://seintpl.github.io/NAMINT/",
+          "description": "Enter first, middle (or nickname) and last name, and press Go! to see possible search patterns and links (Google, Yandex, Facebook, Twitter, Linkedin and others social media)"
+        },
+        {
+          "link": "https://username-check.herokuapp.com/",
+          "description": "Simple online tool that checks if a user with a certain nickname is present on popular social networks. Very far behind Maigret/WhatsMyName in terms of number of services, but suitable for a quick check."
+        },
+        {
+          "link": "https://github.com/p1ngul1n0/blackbird",
+          "description": "- Search username across 200+ sites; - API username check (Protonmail, PlayerDB, Hackthebox etc); - Check archived Twitter accounts."
+        },
+        {
+          "link": "https://nameberry.com/search?q=john",
+          "description": "When you are looking for mentions of a person on social media, remember that one name can have dozens of different spelling variations. Ideally, you should check them all, or at least the most popular ones."
+        },
+        {
+          "link": "https://whatsmyname.app",
+          "description": "With Holehe and Maigret, WhatsMyName is one of the most powerful Username enumeration tools."
+        },
+        {
+          "link": "https://github.com/Longwater1234/go-sherlock",
+          "description": "#GO version of Project Sherlock (https://github.com/sherlock-project/sherlock…). It's quite fast. Checks if a user with a certain nickname exists on a thousand sites in a few tens of seconds."
+        },
+        {
+          "link": "https://www.user-searcher.com",
+          "description": "User-Searcher is a powerful and free tool to help you search username in 2000+ websites."
+        },
+        {
+          "link": "https://digitalfootprintcheck.com/checks/free-checker.html",
+          "description": "Similar to WhatsMyName but with options to extend search into email, phone and social handles."
+        },
+        {
+          "link": "https://unavatar.io/john",
+          "description": "Simple free online tool for finding avatars. Replace john in link to nickname, email or domain name"
+        }
+      ]
+    }
+  ]
+}

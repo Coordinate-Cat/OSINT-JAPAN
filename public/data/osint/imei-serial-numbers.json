@@ -1,0 +1,28 @@
+{
+  "title": "IMEI and serial numbers",
+  "slug": "imei-serial-numbers",
+  "sections": [
+    {
+      "name": "Device Information Tools",
+      "slug": "device-information-tools",
+      "tools": [
+        {
+          "link": "https://www.checkmi.info/",
+          "description": "Checking MI account"
+        },
+        {
+          "link": "https://contex.com/serial-number-lookup/",
+          "description": "Contex condoms serial number lookup"
+        },
+        {
+          "link": "https://www.imeipro.info/check_imei_iphone.html",
+          "description": "iPhone IMEI Checker - Get information about iPhone by International Mobile Equipment Identity"
+        },
+        {
+          "link": "https://sndeep.info/en",
+          "description": "SNDeepInfo - Find information about devices (phones, smartphones, cameras, household appliances) by - IMEI; - MEID; - ICCID; - serial number; - Apple Part Number."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "title": "Emails",
+  "slug": "emails",
+  "sections": [
+    {
+      "name": "Email Investigation and Verification",
+      "slug": "email-investigation-verification",
+      "tools": [
+        {
+          "link": "https://github.com/dievus/geeMailUserFinder",
+          "description": "A simple tool to check the validity of a Gmail account. You can check a single email or a list of emails."
+        },
+        {
+          "link": "https://breachchecker.com/",
+          "description": "history of data leaks associated with a particular email address"
+        },
+        {
+          "link": "http://metricsparrow.com/toolkit/email-permutator/",
+          "description": ""
+        },
+        {
+          "link": "https://snov.io/email-finder",
+          "description": "find emails of company employees by domain name."
+        },
+        {
+          "link": "https://github.com/WildSiphon/Mailfoguess",
+          "description": "tool create a lot of possible local-part from personal information, add domain to all local-part respecting the conditions of creation of mail of these domains and verify these mails"
+        },
+        {
+          "link": "https://hunter.io/",
+          "description": "can link to an article to find its author and his email address"
+        },
+        {
+          "link": "https://github.com/sharsil/mailcat",
+          "description": "find existing email addresses by nickname in 22 providers, > 60 domains and > 100 aliases"
+        },
+        {
+          "link": "https://github.com/khast3x/h8mail",
+          "description": "email OSINT and breach hunting tool using different breach and reconnaissance services, or local breaches such as Troy Hunt's \"Collection1\" and the infamous \"Breach Compilation\" torrent"
+        },
+        {
+          "link": "https://mailboxlayer.com/",
+          "description": "free api for email adress checking"
+        },
+        {
+          "link": "https://tools.emailhippo.com/email/",
+          "description": "Simple free online tool for check the existence of a particular email address and evaluate its reliability on a 10-point scale."
+        },
+        {
+          "link": "https://spycloud.com/check-your-exposure/",
+          "description": "check for a particular email in data leaks. Shows how many addresses registered on a particular house have been scrambled"
+        },
+        {
+          "link": "https://en.gravatar.com/site/check/",
+          "description": "Just enter email and see what the person's Gravatar avatar looks like."
+        },
+        {
+          "link": "https://docs.google.com/spreadsheets/d/17URMtNmXfEZEW9oUL_taLpGaqTDcMkA79J8TRw4xnz8/edit#gid=0",
+          "description": "Google Sheet table that generate 46 variants of user email by first name, last name and domain"
+        },
+        {
+          "link": "https://haveibeensold.app/",
+          "description": "The service checks if the e-mail address is included in one of the databases, which are sold illegally and are used for various illegal activities such as spamming."
+        },
+        {
+          "link": "https://github.com/gr33nm0nk2802/mailMeta",
+          "description": "Simple tool to analyze emails headers and identify spoofed emails."
+        },
+        {
+          "link": "https://github.com/keraattin/EmailAnalyzer",
+          "description": "Tool for analyzing .eml files. It analyzes and checks with VirusTotal links, attachments and headers."
+        },
+        {
+          "link": "https://avatarapi.com/",
+          "description": "Enter email address and receive an image of the avatar linked to it. Over a billion avatars in the database collected from public sources (such as Gravatar, Stackoverflow etc.)"
+        },
+        {
+          "link": "https://www.experte.com/email-finder",
+          "description": "Enter a person's first and last name, domain name of a company or email service, and then get a list of possible email addresses with their status (free)."
+        },
+        {
+          "link": "https://defastra.com/",
+          "description": "Assesses the reliability of a phone or email on a number of different parameters. Displays social network profiles registered to the number or email. Partially free"
+        },
+        {
+          "link": "https://osint.industries/email",
+          "description": "Enter emai/phonel and get a list of accounts that may be associated with it (accounts for which this email was used to register or those where the email in the profile description)"
+        },
+        {
+          "link": "https://github.com/z0m31en7/WhatMail",
+          "description": "Simple #python tool for email headers analyze and visualize them in a table."
+        },
+        {
+          "link": "https://github.com/N0rz3/Zehef",
+          "description": "A simple #Python tool that collects information about an email. It checks its reputation in different sources and finds possible accounts in different social networks (some functions may not work properly, the tool is in development)."
+        },
+        {
+          "link": "https://castrickclues.com/",
+          "description": "Online tool to get Google and Skype account information by email, phone number or nickname (free). + search for accounts in other services (paid)."
+        }
+      ]
+    }
+  ]
+}

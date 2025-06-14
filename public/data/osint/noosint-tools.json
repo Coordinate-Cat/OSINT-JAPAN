@@ -1,0 +1,112 @@
+{
+  "title": "NOOSINT tools",
+  "slug": "noosint-tools",
+  "sections": [
+    {
+      "name": "General NOOSINT Tools",
+      "slug": "general-noosint-tools",
+      "tools": [
+        {
+          "link": "https://annotely.com/editor",
+          "description": "Annotely - Perfectly simple tool for putting an arrow on a screenshot, highlighting some detail or blurring personal data."
+        },
+        {
+          "link": "https://www.pramp.com/",
+          "description": "Pramp - The service allows you to take five free (!) online coding and productmanagement interview training sessions with peers"
+        },
+        {
+          "link": "http://www.remindmewhen.io/",
+          "description": "RemindWhen - Simple app that reminds you on email if your favorite country opens for tourists from your country."
+        },
+        {
+          "link": "https://web--proxy.herokuapp.com/",
+          "description": "Web--proxy - free web proxy"
+        },
+        {
+          "link": "https://chrome.google.com/webstore/detail/record-voice-comments-in/lbfofpndjldbnhnhibhmggblcbpoomon",
+          "description": "Google Docs Voice Comments - simple trick to save time. Voice comments in GoogleDocs, Sheets, Slides, and Forms."
+        },
+        {
+          "link": "http://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20",
+          "description": "Text to ASCII Art Generator (TAAG) - This site will help you make atmospheric lettering for your command line tool or README."
+        },
+        {
+          "link": "https://workspace.google.com/u/0/marketplace/app/show/82177279234?hl=ru&pann=docs_addon_widget",
+          "description": "Snow - A very simple add-on that speeds up and simplifies the formatting of GoogleDocs. \"Show\" shows non-printable characters (spaces, tabs, page breaks, indents, etc.)"
+        },
+        {
+          "link": "http://websdr.ewi.utwente.nl:8901/",
+          "description": "Wide-band WebSDR - Online access to a short-wave receiver located at the University of Twente. It can be used to listen to military conversations (voice or Morse code)"
+        },
+        {
+          "link": "https://crontab.guru/",
+          "description": "Crontab guru - Online \"shedule expression\" editor (for setting task times in Crontab files)."
+        },
+        {
+          "link": "https://chmod-calculator.com/",
+          "description": "Chmod calculator - Calculate the octal numeric or symbolic value for a set of file or folder permissions in Linux servers. Check the desired boxes or directly enter a valid numeric value to see its value in other format"
+        },
+        {
+          "link": "https://ray.so/",
+          "description": "Ray So - A simple tool that allows you to beautifully design code as a picture (for social media post or article)."
+        },
+        {
+          "link": "https://www.ultimatewindowssecurity.com/",
+          "description": "Windows Event Collection - A tool to help you understand Windows, SharePoint, SQLServer and Exchange system security logs."
+        },
+        {
+          "link": "https://chrome.google.com/webstore/detail/hack-this-page/nbfegodimhenhkghjeppighcbpdinhdp/related",
+          "description": "Hack This Page - A simple extension that allows you to edit the text of any web page."
+        },
+        {
+          "link": "https://soundraw.io/",
+          "description": "Soundraw - AI music generation"
+        },
+        {
+          "link": "https://chrome.google.com/webstore/detail/screen-recorder/jgmmgiojkjopgnanopiamhbhnpaednfg/related",
+          "description": "Screenshot - Full Page Screen Capture - record a video of part of the screen using a very easy-to-use browser extension"
+        },
+        {
+          "link": "https://github.com/securisec/chepy",
+          "description": "Chepy - Python command line version of CyberChef"
+        },
+        {
+          "link": "https://www.typeit.org/",
+          "description": "Typeit - If the text in the picture is not recognised using Google Lens or other OCR tools, try just typing it character by character using the online keyboard. This website has these for 25 different languages."
+        },
+        {
+          "link": "https://transform.tools/",
+          "description": "Transform Tools - This tool is worth knowing for developers and anyone who has to work with different data formats. It can convert: JSON to MySQL, JavaScript to JSON, TypeScript to JavaScript, Markdown to HTML"
+        },
+        {
+          "link": "https://www.autoregex.xyz/",
+          "description": "Autoregex - AI regular expressions generator. Generates a pattern by verbal description. It does not work perfectly (see picture with bitcoin wallet, there is an error, it does not always start with 13). But in general the service is very impressive!"
+        },
+        {
+          "link": "https://markmap.js.org/",
+          "description": "MARKMAP - A simple and free online tool to convert Markdown to Mindmap (SVG or interactive HTML). Formatting options are not too many, but enough to create an informative and clear visualization."
+        },
+        {
+          "link": "https://xmind.works/",
+          "description": "Xmind Works - Online tool for open and editing .xmind files"
+        },
+        {
+          "link": "https://github.com/paij0se/cligpt",
+          "description": "CLIGPT - The simplest tool possible (with as few settings as possible) for working with ChatGPT API at the command line and using in bash scripts."
+        },
+        {
+          "link": "https://markwhen.com/",
+          "description": "MarkWhen - Free online tool that converts Markdown to graphical timeline. It will come in handy for investigations where you need to investigate time-bound events, or simply for quick project planning. Export results in .SVG, .PNG, .MW or share link."
+        },
+        {
+          "link": "https://github.com/alexandreborges/malwoverview",
+          "description": "MALWOVERVIEW - Get maximum information about potentially malicious files and links from: Virus Total, Hybrid Analysis, URLHaus, PolySwarm, Mal Share, Alien Vault, Malpedia, ThreatFox, Triage, InQuest"
+        },
+        {
+          "link": "https://github.com/everywall/ladder",
+          "description": "LADDER - A tool to enhance web browsing experience: bypass paywalls and remove ads, no tracking and logs, modify URL parameters, http-headers and HTML code of web pages and more."
+        }
+      ]
+    }
+  ]
+}

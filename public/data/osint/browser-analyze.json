@@ -1,0 +1,28 @@
+{
+  "title": "Browser analyze",
+  "slug": "browser-analyze",
+  "sections": [
+    {
+      "name": "Browser Analysis Tools",
+      "slug": "browser-analysis-tools",
+      "tools": [
+        {
+          "link": "https://chrome.google.com/webstore/detail/web-history-stat/fccaimiahhpljpnlnheimldcfhdhjgdl/related",
+          "description": "Web history stat - detailed statistics of your browser history"
+        },
+        {
+          "link": "https://coveryourtracks.eff.org",
+          "description": "coveryourtracks.eff.org - can tell a lot about your browser and computer, including showing a list of installed fonts on the system."
+        },
+        {
+          "link": "https://chrome.google.com/webstore/detail/webmapper/foachceonkmkeiigdbkjcihnaabppicf/related",
+          "description": "Webmapper - Extension that create a map-visualization based by browser history. A visual representation of the most visited sites in 10, 20, 50 or 100 days. Zoomable and searchable."
+        },
+        {
+          "link": "https://chrome.google.com/webstore/detail/export-historybookmarks-t/dcoegfodcnjofhjfbhegcgjgapeichlf",
+          "description": "Export Chrome History - A simple extension for Googlechrome that allows you to save detailed information about links from browser history as CSV/JSON. Useful for both personal archives and investigations using other people's computers."
+        }
+      ]
+    }
+  ]
+}

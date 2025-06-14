@@ -1,0 +1,20 @@
+{
+  "title": "Text Analyze",
+  "slug": "text-analyze",
+  "sections": [
+    {
+      "name": "Text Analysis Tools",
+      "slug": "text-analysis-tools",
+      "tools": [
+        {
+          "link": "https://headlines.sharethrough.com/",
+          "description": "analyzes headlines according to four indicators (strenghts, suggestions, engagement, impression) and gives a score from 1 to 100"
+        },
+        {
+          "link": "https://wordtune.com/read",
+          "description": "Provide a link to the text of the article or upload a PDF document. In response, the service will give a brief retelling of the main ideas of the text."
+        }
+      ]
+    }
+  ]
+}

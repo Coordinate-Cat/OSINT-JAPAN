@@ -1,0 +1,64 @@
+{
+  "title": "Video editing and analyze",
+  "slug": "video-editing-analyze",
+  "sections": [
+    {
+      "name": "Video Analysis Tools",
+      "slug": "video-analysis-tools",
+      "tools": [
+        {
+          "link": "https://t.co/jHWseS1PUP",
+          "description": "Scene detection - Determine the timecodes on which there is a change of scenery in the video and significantly save time watching it"
+        },
+        {
+          "link": "https://huggingface.co/spaces/kabita-choudhary/get_text_from_video",
+          "description": "Get text from video - Transcribe uploaded video file"
+        },
+        {
+          "link": "https://huggingface.co/spaces/Ron0420/EfficientNetV2_Deepfakes_Video_Detector",
+          "description": "EfficientNetV2 - DeepFake Video Detector"
+        },
+        {
+          "link": "https://downsub.com/",
+          "description": "Extract subtitles from video"
+        },
+        {
+          "link": "https://www.subtitlevideo.com/",
+          "description": "Extract subtitles from video"
+        },
+        {
+          "link": "https://www.flexclip.com/tools/metadata-video/",
+          "description": "FlexClip - Get video metadata"
+        },
+        {
+          "link": "https://huggingface.co/spaces/fffiloni/Pix2Pix-Video",
+          "description": "Pix2Pix-Video - Edit video by prompt"
+        },
+        {
+          "link": "https://www.unscreen.com/",
+          "description": "remove the background from an uploaded video"
+        },
+        {
+          "link": "https://chrome.google.com/webstore/detail/textgrab/kbdckoabalhppclkadhabohnoihdbnja/related",
+          "description": "TextGrab - Simple Chrome extension for copying and recognizing text from videos (YouTube, Google Meetup etc.)"
+        },
+        {
+          "link": "https://github.com/mifi/lossless-cut",
+          "description": "Lossless Cut - javascript opensource swiss army knife for audio/video editing."
+        },
+        {
+          "link": "https://www.movio.la/",
+          "description": "Create spoken person video from text"
+        },
+        {
+          "link": "https://targum.video/",
+          "description": "Tagrum - Upload a video file to the site or leave a link to the video. Wait a few minutes. Get a subtitled version of the video in English (other languages will probably be available later)."
+        },
+        {
+          "link": "https://huggingface.co/spaces/fffiloni/scene-edit-detection",
+          "description": "Scene Edit Detection - A tool to help speed up and automate your video viewing. It highlights the frames where a new scene begins and allows you to quickly analyze the key semantic parts of the video."
+        }
+      ]
+    }
+  ]
+}

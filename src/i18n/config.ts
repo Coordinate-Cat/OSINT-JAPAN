@@ -33,7 +33,7 @@ export const supportedLngs = {
   ja: "日本語",
 };
 
-// シンプルにサーバーとクライアントで同じ設定を使用
+// サーバーとクライアントで一貫した設定を使用
 i18n
   .use(initReactI18next)
   .use(
@@ -42,7 +42,7 @@ i18n
     }),
   )
   .init({
-    lng: "ja", // 常に日本語をデフォルトとする
+    lng: "ja", // 初期値は日本語（SSR時の一貫性のため）
     fallbackLng: "ja",
     supportedLngs: Object.keys(supportedLngs),
     debug: false,
@@ -50,6 +50,10 @@ i18n
     interpolation: {
       escapeValue: false,
     },
+    // SSRでのハイドレーション問題を防ぐため、クライアントサイドでの自動読み込みを無効化
+    load: "languageOnly",
+    cleanCode: false,
+    initImmediate: false,
   });
 
 export default i18n;

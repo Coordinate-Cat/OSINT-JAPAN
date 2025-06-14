@@ -27,21 +27,30 @@ export default function RootLayout({
       className={`${inter.variable} ${notoSansJP.variable} lang-ja`}
     >
       <head>
-        {/* ダークモードのフラッシュを防ぐためのスクリプト（ハイドレーション前に実行） */}
+        {/* ダークモードと言語設定のフラッシュを防ぐためのスクリプト（ハイドレーション前に実行） */}
         <script
           dangerouslySetInnerHTML={{
             __html: `
               (function() {
                 try {
+                  // ダークモード設定
                   var theme = localStorage.getItem('darkMode');
-                  var isDark = theme !== null ? JSON.parse(theme) : 
+                  var isDark = theme !== null ? JSON.parse(theme) :
                     (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches);
-                  
+
                   if (isDark) {
                     document.documentElement.classList.add('dark');
                   }
+
+                  // 言語設定の初期化（ハイドレーション後に適用されるまでデフォルト言語を保持）
+                  var savedLang = localStorage.getItem('i18nextLng');
+                  if (savedLang && (savedLang === 'ja' || savedLang === 'en')) {
+                    document.documentElement.setAttribute('lang', savedLang);
+                    document.documentElement.classList.remove('lang-ja', 'lang-en');
+                    document.documentElement.classList.add('lang-' + savedLang);
+                  }
                 } catch (e) {
-                  // エラー時は何もしない（デフォルトのライトモードのまま）
+                  // エラー時は何もしない（デフォルト設定のまま）
                 }
               })();
             `,

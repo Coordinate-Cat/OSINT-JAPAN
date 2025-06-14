@@ -1,0 +1,372 @@
+{
+  "title": "Maps, Geolocation and Transport",
+  "slug": "maps-geolocation-transport",
+  "sections": [
+    {
+      "name": "Social media and photos",
+      "slug": "social-media-and-photos",
+      "tools": [
+        {
+          "link": "https://app.skylens.io/",
+          "description": "Posts with geotags from five social networks at once on one map (Twitter, YouTube, Instagram, Flickr, Vkontakte)"
+        },
+        {
+          "link": "http://photo-map.ru/",
+          "description": "search geotagged photos from VK.com"
+        },
+        {
+          "link": "https://map.snapchat.com/",
+          "description": ""
+        },
+        {
+          "link": "https://mattw.io/youtube-geofind/",
+          "description": "view YouTube geottaged video on map"
+        },
+        {
+          "link": "https://www.flickr.com/map",
+          "description": ""
+        },
+        {
+          "link": "http://www.whatsthatpicture.com/flickr/commons-map.php",
+          "description": "displays only Flickr photos distributed under a Creative Commons license (250 of the latest for each location)"
+        },
+        {
+          "link": "https://iknowwhereyourcatlives.com/cat/99638e1fe0",
+          "description": "geottaged photo from Instagram with #cat hashtag"
+        },
+        {
+          "link": "https://www.trendsmap.com/map",
+          "description": "Explore most popular #Twitter trends, hashtags and users on the worldmap"
+        },
+        {
+          "link": "https://pastvu.com/",
+          "description": "View historical photos taken at a particular location on a map."
+        },
+        {
+          "link": "https://birdhunt.co/",
+          "description": "A very simple tool that allows you to select a geolocation/radius and get a list of recent tweets made in that place."
+        },
+        {
+          "link": "https://wikishootme.toolforge.org/",
+          "description": "Worldwide map of geotagged Wikipedia Creative Commons Images. To display more information, log in with your Media Wiki account."
+        },
+        {
+          "link": "https://hicsuntleones.nl/paintedplanet/",
+          "description": "Click on a point on the map to get a list of landscapes by famous artists depicting the area."
+        },
+        {
+          "link": "https://copernix.io/",
+          "description": "Worldwide map of geolocated Wikipedia articles. It's possible to enter the name of a locality to see articles about local streets or attractions."
+        },
+        {
+          "link": "https://wikinearby.toolforge.org/?lang=en&q=55.333056%2C+27.248889",
+          "description": "Enter geographic coordinates, language, and get a list of Wikipedia articles about streets, towns, stations and other notable places nearby."
+        },
+        {
+          "link": "https://www.huntintel.io/",
+          "description": "get a list of links to Facebook/Instagram locations linked to geographic coordinates"
+        }
+      ]
+    },
+    {
+      "name": "Nature",
+      "slug": "nature",
+      "tools": [
+        {
+          "link": "https://ngmdb.usgs.gov/mapview/?center=-97,39.6&zoom=4",
+          "description": "map for exploring some geologic maps and articles from the NGMDB (National Geologic Map Database)."
+        },
+        {
+          "link": "http://waqi.info",
+          "description": "World's Air Pollution: Real-time Air Quality Index map"
+        },
+        {
+          "link": "https://globalfishingwatch.org/map/",
+          "description": "click on a point on the map and get the data on the current fishing effort at that location."
+        },
+        {
+          "link": "https://www.ncei.noaa.gov/maps/hazards/",
+          "description": "Natural Hazards Viewer (worldwide)"
+        },
+        {
+          "link": "https://www.lightningmaps.org/",
+          "description": "lightning strikes in real time and also data on thunderstorms that ended months or years ago"
+        },
+        {
+          "link": "https://www.lightpollutionmap.info/",
+          "description": "showing the degree of light pollution in different countries. It's possible to see the data over time (since 2013)"
+        },
+        {
+          "link": "https://www2.cifor.org/global-wetlands/",
+          "description": "Interactive map of open waters, mangroves, swamps, fens, riverines, floodswamps, marshs, wet meadows and floodplains (unfortunately, there are not all countries in the world)"
+        },
+        {
+          "link": "https://firms.modaps.eosdis.nasa.gov/map/",
+          "description": "online map of fire hotspots around the world (data from VIIRS and MODIS satellites, last 24 hours)"
+        },
+        {
+          "link": "https://www.ocearch.org/tracker/",
+          "description": "Click on a shark on the world map and find out its name, size and travel log."
+        },
+        {
+          "link": "https://ss2.climatecentral.org/#12/40.7298/-74.0070?show=satellite&projections=0-K14_RCP85-SLR&level=5&unit=feet&pois=hide",
+          "description": "Map of points where there is a risk of significant sea level rise in the event of melting glaciers."
+        },
+        {
+          "link": "https://usa.fishermap.org/depth-map/",
+          "description": "when you click on a freshwater body of water, its detailed map opens, on which the depth at different points is marked"
+        },
+        {
+          "link": "https://www.mindat.org/countrylist.php",
+          "description": "mineral maps for different countries"
+        },
+        {
+          "link": "https://www.ventusky.com/",
+          "description": "collection of weather map (wind, rain, temperature, air pressure, humidity, waves etc)"
+        },
+        {
+          "link": "https://www.wunderground.com/history",
+          "description": "weather history data"
+        },
+        {
+          "link": "http://rain-alarm.com",
+          "description": "shows where it is raining on the map. You can enable notification of approaching rain (in the browser and in the mobile app)"
+        },
+        {
+          "link": "https://cyclocane.com",
+          "description": "click on the hurricane on the map and get detailed information about it"
+        },
+        {
+          "link": "https://www.meteoblue.com/",
+          "description": "Weather stats data"
+        },
+        {
+          "link": "https://zoom.earth/",
+          "description": "Worldwide map of rains, storms, fires, heats, winds and others natural phenomenas"
+        },
+        {
+          "link": "https://maps.ngdc.noaa.gov/viewers/bathymetry/",
+          "description": "worldwide detailed interactive bathymetry map"
+        },
+        {
+          "link": "https://soar.earth/",
+          "description": "big collection satellite, drone and ecological maps"
+        },
+        {
+          "link": "https://academo.org/demos/geodesics/",
+          "description": "finding the shortest path between two points"
+        },
+        {
+          "link": "https://www.google.com/earth/",
+          "description": "3D representation of Earth based primarily on satellite imagery"
+        },
+        {
+          "link": "http://everymountainintheworld.com/",
+          "description": "Map of the world showing the mountains (with absolute and relative altitude and links to Peakbagger, Listsofjohn and Caltopo)."
+        },
+        {
+          "link": "https://rivermap.org/map/#sprache=en",
+          "description": "Online map with the most detailed information on Europe's rivers (mostly central for the time being, but the data is being updated): direction and speed, water temperature, depth, slope angle, etc."
+        },
+        {
+          "link": "https://www.gbif.org/occurrence/map?q=cobra",
+          "description": "Enter the name of an animal, bird or plant to see a map of where it has been spotted."
+        },
+        {
+          "link": "https://www.fmglobal.com/research-and-resources/nathaz-toolkit/flood-map",
+          "description": "Enter location and assess the risk of flooding, earthquakes and hail in this place on the map."
+        },
+        {
+          "link": "https://river-runner-global.samlearner.com/",
+          "description": "Click on any point on the map and trace the path that a drop of rainwater takes from current location to the world's oceans."
+        },
+        {
+          "link": "https://macrostrat.org/",
+          "description": "Macrostrat's geologic map system integrates over 290 bedrock geologic maps from around the world into a single, multiscale database (c)."
+        },
+        {
+          "link": "http://global-flood-database.cloudtostreet.ai/",
+          "description": "Detailed statistics on floods over the last 15 years (worldwide): precipitation levels, flooded area, number of people affected, dates, duration in days, etc."
+        },
+        {
+          "link": "https://www.gaisma.com/en/",
+          "description": "A site for those who verify the location of a photo by the position of the sun. It is very much inferior in functionality to http://timeanddate.com, but its interface is much simpler."
+        }
+      ]
+    },
+    {
+      "name": "Aviation",
+      "slug": "aviation",
+      "tools": [
+        {
+          "link": "https://skyvector.com/",
+          "description": "tool is designed for planning private flights. And you can find an incredible amount of data about the current situation in the sky on it"
+        },
+        {
+          "link": "https://www.flightconnections.com/",
+          "description": "click on the airport on the map to see the cities from which it's possible fly direct"
+        },
+        {
+          "link": "https://www.ntsb.gov/_layouts/ntsb.aviation/index.aspx",
+          "description": ""
+        },
+        {
+          "link": "https://data.ntsb.gov/carol-main-public/basic-search",
+          "description": ""
+        },
+        {
+          "link": "http://rzjets.net/aircraft/",
+          "description": "user updated online database (census) of civilian jet and turbojet aircraft"
+        },
+        {
+          "link": "https://globe.adsbexchange.com/",
+          "description": "tracking flights on a map"
+        },
+        {
+          "link": "https://transtats.bts.gov/ONTIME/",
+          "description": "flight schedules and data on the actual departure/arrival times of flights in the U.S. for more than 30 years (!))"
+        },
+        {
+          "link": "https://chrome.google.com/webstore/detail/legrooms-for-google-fligh/nhonfddkgankhjilponlbdccpabaaknp/related",
+          "description": "An extension that displays the size of the legroom between the seats next to the flight information."
+        },
+        {
+          "link": "https://flight-status.info/",
+          "description": "- get a list of airports by city name; - view the flight schedule of a particular airport; - view the flight schedule of a particular airline; - getting detailed information about a flight and more"
+        }
+      ]
+    },
+    {
+      "name": "Maritime",
+      "slug": "maritime",
+      "tools": [
+        {
+          "link": "https://www.track-trace.com/container",
+          "description": "tracking a shipping container by number"
+        },
+        {
+          "link": "http://container-tracking.org/",
+          "description": "tracking a shipping container by number"
+        },
+        {
+          "link": "https://www.searates.com/container/tracking/",
+          "description": "tracking a shipping container by number"
+        },
+        {
+          "link": "https://www.cma-cgm.com/ebusiness/schedules/voyage",
+          "description": "search for voyage details by voyage number or ship name"
+        },
+        {
+          "link": "https://theshippingdatabase.com/",
+          "description": "comprehensive archive of the world ships. There is even data for 1820!!!!!!!"
+        },
+        {
+          "link": "https://www.submarinecablemap.com/",
+          "description": "submarine communications cables map"
+        },
+        {
+          "link": "https://www.marinevesseltraffic.com/submarine-vessels-tracking-map",
+          "description": ""
+        },
+        {
+          "link": "https://ports.com/sea-route/",
+          "description": "online calculation of travel time between two ports (with optimal path). It's possible to select the speed from 5 to 40 knots. Shows a list of the seas through which it passes."
+        },
+        {
+          "link": "https://www.livecruiseshiptracker.com/",
+          "description": "Large catalogue of cruise ship research materials: - map with trackers; - timetables; - webcams on decks and in ports; - elaborate thematic news aggregator"
+        }
+      ]
+    },
+    {
+      "name": "Railway",
+      "slug": "railway",
+      "tools": [
+        {
+          "link": "https://juckins.net/amtrak_status/archive/html/history.php",
+          "description": "find out the train schedule for a station on a particular day that passed many years ago (since 2008)"
+        },
+        {
+          "link": "https://www.nsinternational.com/en/stations/station-maps-floor-plan",
+          "description": ""
+        },
+        {
+          "link": "https://rasp.yandex.ru/map/trains",
+          "description": "Live map of trains for Russia, Belarus, Ukraine, Kazahstan and Abhazia"
+        },
+        {
+          "link": "https://chronotrains-eu.vercel.app/",
+          "description": "A terrific weekend travel planning service for Europeans. It shows how far you can go from a certain station in 5 hours by train."
+        },
+        {
+          "link": "https://direkt.bahn.guru/",
+          "description": "Enter the name of the station to see what cities you can get to by train without changing (+ travel time for each city)."
+        },
+        {
+          "link": "https://mobility.portal.geops.io/world.geops.transit?baselayer=world.geops.travic&layers=paerke,strassennamen,haltekanten,haltestellen,pois,world.geops.traviclive&x=810000&y=5900000&z=5.5",
+          "description": "A world map showing real-time train traffic (with route point's exact geographic coordinates) and schedules on the roads of Europe, North and South America and Australia."
+        },
+        {
+          "link": "https://railcabrides.com/en/mapsearch",
+          "description": "Click on a point on the railway on the world map (railways are marked in orange or red) to see a list of rail cab videos from that location. With this service you can see many places where Google Street View has not yet reached!"
+        },
+        {
+          "link": "https://www.zugfinder.net/en/start",
+          "description": "Detailed information on trains, stations and real-time train traffic for European countries"
+        }
+      ]
+    },
+    {
+      "name": "Routes",
+      "slug": "routes",
+      "tools": [
+        {
+          "link": "https://ridewithgps.com/users",
+          "description": ""
+        },
+        {
+          "link": "http://www.wandermap.net/en/#/z15/55.7522011,37.6156006/terrain",
+          "description": "hiking routes world map"
+        },
+        {
+          "link": "http://www.runmap.net/en/?tab=new#/z15/55.7522011,37.6156006/terrain",
+          "description": "running routes world map"
+        },
+        {
+          "link": "https://www.bikemap.net/",
+          "description": "biking route world map"
+        }
+      ]
+    },
+    {
+      "name": "Transport",
+      "slug": "transport",
+      "tools": [
+        {
+          "link": "https://cipher387.github.io/venicle_number_search_toolbox/",
+          "description": "search information about car by venicle numbers (14 different countries from one page) - #GreatBritain, #Norway, #Denmark, #Russian and others"
+        },
+        {
+          "link": "https://tracker.geops.ch",
+          "description": "real time info about public transport in 739 cities and towns in the dozens of countries"
+        },
+        {
+          "link": "https://cipher387.github.io/public_transport_maps/",
+          "description": "20 online public transport maps (most real-time) for different cities and countries around the world"
+        },
+        {
+          "link": "http://www.worldlicenseplates.com/",
+          "description": "graphic index of license plates of different countries of the world"
+        },
+        {
+          "link": "https://openrailwaymap.org/",
+          "description": "Map of the world with information about the railroad tracks. It's possible to visualize maximum speed, electrification, track gauge, and other parameters."
+        },
+        {
+          "link": "https://www.waze.com/en-GB/live-map/",
+          "description": "Online map (+mobile app) for information about various problems on the roads (accidents, street closures, police parking, etc.) around the world. Waze especially interesting because it stores the marks users left a few days or weeks ago."
+        }
+      ]
+    }
+  ]
+}

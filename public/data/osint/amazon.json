@@ -1,0 +1,24 @@
+{
+  "title": "Amazon",
+  "slug": "amazon",
+  "sections": [
+    {
+      "name": "Amazon Research Tools",
+      "slug": "amazon-research-tools",
+      "tools": [
+        {
+          "link": "https://github.com/scrapehero-code/amazon-scraper",
+          "description": "Amazon Scraper - scraped detail information about list of items"
+        },
+        {
+          "link": "https://amazon-asin.com/",
+          "description": "Amazon ASIN Finder"
+        },
+        {
+          "link": "https://www.sellerapp.com/amazon-reverse-asin.html",
+          "description": "Sellerapp.com. Amazon Reverse ASIN search"
+        }
+      ]
+    }
+  ]
+}

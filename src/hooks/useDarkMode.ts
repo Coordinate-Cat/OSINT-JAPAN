@@ -13,13 +13,14 @@ export const useDarkMode = () => {
     // クライアントサイドでのみ実行
     try {
       const savedTheme = localStorage.getItem("darkMode");
-      const systemPrefersDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
-      
+      const systemPrefersDark = window.matchMedia(
+        "(prefers-color-scheme: dark)",
+      ).matches;
+
       // 保存された設定があればそれを使用、なければシステム設定を使用
-      const initialDarkMode = savedTheme !== null 
-        ? JSON.parse(savedTheme) 
-        : systemPrefersDark;
-      
+      const initialDarkMode =
+        savedTheme !== null ? JSON.parse(savedTheme) : systemPrefersDark;
+
       setIsDarkMode(initialDarkMode);
       updateDocumentClass(initialDarkMode);
 
@@ -35,7 +36,7 @@ export const useDarkMode = () => {
 
       mediaQuery.addEventListener("change", handleSystemThemeChange);
       setMounted(true);
-      
+
       return () => {
         mediaQuery.removeEventListener("change", handleSystemThemeChange);
       };
@@ -50,16 +51,16 @@ export const useDarkMode = () => {
    */
   const toggleDarkMode = () => {
     if (!mounted) return;
-    
+
     const newMode = !isDarkMode;
     setIsDarkMode(newMode);
-    
+
     try {
       localStorage.setItem("darkMode", JSON.stringify(newMode));
     } catch (e) {
       console.error("ダークモード設定の保存に失敗:", e);
     }
-    
+
     updateDocumentClass(newMode);
   };
 

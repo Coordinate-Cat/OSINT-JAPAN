@@ -1,0 +1,88 @@
+{
+  "title": "Virtual Machines/Linux distributions",
+  "slug": "virtual-machines-linux-distributions",
+  "sections": [
+    {
+      "name": "Security and OSINT Linux Distributions",
+      "slug": "security-osint-linux-distributions",
+      "tools": [
+        {
+          "link": "https://github.com/Double2Sky/OffenOsint",
+          "description": "Offen Osint"
+        },
+        {
+          "link": "https://www.blackarch.org",
+          "description": "BlackArch Linux"
+        },
+        {
+          "link": "https://www.kali.org",
+          "description": "Kali Linux"
+        },
+        {
+          "link": "https://csilinux.com",
+          "description": "CSI Linux"
+        },
+        {
+          "link": "https://labs.fedoraproject.org/security/download/index.html",
+          "description": "Fedora Security Lab"
+        },
+        {
+          "link": "https://github.com/HuronOsint/OsintDistro",
+          "description": "Huron Osint"
+        },
+        {
+          "link": "https://tsurugi-linux.org",
+          "description": "Tsurugi Linux"
+        },
+        {
+          "link": "http://www.osintux.org",
+          "description": "Osintux"
+        },
+        {
+          "link": "https://www.tracelabs.org/initiatives/osint-vm",
+          "description": "TraceLabs OSINT VM"
+        },
+        {
+          "link": "https://dracos-linux.org",
+          "description": "Dracos Linux"
+        },
+        {
+          "link": "https://archstrike.org",
+          "description": "ArchStrike"
+        },
+        {
+          "link": "https://septor.sourceforge.io",
+          "description": "Septor Linux"
+        },
+        {
+          "link": "https://twitter.com/ParrotSec",
+          "description": "Parrot Security"
+        },
+        {
+          "link": "https://github.com/Dimaslg/osintBOX",
+          "description": "osintBOX - Parrot OS Home edition modified with the popular OSINT tools: Dmitry, ExifTool, Maltego, Sherlock, SpiderFoot and much more."
+        },
+        {
+          "link": "https://www.pentoo.ch",
+          "description": "Pentoo Linux"
+        },
+        {
+          "link": "https://deftlinux.net",
+          "description": "Deft Linux"
+        },
+        {
+          "link": "https://www.backbox.org",
+          "description": "BackBox"
+        },
+        {
+          "link": "https://sourceforge.net/projects/falcon-archlinux/",
+          "description": "Falcon Arch Linux"
+        },
+        {
+          "link": "https://github.com/adi0x90/attifyos",
+          "description": "AttifyOS - Linux distro for pentesting IoT devices."
+        }
+      ]
+    }
+  ]
+}

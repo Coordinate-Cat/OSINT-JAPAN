@@ -1,0 +1,460 @@
+{
+  "title": "Domain/IP/Links",
+  "slug": "domain-ip-links",
+  "sections": [
+    {
+      "name": "Dorks/Pentest/Vulnerabilities",
+      "slug": "dorks-pentest-vulnerabilities",
+      "tools": [
+        {
+          "link": "https://github.com/OWASP/Amass",
+          "description": "The OWASP Amass Project performs network mapping of attack surfaces and external asset discovery using open source information gathering and active reconnaissance techniques."
+        },
+        {
+          "link": "https://abhijithb200.github.io/investigator/",
+          "description": "web based handy-#recon tool that uses different #GoogleDorking techniques and some open sources service to find juicy information about target websites. It helps you quickly check and gather information about the target domain name."
+        },
+        {
+          "link": "https://github.com/D3Ext/AORT",
+          "description": "All in one domain recon tool: portscan; email services enumeration; subdomain information gathering; find info in Wayback Machine and more."
+        },
+        {
+          "link": "https://github.com/Zarcolio/sitedorks",
+          "description": ""
+        },
+        {
+          "link": "https://addons.mozilla.org/ru/firefox/addon/google-dork-builder/",
+          "description": "Quick create queries with advanced search operator for Google, Bing, Yandex etc. Copy dorks from Google Hacking Database. Save dorks in your own database"
+        },
+        {
+          "link": "https://github.com/hakluke/hakrawler",
+          "description": "Extreme(!) fast crawler designed for easy, quick discovery of links, endpoints and assets within a web application."
+        },
+        {
+          "link": "https://github.com/rlyonheart/0xdork",
+          "description": "Very light and simple #Python tool for Google Dorking"
+        },
+        {
+          "link": "https://cartographia.github.io/FilePhish/",
+          "description": "Simple online Google query builder for fast and easy document file discovery."
+        },
+        {
+          "link": "https://snyk.io/test/website-scanner/",
+          "description": "Website Vulnerabilities Scanner"
+        },
+        {
+          "link": "https://dorks.faisalahmed.me",
+          "description": "online constructor of google dorks for searching \"sensitive\" wesite pages"
+        },
+        {
+          "link": "https://github.com/IvanGlinkin/Fast-Google-Dorks-Scan",
+          "description": "Search the website for vulnerable pages and files with sensitive information using 45 types of Google Dorks."
+        },
+        {
+          "link": "https://github.com/dwisiswant0/go-dork",
+          "description": "Fast (like most #osint scripts written in #golang) tool for automation work with Google Dorks."
+        },
+        {
+          "link": "https://github.com/Balgogan/dorkscanner",
+          "description": "NOT support Google. Only Bing, ASK and WoW.com (AOL) search engines. Can work with very long lists of queries/documents (in .txt files)"
+        },
+        {
+          "link": "https://taksec.github.io/google-dorks-bug-bounty/",
+          "description": "Generate Google Dorks for searching juicy extensions, open redirects, code leaks, cloud storages, file upload endpoints and more."
+        },
+        {
+          "link": "http://ixss.warsong.pw/xssor/",
+          "description": "very old service for making XSS (Cross Site Scripting) faster and easier"
+        },
+        {
+          "link": "https://github.com/six2dez/reconftw",
+          "description": "tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities"
+        },
+        {
+          "link": "https://github.com/kostas-pa/LFITester",
+          "description": "Tool which tests if a server is vulnerable to Local File Inclusion (LFI) attack"
+        },
+        {
+          "link": "https://github.com/r0075h3ll/Oralyzer",
+          "description": "Script that check website for following types of Open Redirect Vulnerabilities"
+        },
+        {
+          "link": "https://github.com/p0dalirius/robotstester",
+          "description": "Simple Python script can enumerate all URLs present in robots.txt files, and test whether they can be accessed or not."
+        },
+        {
+          "link": "https://github.com/JakeWnuk/SickNerd",
+          "description": "tool for researching domain lists using Google Dorking. You can automatically load fresh dorks from GHDB and customize the maximum number of results"
+        },
+        {
+          "link": "https://github.com/j3ssie/cdnstrip",
+          "description": "Very fast #go tool, that sorts the list of IP addresses into two lists: CDN and no CDN."
+        },
+        {
+          "link": "https://github.com/the-h3x/H3X-CCTV",
+          "description": "A simple command line tool with a Google Dorks list to find vulnerable CCTV cameras"
+        },
+        {
+          "link": "https://github.com/nerrorsec/nDorker",
+          "description": "Enter the domain name and get quick links to Google Dorks, Github dorks, Shodan dorks and quick links to get info about domain in Codepad, Codepen, Codeshare and other sites (\"vendor dorking\")"
+        },
+        {
+          "link": "https://github.com/hktalent/scan4all",
+          "description": "15000+PoCs; 20 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzzing and many many more"
+        },
+        {
+          "link": "https://analyze.intezer.com/",
+          "description": "Online tool for finding code injections, malware, unrecognized code and suspicious artifacts in: Files (up to 150 mb), URL, Memory dumps, Endpoints"
+        },
+        {
+          "link": "https://github.com/C3n7ral051nt4g3ncy/webosint",
+          "description": "Simple #python tool for step-by-step collection of domain information using HackerTarget and whoisxmlapi APIs."
+        },
+        {
+          "link": "https://github.com/harleo/knockknock",
+          "description": "A very fast script written in #go that queries the ViewDNSInfo API (free, 500 results limit) and gets a list of domains related to target domain (which could theoretically belong to the same person or company)"
+        },
+        {
+          "link": "https://github.com/Zold1/sqli-dorks-generator",
+          "description": "python script generates Google Dorks for SQL Injections for sites from the list."
+        },
+        {
+          "link": "https://github.com/six2dez/dorks_hunter",
+          "description": "A simple script to analyze domain using Google Dorks. It saves in file the results of checking the following categories Backup files, Database files, Exposed documents, Sub-subdomains, Login pages, SQL/PHP errors"
+        },
+        {
+          "link": "https://github.com/xnl-h4ck3r/xnLinkFinder",
+          "description": "Tool for discover endpoints for a given target. One of the most versatile tools of this type, with dozens of different settings."
+        },
+        {
+          "link": "https://github.com/Drew-Alleman/DataSurgeon",
+          "description": "A tool for extracting various sensitive data from text files and web pages. For example: - emails - phone numbers - API keys - URLs - MAC addresses - Hashes - Bitcoin wallets and more."
+        },
+        {
+          "link": "https://github.com/channyein1337/jsleak",
+          "description": "Extreme fast #Go tool to find secrets (emails, API keys etc), paths, links in the source code during domain recon."
+        },
+        {
+          "link": "https://github.com/musana/fuzzuli",
+          "description": "Url fuzzing tool written on #go that aims to find critical backup files by creating a dynamic wordlist based on the domain. It's using 7 different methods for creating wordlists: \"shuffle\", \"regular\", \"reverse\", \"mixed\" etc"
+        },
+        {
+          "link": "https://dorkgenius.com/",
+          "description": "AI tool that generates \"dorks\" to find vulnerable sites and sensitive information for Google, Bing and DuckDuckGo based on their descriptions. It doesn't work perfectly, but it's an interesting idea."
+        },
+        {
+          "link": "https://www.dorkgpt.com/",
+          "description": "Describe what you want to find in human language and get a Google query using advanced search operators. Suitable for \"juicy info\" and vulnerable sites, as well as for any other search tasks."
+        },
+        {
+          "link": "https://github.com/hueristiq/xurlfind3r",
+          "description": "Find domain's known URLs from: AlienVault's, Open Threat Exchange, Common Crawl, Github, Intelligence X, URLScan, Wayback Machine"
+        },
+        {
+          "link": "https://github.com/Mr-Robert0/Logsensor",
+          "description": "#Python tool to discover login panels, and POST Form SQLi Scanning. Support multiple hosts scanning, targeted SQLi form scanning and proxies."
+        },
+        {
+          "link": "https://chrome.google.com/webstore/detail/soc-multi-tool/diagjgnagmnjdfnfcciocmjcllacgkab/",
+          "description": "Chrome Extension for quick: IP/Domain Reputation Lookup IP/ Domain Info Lookup Hash Reputation Lookup (Decoding of Base64 & HEX using CyberChef File Extension & Filename Lookup and more"
+        },
+        {
+          "link": "https://github.com/blacknon/pydork",
+          "description": "Tool for automation collecting Google, Bing, DuckDuckGo, Baidu and Yahoo Japan search results (images search and suggestions). Note the huge(!) number of options for customizing search results."
+        }
+      ]
+    },
+    {
+      "name": "Domain/IP investigation",
+      "slug": "domain-ip-investigation",
+      "tools": [
+        {
+          "link": "https://t.me/UniversalSearchBot",
+          "description": "telegram bot finding information about email, russian phone number, domain or IP"
+        },
+        {
+          "link": "http://cipher387.github.io/domain_investigation_toolbox/",
+          "description": "gather information about domain with 41 online tools from one page."
+        },
+        {
+          "link": "https://gofindwhois.com/",
+          "description": "More than 180 online tool for domain investigaions in one. What's not to be found here: reverse whois, hosting history, cloudfare resolver, redirect check, reputation analyze."
+        },
+        {
+          "link": "https://www.spyfu.com/overview/domain",
+          "description": "tool to collect seo information about the domain, which provide a lot of data partly for free"
+        },
+        {
+          "link": "https://spyse.com/",
+          "description": "domain investigation toolbox"
+        },
+        {
+          "link": "https://github.com/spyse-com/cli",
+          "description": "command line client for Spyse.com"
+        },
+        {
+          "link": "https://domaintracker.app/",
+          "description": "webapp and mobile app, which helps you keep track of payment deadlines (expired dates) for domains (sends push notifications and notifications to email)"
+        },
+        {
+          "link": "https://chrome.google.com/webstore/detail/sputnik/manapjdamopgbpimgojkccikaabhmocd/related",
+          "description": "Chrome extension for quick gathering info about IP, domain, hash or URL in dozens of different services: Censys, GreyNoise, VirusTotal, Shodan, ThreatMiner and many others."
+        },
+        {
+          "link": "https://whois.marcaria.com/en",
+          "description": "A tool that allows you to query whois data for a site name in several domain zones at once."
+        },
+        {
+          "link": "https://www.ip-neighbors.com/host/",
+          "description": "Find the hosting neighbors for a specific web site or hostname"
+        },
+        {
+          "link": "http://besticon.herokuapp.com/",
+          "description": "Instantly finds the favicon and all .ico files on the site, and then generates links to download them quickly."
+        },
+        {
+          "link": "https://github.com/SpiderLabs/HostHunter",
+          "description": "Tool to efficiently discover and extract hostnames providing a large set of target IP addresses. HostHunter utilises simple OSINT techniques to map IP addresses with virtual hostnames"
+        },
+        {
+          "link": "https://torwhois.com/",
+          "description": ""
+        },
+        {
+          "link": "https://dnstwister.report/",
+          "description": "The anti-phishing domain name search engine and DNS monitoring service"
+        },
+        {
+          "link": "https://my.eurodns.com/das/search/",
+          "description": "Free whois data search service for long lists of domains (250 can be searched at a time, total number unlimited). The results show the status of the domain and a quick link to the full whois data."
+        },
+        {
+          "link": "https://domaincodex.com",
+          "description": "Source code search engine (315 million domains indexed). Search by title, metadata, javascript files, server name, location and more."
+        },
+        {
+          "link": "https://github.com/elceef/dnstwist",
+          "description": "Command line anti-phishing domain name search engine and DNS monitoring service"
+        },
+        {
+          "link": "https://github.com/evilsocket/ditto",
+          "description": "Dsmall tool that accepts a domain name as input and generates all its variants for an homograph attack as output, checking which ones are available and which are already registered"
+        },
+        {
+          "link": "http://radb.net/query",
+          "description": "Provides information collected from all the registries that form part of the Internet Routing Registry"
+        },
+        {
+          "link": "https://ipinfo.io/map",
+          "description": "paste up to 500,000 IPs below to see where they're located on a map"
+        },
+        {
+          "link": "https://whois.whoisxmlapi.com/database/pricing",
+          "description": ""
+        },
+        {
+          "link": "https://github.com/hakluke/hakrawler",
+          "description": "discover endpoints and assets"
+        },
+        {
+          "link": "https://passivedns.mnemonic.no/",
+          "description": ""
+        },
+        {
+          "link": "https://talosintelligence.com/reputation_center/",
+          "description": ""
+        },
+        {
+          "link": "https://netbootcamp.org/websitetool.html",
+          "description": "access to 74 #tools to collect domain information from a single page"
+        },
+        {
+          "link": "https://github.com/devXprite/httpfy/",
+          "description": "A fast #nodejs tool for gathering information about a domain or a list of domains. Response time, main page word count, content type, redirect location and many other options (view pic)."
+        },
+        {
+          "link": "https://github.com/harshnandwana/hussh",
+          "description": "shell script for domain analyzing"
+        },
+        {
+          "link": "https://github.com/atenreiro/opensquat",
+          "description": "Search newly registered phishing domain by keywords; Check it with VirusTotal and Quad9 DNS;"
+        },
+        {
+          "link": "https://www.vpnmentor.com/tools/test-the-great-china-firewall/",
+          "description": ""
+        },
+        {
+          "link": "https://t.me/iptools_robot",
+          "description": "univsersal domain investigation Telegram bot"
+        },
+        {
+          "link": "https://github.com/hamza07-w/raymond",
+          "description": "Framework for gathering information about website"
+        },
+        {
+          "link": "https://pulsedive.com/",
+          "description": "A partially free website research tool. Collects detailed information about IP, whois, ssl, dns, ports, threats reports, geolocation, cookies, metadata (fb app id etc). Make screenshots and many others"
+        },
+        {
+          "link": "https://github.com/s0md3v/Striker",
+          "description": "Quick and simple tool for gathering information about domain (http headers, technologies, vulnerabilities etc)."
+        },
+        {
+          "link": "https://github.com/Anon-Exploiter/SiteBroker",
+          "description": "Domain investigation #python tool"
+        },
+        {
+          "link": "https://dnslytics.com/",
+          "description": "find out everything about a domain name, IP address or provider. Discover relations between them and see historical data"
+        },
+        {
+          "link": "https://github.com/h3x0crypt/HostSpider",
+          "description": "Domain investigations toolkit"
+        },
+        {
+          "link": "https://github.com/indiancyberops/Drishti",
+          "description": "Nodejs toolkit for OSINT"
+        },
+        {
+          "link": "https://passivedns.mnemonic.no",
+          "description": "DNS history search by IP-adress or by domain name"
+        },
+        {
+          "link": "https://chrome.google.com/webstore/detail/gotanda/jbmdcdfnnpenkgliplbglfpninigbiml",
+          "description": "Google Chrome extension. 56 tools for domain, ip and url investigation in one"
+        },
+        {
+          "link": "https://cipher387.github.io/domain_investigation_toolbox/ip.html",
+          "description": "type ip-adress once and gather information about it with 13 tools"
+        },
+        {
+          "link": "https://github.com/N0tA1dan/Crab",
+          "description": "Well done and well designed port scanner, host info gatherer (include whois)."
+        },
+        {
+          "link": "https://github.com/dievus/msdnsscan",
+          "description": "Identify DNS records for target domains, check for zone transfers and conduct subdomain enumeration."
+        },
+        {
+          "link": "https://github.com/mathis2001/Cert4Recon",
+          "description": "Very quick and simple subdomain enumeration using crt.sh."
+        },
+        {
+          "link": "https://github.com/ninoseki/miteru",
+          "description": "Experimental phishing kit detection tool. It collects phishy URLs from phishing info feeds and checks each phishy URL whether it enables directory listing and contains a phishing kit (compressed file) or not"
+        },
+        {
+          "link": "https://web-check.as93.net/",
+          "description": "Get detailed report about IP or domain: Location SSL Info Headers Domain and host names Whois DNS records Crawl riles Cookies Server Info Redirects Server status TXT Config"
+        },
+        {
+          "link": "https://checkphish.bolster.ai/",
+          "description": "An online tool that finds registered domain typosquats and analyzes them for suspicious activity."
+        }
+      ]
+    },
+    {
+      "name": "Website analyze",
+      "slug": "website-analyze",
+      "tools": [
+        {
+          "link": "https://app.buzzsumo.com/content/web",
+          "description": "Enter the name of the domain and find out for free its three most popular publications in social networks (for six months, a quarter, a month, or the last day)"
+        },
+        {
+          "link": "http://openlinkprofiler.org/",
+          "description": "Get backlinks by website URL. Filter and sort backlinks by anchor, context, trust, LIS and industry."
+        },
+        {
+          "link": "https://lookyloo.circl.lu/",
+          "description": "Webapp allowing to scrape a website and then displays a tree of domains calling each other (redirects, frames, javascript, css, fonts, images etc)"
+        },
+        {
+          "link": "https://chrome.google.com/webstore/detail/core-serp-vitals/oipmhlkineglclpndlecjmbleapbcilf/related",
+          "description": "adds a bit of information from CrUX API to the standard Google search results"
+        },
+        {
+          "link": "https://bgpview.io/",
+          "description": "web-browsing tool and an API that lets you gather information about the current state and structure of the internet, including ASNs, IP addresses, IXs, BGP Downstream & Upstream Peers, and much more"
+        },
+        {
+          "link": "https://tosdr.org/",
+          "description": "find out what interesting privacy and confidentiality clauses are in the license agreements of popular websites and apps"
+        },
+        {
+          "link": "https://analyzeid.com",
+          "description": "find websites with the same owner by domain name. Checking for email, Facebook App ID and nameserver matches"
+        },
+        {
+          "link": "https://mmhdan.herokuapp.com",
+          "description": "Calculate a fingerprint of a website (HTML, Favicon, Certificate in SHA1, SHA256, MD5, MMH3) and create the quick links to search it in IOT search engines"
+        },
+        {
+          "link": "https://github.com/imtiazsec/favhash",
+          "description": "Simple script to calculate favicon hash for searching in Shodan."
+        },
+        {
+          "link": "https://faviconhasher.codejavu.tech/",
+          "description": "Favicon.ico files hashes is a feature by which you can find domains related with your target. This tool generates hashes for all favicon.ico on the site (+ quick links to find them in Shodan, Censys, Zoomeye)"
+        },
+        {
+          "link": "https://github.com/devanshbatham/FavFreak",
+          "description": "#python tool for using favicon.ico hashes for finding new assets/IP addresses and technologies owned by a company."
+        },
+        {
+          "link": "https://github.com/pyhackertarget/hackertarget",
+          "description": "14 tools for gathering information about domain using Hackerarget API (hackertarget.com)"
+        },
+        {
+          "link": "https://github.com/Josue87/AnalyticsRelationships",
+          "description": "command line #tool for to search for links between domains by Google Analytics ID"
+        },
+        {
+          "link": "https://github.com/dhn/udon",
+          "description": "#go tool to find assets/domains based by Google Analytics ID"
+        },
+        {
+          "link": "https://github.com/enemy-submarine/pidrila",
+          "description": "Python Interactive Deepweb-oriented Rapid Intelligent Link Analyzer"
+        },
+        {
+          "link": "https://osint.sh/adsense/",
+          "description": "this service finds other sites belonging to the same owner or company by Google Adsense ID"
+        },
+        {
+          "link": "https://chrome.google.com/webstore/detail/smart-ruler/npgpdlfoflcfcohplcdclmocfemgpdga/related",
+          "description": "Simple #GoogleChrome extension (200 000 users) for those who like to explore the design of different sites"
+        },
+        {
+          "link": "https://github.com/ksharinarayanan/SourceWolf",
+          "description": "A tool for analyzing #javascript files. It finds all the variables, endpoints and social media links mentioned in the code in just a few seconds."
+        },
+        {
+          "link": "http://stylifyme.com/",
+          "description": "Tool for analyzing the style characteristics of a particular website. In the context of #osint, it will help when analyzing links between two sites (common rare design features may indicate common owner)"
+        },
+        {
+          "link": "https://cspvalidator.org/#url=https://cspvalidator.org/",
+          "description": "Online service for checking the headers and meta tags of websites for compliance with security standards. It can help determine if a site is vulnerable to common vulnerabilities (XSS, clickjacking, etc)."
+        },
+        {
+          "link": "https://nibbler.insites.com/",
+          "description": "Free tool for comprehensive website analysis on more than ten different parameters."
+        },
+        {
+          "link": "https://github.com/mathis2001/WebHackUrls",
+          "description": "The simplest tool for URl recon with filter by keyword and saving results to file."
+        },
+        {
+          "link": "https://visualsitemapper.com/",
+          "description": "A free online tool for generating site maps in graph form. Allows you to visually see the links between the pages of a website and estimate their number."
+        },
+        {
+          "link": "https://github.com/Malwarize/webpalm",
+          "description": "Command-line tool that traverse a website and generate a tree of all its webpages. Also it can scrape and extract data using #regex."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "title": "Visualization tools",
+  "slug": "visualization-tools",
+  "sections": [
+    {
+      "name": "Data Visualization Tools",
+      "slug": "data-visualization-tools",
+      "tools": [
+        {
+          "link": "https://jsoncrack.com/",
+          "description": "Jsoncrack - Online tool for visualizing, editing and searching for text in JSON files. With the ability to save, export and share results via a link."
+        },
+        {
+          "link": "https://jsonvisio.com/",
+          "description": "Jsonvisio - Well-made JSON file renderer. Allows you to quickly understand the structure of even the most complex JSON files."
+        },
+        {
+          "link": "https://time.graphics/",
+          "description": "Time graphics - Powerful tool for analytics of time-based events: a large number of settings for the visualization of time periods, integration with Google Drive, YouTube, Google Maps, 12 ways to export results (PNG, JSON, PPTX etc.)"
+        },
+        {
+          "link": "https://github.com/gephi/gephi",
+          "description": "Gephi - fast and easy to learn graph analytics tool with a lot of modules (plugins)"
+        },
+        {
+          "link": "https://tobloef.com/text2mindmap/",
+          "description": "Tobloef.com - text to mind map"
+        },
+        {
+          "link": "http://cheatsheet-maker.herokuapp.com",
+          "description": "Cheat sheet maker - simple tool for creating cheat sheets"
+        },
+        {
+          "link": "https://jsonhero.io/",
+          "description": "JSONHero - Free online tool for visualizing data in JSON format. With tree structure display, syntax highlighting, link preview, pictures, colors and many other interesting features."
+        }
+      ]
+    }
+  ]
+}

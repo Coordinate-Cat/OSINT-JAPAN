@@ -1,0 +1,28 @@
+{
+  "title": "Tender/shipment information search",
+  "slug": "tender-shipment-information-search",
+  "sections": [
+    {
+      "name": "Business Intelligence Tools",
+      "slug": "business-intelligence-tools",
+      "tools": [
+        {
+          "link": "https://www.tendersinfo.com",
+          "description": "TendersInfo - Search tenders around the world by keywords."
+        },
+        {
+          "link": "https://www.barcodelookup.com/",
+          "description": "Barcode lookup"
+        },
+        {
+          "link": "https://panjiva.com/",
+          "description": "Panjiva.com - search data on millions of shipments worldwide"
+        },
+        {
+          "link": "https://en.52wmb.com",
+          "description": "en.52wmb.com - Search information about worldwide buyers and suppliers by product name, company name or HS code."
+        }
+      ]
+    }
+  ]
+}

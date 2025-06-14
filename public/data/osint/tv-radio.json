@@ -1,0 +1,32 @@
+{
+  "title": "TV/Radio",
+  "slug": "tv-radio",
+  "sections": [
+    {
+      "name": "Broadcasting Search Tools",
+      "slug": "broadcasting-search-tools",
+      "tools": [
+        {
+          "link": "https://www.radio.net/local-stations",
+          "description": "Radion.net - view list of all radiostations near your location and search radiostations by keywords"
+        },
+        {
+          "link": "https://americanarchive.org",
+          "description": "American Archive of Public Broadcasting - Discover historic programs of publicly funded radio and television across America. Watch and listen"
+        },
+        {
+          "link": "https://www.liveatc.net/",
+          "description": "LiveATC - Archive of audio recordings between pilots and dispatchers. Useful for investigating incidents and for foreign language comprehension skills (if you learn to understand pilots' conversations, you will be able to understand everything)."
+        },
+        {
+          "link": "http://rx.linkfanel.net/",
+          "description": "Wideband shortware radio receiver map - Online map of shortwave radio receivers available for listening in your browser at the moment."
+        },
+        {
+          "link": "https://iptv-org.github.io/",
+          "description": "IPTV org - Search by 28 813 IP television channels in 196 countries. Get detailed information about channel in HTML/JSON (sometimes with link to livestream)."
+        }
+      ]
+    }
+  ]
+}

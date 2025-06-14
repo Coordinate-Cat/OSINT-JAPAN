@@ -1,0 +1,44 @@
+{
+  "title": "Routine/Data Extraction Automation",
+  "slug": "routine-data-extraction-automation",
+  "sections": [
+    {
+      "name": "Automation Tools",
+      "slug": "automation-tools",
+      "tools": [
+        {
+          "link": "https://www.scrapersnbots.com/webtools/",
+          "description": "Scrapersnbots - A collection of a wide variety of online tools for osint and not only: search for users with a specific name on different sites, one domain Google Image search, YouTube tags viewer, url-extractor and much more"
+        },
+        {
+          "link": "https://manytools.org",
+          "description": "Manytools - Collection of tools to automate the repetitive jobs involved in webdevelopment and hacking."
+        },
+        {
+          "link": "https://chrome.google.com/webstore/detail/webdext/jkgddhdaaejpmlmddpbedgnkdgiacblk/related",
+          "description": "Webdext - An intelligent and quick web data extractor for GoogleChrome. Support data extraction from web pages containing a list of objects such as product listing, news listing, search result, etc"
+        },
+        {
+          "link": "https://www.cloudhq.net/apps",
+          "description": "CloudHQ - A collection of several dozen extensions for Chrome that allow you to extend the functionality of the standard Gmail interface and maximize your productivity. Tracking, sorting, sharing, saving, editing and much more."
+        },
+        {
+          "link": "https://chrome.google.com/webstore/detail/magical-text-expander/iibninhmiggehlcdolcilmhacighjamp/related",
+          "description": "Magical. Text Expander - Create shortcuts in Google Chrome to reduce text entry time. For example: email templates, message templates for messengers, signatures and contact information, the names of people with complex spelling (lom -> Lomarrikkendd)"
+        },
+        {
+          "link": "https://emn178.github.io/online-tools/index.html",
+          "description": "Online tools - 55 tools for calculation hash functions, calculation file checksum, encoding and decoding strings"
+        },
+        {
+          "link": "https://gchq.github.io/CyberChef/",
+          "description": "CyberChef - collection of more than a hundred online tools for automating a wide variety of tasks (string coding, text comparison, double-space removal)"
+        },
+        {
+          "link": "https://shadowcrypt.net/tools/",
+          "description": "Shadowcrypt Tools - 24 online tools for OSINT, network scanning, MD5 encryption and many others"
+        }
+      ]
+    }
+  ]
+}

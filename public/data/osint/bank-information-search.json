@@ -1,0 +1,28 @@
+{
+  "title": "Bank information search",
+  "slug": "bank-information-search",
+  "sections": [
+    {
+      "name": "Banking Information Tools",
+      "slug": "banking-information-tools",
+      "tools": [
+        {
+          "link": "https://banks.data.fdic.gov/bankfind-suite/bankfind",
+          "description": "FDIC search - Search banks by FDIC (Federal Deposit Insurance Corporation) certificate number and get detailed information about it"
+        },
+        {
+          "link": "https://www.iban.com/iban-checker",
+          "description": "Iban.com - Check the validity of the IBAN (International Bank Account Number) of the company and see the information about the bank where it is serviced"
+        },
+        {
+          "link": "https://api.freebinchecker.com/bin/658205",
+          "description": "Freebin Checker - easy-to-use API for getting bank details by BIN. 850,000+ BIN records in FreeBinChecker's database"
+        },
+        {
+          "link": "https://github.com/krdsploit/Credit-OSINT",
+          "description": "Credit OSINT - A very simple python tool to gather information about bank cards and validate them."
+        }
+      ]
+    }
+  ]
+}

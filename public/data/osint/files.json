@@ -1,0 +1,80 @@
+{
+  "title": "Files",
+  "slug": "files",
+  "sections": [
+    {
+      "name": "File Analysis Tools",
+      "slug": "file-analysis-tools",
+      "tools": [
+        {
+          "link": "https://github.com/cipher387/grep_for_osint",
+          "description": "Grep for OSINT - simple toolkit that helps to quickly extract \"important data\" (phone numbers, email addresses, URLs) from the text / file directory"
+        },
+        {
+          "link": "http://diffnow.com",
+          "description": "Diffnow.com - Compares and finds differences in text, URL (html code downloaded by link), office documents (doc, docx, xls, xlsx, ppt, pptx), source code (C, C++, C#, Java, Perl, PHP and other), archives (RAR, 7-zip etc)."
+        },
+        {
+          "link": "https://github.com/mnismt/CompressedCrack",
+          "description": "CompressedCrack - Simple tool for brute passwords for ZIP and RAR archives"
+        },
+        {
+          "link": "https://www.protectedzip.com/",
+          "description": "Encrytped ZIP file creator - Create ZIP archive online"
+        },
+        {
+          "link": "https://github.com/metachris/pdfx",
+          "description": "PDFX - get meta data of PDF files thrue command line"
+        },
+        {
+          "link": "https://t.me/mediainforobot",
+          "description": "@mediainforobot - telegram bot to getting metadata from different types of files"
+        },
+        {
+          "link": "https://github.com/quodlibet/mutagen",
+          "description": "Mutagen - get meta data of audiofiles thrue command line"
+        },
+        {
+          "link": "https://voyant-tools.org/",
+          "description": "voyant-tools.org - analysis of particular words in .TXT, .DOCX, .XLSX, .CSV and other file types."
+        },
+        {
+          "link": "https://www.aconvert.com/analyze.html",
+          "description": "Analyze file format online"
+        },
+        {
+          "link": "https://www.toolsley.com/file.html",
+          "description": "ToolSley: analyze file format online"
+        },
+        {
+          "link": "https://recoverytoolbox.com/",
+          "description": "RecoveryToolBox - recovery tools for corrupted Excel, CorelDraw, Photoshop, PowerPoint, RAR, ZIP, PDF and other files"
+        },
+        {
+          "link": "https://mr0grog.github.io/google-docs-to-markdown/",
+          "description": "Google Docs to Markdown online converter - just copy text to the site"
+        },
+        {
+          "link": "https://binvis.io/",
+          "description": "Binvis - lets you visually dissect and analyze binary files. It's the interactive grandchild of a static visualisation online tool"
+        },
+        {
+          "link": "https://script.google.com/macros/s/AKfycbxbGNGajrxv-HbX2sVY2OTu7yj9VvxlOMOeQblZFuq7rYm7uyo/exec",
+          "description": "Gdrive-copy - The standard functionality of GoogleDrive does not allow you to copy an entire folder with all subfolders and files. But it can be done using third-party applications"
+        },
+        {
+          "link": "https://siftrss.com/",
+          "description": "Siftrss.com - tool for filtering RSS feeds"
+        },
+        {
+          "link": "https://json-csv.com/",
+          "description": "JSON to CSV"
+        },
+        {
+          "link": "https://www.textise.net/",
+          "description": "Textise.net - convert the HTML code of a page to TXT"
+        }
+      ]
+    }
+  ]
+}
