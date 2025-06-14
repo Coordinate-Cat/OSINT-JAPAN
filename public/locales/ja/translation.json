@@ -60,8 +60,7 @@
   },
   "home": {
     "subtitle": "- 様々なOSINTツールの膨大なコレクション",
-    "description": "調査と研究目的のためのOSINTツールとリソースの包括的なコレクション。",
-    "goToTools": "ツールへ移動"
+    "description": "調査と研究目的のためのOSINTツールとリソースの包括的なコレクション。"
   },
   "footer": {
     "about": "OSINT Japanについて",

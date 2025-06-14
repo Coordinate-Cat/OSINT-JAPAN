@@ -60,8 +60,7 @@
   },
   "home": {
     "subtitle": "- this is a numerous collection of various OSINT tools",
-    "description": "A comprehensive collection of OSINT tools and resources for investigation and research purposes.",
-    "goToTools": "Go to tools"
+    "description": "A comprehensive collection of OSINT tools and resources for investigation and research purposes."
   },
   "footer": {
     "about": "About OSINT Japan",

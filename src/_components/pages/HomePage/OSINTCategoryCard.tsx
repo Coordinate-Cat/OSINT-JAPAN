@@ -33,7 +33,7 @@ export function OSINTCategoryCard({
       className={`${colorClass} group relative h-64 transform cursor-pointer overflow-hidden rounded-xl p-6 transition-all duration-300 hover:scale-105 hover:shadow-2xl`}
     >
       <div className="relative z-10 flex h-full flex-col justify-between">
-        <div className="text-3xl text-black">{icon}</div>
+        <div className="text-8xl text-black">{icon}</div>
 
         <div>
           <h2 className="group-hover:text-opacity-90 mt-2 text-lg font-semibold text-black">

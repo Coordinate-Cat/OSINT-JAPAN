@@ -20,22 +20,24 @@ export default function Home() {
   // ただし、i18nが準備できていない場合はフォールバックを表示
 
   return (
-    <div className="min-h-screen bg-[#1C1C1C] text-white">
+    <div className="min-h-screen bg-[#1C1C1C] px-2 text-white">
       <Header />
 
       <main className="relative">
         {/* ヒーローセクション */}
-        <section className="px-4 pt-20 pb-16 sm:px-6 lg:px-8">
+        <section className="pt-20 pb-16">
           <div className="mx-auto max-w-7xl">
-            <h1 className="mb-6 flex text-4xl font-bold text-white sm:text-6xl">
-              <span className="block">OJ</span>
-              <span className="mt-4 block text-2xl font-normal text-gray-300 sm:text-3xl">
-                {t(
-                  "home.subtitle",
-                  "- this is a numerous collection of various OSINT tools",
-                )}
-              </span>
-            </h1>
+            <div className="mb-8 flex flex-col justify-center text-center">
+              <div className="flex items-center text-white sm:text-6xl">
+                <img src="./icons/OJ.svg" alt="OJ" className="h-16 w-16" />
+                <p className="ml-2 text-4xl text-gray-300">
+                  {t(
+                    "home.subtitle",
+                    "- this is a numerous collection of various OSINT tools",
+                  )}
+                </p>
+              </div>
+            </div>
 
             <p className="mb-8 max-w-3xl text-lg text-gray-300">
               {t(
@@ -43,30 +45,6 @@ export default function Home() {
                 "Electronic scientific library of open access OSINT tools. The site catalog is regularly overgrown with tools of articles from various scientific publications. Grouped by journals and headings.",
               )}
             </p>
-
-            <button
-              onClick={() => {
-                document.getElementById("osint-sections")?.scrollIntoView({
-                  behavior: "smooth",
-                });
-              }}
-              className="inline-flex items-center rounded-lg bg-blue-600 px-8 py-3 text-lg font-medium text-white transition-colors duration-300 hover:bg-blue-700"
-            >
-              {t("home.goToTools", "Go to tools")}
-              <svg
-                className="ml-2 h-5 w-5"
-                fill="none"
-                stroke="currentColor"
-                viewBox="0 0 24 24"
-              >
-                <path
-                  strokeLinecap="round"
-                  strokeLinejoin="round"
-                  strokeWidth={2}
-                  d="M9 5l7 7-7 7"
-                />
-              </svg>
-            </button>
           </div>
         </section>
 
@@ -109,7 +87,7 @@ export default function Home() {
                 <h3 className="mb-4 text-lg font-semibold text-white">
                   {t("footer.contact", "Contact")}
                 </h3>
-                <p className="text-sm text-gray-400">know@outlook.com</p>
+                <p className="text-sm text-gray-400">tetrapasta02@gmail.com</p>
               </div>
             </div>
           </div>

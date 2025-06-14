@@ -56,55 +56,55 @@ import {
  */
 const getCategoryIcon = (category: OSINTCategory): React.ReactNode => {
   const iconMap: Record<OSINTCategory, React.ReactNode> = {
-    "maps-geolocation-transport": <MapPin className="h-6 w-6" />,
-    "social-media": <Smartphone className="h-6 w-6" />,
-    "domain-ip-links": <Globe className="h-6 w-6" />,
-    "text-analyze": <FileText className="h-6 w-6" />,
-    "sound-identification-analyze": <Mic className="h-6 w-6" />,
-    "sound-search-analyze": <Volume2 className="h-6 w-6" />,
-    "video-editing-analyze": <Video className="h-6 w-6" />,
-    "image-search-identification": <Image className="h-6 w-6" />,
-    cryptocurrencies: <Bitcoin className="h-6 w-6" />,
-    messengers: <MessageCircle className="h-6 w-6" />,
-    code: <Code className="h-6 w-6" />,
-    "search-engines": <Search className="h-6 w-6" />,
-    iot: <Wifi className="h-6 w-6" />,
-    archives: <Archive className="h-6 w-6" />,
-    datasets: <Database className="h-6 w-6" />,
-    science: <Microscope className="h-6 w-6" />,
-    passwords: <Lock className="h-6 w-6" />,
-    emails: <Mail className="h-6 w-6" />,
-    "mbox-files": <Inbox className="h-6 w-6" />,
-    ids: <IdCard className="h-6 w-6" />,
-    nicknames: <User className="h-6 w-6" />,
-    "phone-numbers": <Phone className="h-6 w-6" />,
-    "universal-contact-search-leaks": <Link className="h-6 w-6" />,
-    "sock-puppets": <UserX className="h-6 w-6" />,
-    "noosint-tools": <X className="h-6 w-6" />,
-    "visualization-tools": <BarChart3 className="h-6 w-6" />,
-    "routine-data-extraction-automation": <Bot className="h-6 w-6" />,
-    "browser-analyze": <Monitor className="h-6 w-6" />,
-    files: <File className="h-6 w-6" />,
-    "imei-serial-numbers": <Hash className="h-6 w-6" />,
-    nft: <Palette className="h-6 w-6" />,
-    "keywords-trends-news-analytics": <TrendingUp className="h-6 w-6" />,
-    "apps-programs": <AppIcon className="h-6 w-6" />,
-    "company-information-search": <Building className="h-6 w-6" />,
-    "bank-information-search": <Landmark className="h-6 w-6" />,
-    "brand-trademark-information-search": <Copyright className="h-6 w-6" />,
-    "tender-shipment-information-search": <Package className="h-6 w-6" />,
-    amazon: <Package className="h-6 w-6" />,
-    movies: <Film className="h-6 w-6" />,
-    netflix: <Film className="h-6 w-6" />,
-    "tv-radio": <Radio className="h-6 w-6" />,
-    "tools-collections-toolkits": <Wrench className="h-6 w-6" />,
-    "databases-data-analyzes": <Server className="h-6 w-6" />,
-    "online-os-emulators": <Cpu className="h-6 w-6" />,
-    "virtual-machines-linux-distributions": <Terminal className="h-6 w-6" />,
-    "my-projects": <Star className="h-6 w-6" />,
+    "maps-geolocation-transport": <MapPin className="h-8 w-8" />,
+    "social-media": <Smartphone className="h-8 w-8" />,
+    "domain-ip-links": <Globe className="h-8 w-8" />,
+    "text-analyze": <FileText className="h-8 w-8" />,
+    "sound-identification-analyze": <Mic className="h-8 w-8" />,
+    "sound-search-analyze": <Volume2 className="h-8 w-8" />,
+    "video-editing-analyze": <Video className="h-8 w-8" />,
+    "image-search-identification": <Image className="h-8 w-8" />,
+    cryptocurrencies: <Bitcoin className="h-8 w-8" />,
+    messengers: <MessageCircle className="h-8 w-8" />,
+    code: <Code className="h-8 w-8" />,
+    "search-engines": <Search className="h-8 w-8" />,
+    iot: <Wifi className="h-8 w-8" />,
+    archives: <Archive className="h-8 w-8" />,
+    datasets: <Database className="h-8 w-8" />,
+    science: <Microscope className="h-8 w-8" />,
+    passwords: <Lock className="h-8 w-8" />,
+    emails: <Mail className="h-8 w-8" />,
+    "mbox-files": <Inbox className="h-8 w-8" />,
+    ids: <IdCard className="h-8 w-8" />,
+    nicknames: <User className="h-8 w-8" />,
+    "phone-numbers": <Phone className="h-8 w-8" />,
+    "universal-contact-search-leaks": <Link className="h-8 w-8" />,
+    "sock-puppets": <UserX className="h-8 w-8" />,
+    "noosint-tools": <X className="h-8 w-8" />,
+    "visualization-tools": <BarChart3 className="h-8 w-8" />,
+    "routine-data-extraction-automation": <Bot className="h-8 w-8" />,
+    "browser-analyze": <Monitor className="h-8 w-8" />,
+    files: <File className="h-8 w-8" />,
+    "imei-serial-numbers": <Hash className="h-8 w-8" />,
+    nft: <Palette className="h-8 w-8" />,
+    "keywords-trends-news-analytics": <TrendingUp className="h-8 w-8" />,
+    "apps-programs": <AppIcon className="h-8 w-8" />,
+    "company-information-search": <Building className="h-8 w-8" />,
+    "bank-information-search": <Landmark className="h-8 w-8" />,
+    "brand-trademark-information-search": <Copyright className="h-8 w-8" />,
+    "tender-shipment-information-search": <Package className="h-8 w-8" />,
+    amazon: <Package className="h-8 w-8" />,
+    movies: <Film className="h-8 w-8" />,
+    netflix: <Film className="h-8 w-8" />,
+    "tv-radio": <Radio className="h-8 w-8" />,
+    "tools-collections-toolkits": <Wrench className="h-8 w-8" />,
+    "databases-data-analyzes": <Server className="h-8 w-8" />,
+    "online-os-emulators": <Cpu className="h-8 w-8" />,
+    "virtual-machines-linux-distributions": <Terminal className="h-8 w-8" />,
+    "my-projects": <Star className="h-8 w-8" />,
   };
 
-  return iconMap[category] || <Wrench className="h-6 w-6" />;
+  return iconMap[category] || <Wrench className="h-8 w-8" />;
 };
 
 /**
@@ -183,11 +183,6 @@ export function OSINTCategoriesSection() {
   const { t } = useTranslation();
   const { getToolCount, loading, error } = useOSINTData();
 
-  // 人気カテゴリ（最初の8個）
-  const popularCategories = OSINT_CATEGORIES.slice(0, 8);
-  // その他のカテゴリ
-  const otherCategories = OSINT_CATEGORIES.slice(8);
-
   // ローディング中やエラーの場合の表示
   if (loading) {
     return (
@@ -215,27 +210,7 @@ export function OSINTCategoriesSection() {
   }
 
   return (
-    <div className="mx-auto w-full max-w-7xl px-4 py-12 sm:px-6 lg:px-8">
-      {/* 人気セクション */}
-      <section className="mb-16">
-        <h2 className="mb-8 text-center text-2xl font-bold text-white">
-          {t("osint.popularSections", "POPULAR SECTIONS")}
-        </h2>
-
-        <div className="mb-8 grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-4">
-          {popularCategories.map((category, index) => (
-            <OSINTCategoryCard
-              key={category}
-              category={category}
-              title={getCategoryDisplayName(category)}
-              toolCount={getToolCount(category)}
-              icon={getCategoryIcon(category)}
-              colorClass={getCategoryColor(index)}
-            />
-          ))}
-        </div>
-      </section>
-
+    <div className="mx-auto w-full max-w-7xl py-12">
       {/* 全カテゴリセクション */}
       <section>
         <h2 className="mb-8 text-center text-2xl font-bold text-white">
