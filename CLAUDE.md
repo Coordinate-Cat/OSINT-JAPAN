@@ -1,197 +1,197 @@
 # CLAUDE.md
 
-このファイルは、Claude Code (claude.ai/code) がこのリポジトリで作業する際のガイダンスを提供します。
+This file provides guidance for Claude Code (claude.ai/code) when working on this repository.
 
-## 重要な注意事項
+## Important Notes
 
-- **必ず日本語で回答してください。** 開発者は日本語話者のため、すべてのコミュニケーションは日本語で行ってください。
-- ツールの結果を受け取った後、その品質を慎重に検討し、次に進む前に最適な次のステップを決定してください。この新しい情報に基づいて計画し、反復するために思考を使用し、最善の次のアクションを取ってください。
-- 最大の効率を得るために、複数の独立した操作を実行する必要がある場合は、順次ではなく、関連するすべてのツールを同時に呼び出してください。
-- 反復のために一時的な新しいファイル、スクリプト、またはヘルパーファイルを作成した場合は、タスクの最後にこれらのファイルを削除してクリーンアップしてください。
-- **遠慮せずに、全力を尽くしてください。**
+- **Always respond in Japanese.** The developer is a Japanese speaker, so all communication should be conducted in Japanese.
+- After receiving tool results, carefully consider their quality and determine the optimal next step before proceeding. Use thinking to plan and iterate based on this new information, and take the best next action.
+- For maximum efficiency, when you need to perform multiple independent operations, call all relevant tools simultaneously rather than sequentially.
+- If you create temporary new files, scripts, or helper files for iteration, clean up by deleting these files at the end of the task.
+- **Don't hold back, give it your all.**
 
-## 開発哲学(Test-Driven Development (TDD))
+## Development Philosophy (Test-Driven Development (TDD))
 
-- 原則としてテスト駆動開発（TDD）で進める。
-- 期待される入出力に基づき、まずテストを作成する。
-- 実装コードは書かず、テストのみを用意する。
-- テストを実行し、失敗を確認する。
-- テストが正しいことを確認できた段階でコミットする。
-- その後、テストをパスさせる実装を進める。
-- 実装中はテストを変更せず、コードを修正し続ける。
-- すべてのテストが通過するまで繰り返す。
+- Follow Test-Driven Development (TDD) as a principle.
+- Create tests first based on expected inputs and outputs.
+- Do not write implementation code, only prepare tests.
+- Run tests and confirm failures.
+- Commit when you can confirm the tests are correct.
+- Then proceed with implementation to make tests pass.
+- During implementation, do not change tests, keep modifying code.
+- Repeat until all tests pass.
 
-## 開発コマンド
+## Development Commands
 
 ```bash
-# 依存関係のインストール
+# Install dependencies
 npm install
 
-# 開発サーバーの起動
+# Start development server
 npm run dev
 
-# 本番用ビルド
+# Production build
 npm run build
 
-# リント実行
+# Run lint
 npm run lint
 
-# 本番サーバーの起動
+# Start production server
 npm start
 ```
 
-## プロジェクト概要
+## Project Overview
 
-OSINT-JAPANは、OSINT研究と情報収集に関する日本語のアプローチを提供するWebアプリケーションです。
+OSINT-JAPAN is a web application that provides a Japanese approach to OSINT research and information gathering.
 
-### 現在の実装状況
+### Current Implementation Status
 
-- ✅ 基本的なUI構成（カードベースレイアウト）
-- ✅ 言語切り替え機能（日本語⇔英語）
-- ✅ ダークモード対応
-- ✅ QRコード生成機能
-- ✅ GitHub連携
-- 🚧 OSINTリソース機能（開発予定）
+- ✅ Basic UI structure (card-based layout)
+- ✅ Language switching functionality (Japanese ⇔ English)
+- ✅ Dark mode support
+- ✅ QR code generation functionality
+- ✅ GitHub integration
+- 🚧 OSINT resources functionality (planned for development)
 
-## 技術スタック
+## Tech Stack
 
-### フロントエンド
+### Frontend
 
-- **Next.js 15** (App Router使用)
-- **React 19** (最新のReact機能活用)
-- **TypeScript** (strict mode有効、型安全性重視)
+- **Next.js 15** (using App Router)
+- **React 19** (leveraging latest React features)
+- **TypeScript** (strict mode enabled, emphasizing type safety)
 
-### スタイリング・UI
+### Styling & UI
 
-- **Tailwind CSS 4** (ユーティリティファーストCSS)
-- **shadcn/ui** (アクセシブルなUIコンポーネント、`src/_components/ui/`)
-- **Radix UI** (堅牢なプリミティブコンポーネント)
-- **Lucide React** (アイコンライブラリ)
+- **Tailwind CSS 4** (utility-first CSS)
+- **shadcn/ui** (accessible UI components, `src/_components/ui/`)
+- **Radix UI** (robust primitive components)
+- **Lucide React** (icon library)
 
-### 国際化・その他ライブラリ
+### Internationalization & Other Libraries
 
-- **i18next** (多言語対応、SSR対応、日本語デフォルト)
-- **react-i18next** (React統合)
-- **qrcode.react** (QRコード生成機能)
+- **i18next** (multilingual support, SSR support, Japanese default)
+- **react-i18next** (React integration)
+- **qrcode.react** (QR code generation functionality)
 
-### 開発・品質管理
+### Development & Quality Management
 
-- **ESLint** (コード品質チェック)
-- **Prettier** (コードフォーマッタ)
-- **TypeScript Strict Mode** (厳格な型チェック)
+- **ESLint** (code quality checking)
+- **Prettier** (code formatter)
+- **TypeScript Strict Mode** (strict type checking)
 
-## ファイル構成 (コロケーションパターン)
+## File Structure (Colocation Pattern)
 
 ```
 src/
 ├── app/                    # Next.js App Router
-│   ├── api/               # APIルート
-│   ├── ui/                # フォント設定
-│   ├── layout.tsx         # ルートレイアウト
-│   ├── page.tsx          # ホームページ
-│   ├── error.tsx         # エラーページ
-│   └── not-found.tsx     # 404ページ
-├── _components/           # コンポーネント群
-│   ├── common/           # 共通コンポーネント
-│   │   ├── ClientOnly.tsx    # SSR対応ラッパー
-│   │   └── Loading/          # ローディング表示
-│   ├── pages/            # ページ専用コンポーネント
-│   │   └── HomePage/         # ホームページ関連
-│   │       ├── LanguageSwitcher.tsx  # 言語切り替え
-│   │       └── DarkModeToggle.tsx    # ダークモード切り替え
-│   └── ui/               # shadcn/uiコンポーネント
-├── hooks/                # カスタムフック
-│   ├── useDarkMode.ts    # ダークモード状態管理
-│   └── useI18nReady.ts   # 国際化準備状態
-├── i18n/                 # 国際化設定
-│   ├── config.ts         # i18n設定
-│   └── provider.tsx      # プロバイダー
-├── lib/                  # ユーティリティライブラリ
-│   └── utils.ts          # 共通ユーティリティ
-├── styles/               # グローバルスタイル
-│   └── globals.css       # Tailwind設定
-├── constants/            # 定数定義
-├── config/               # プロジェクト設定
-├── store/                # 状態管理
-├── types/                # TypeScript型定義
-└── utils/                # 純粋関数・ヘルパー
+│   ├── api/               # API routes
+│   ├── ui/                # Font settings
+│   ├── layout.tsx         # Root layout
+│   ├── page.tsx          # Home page
+│   ├── error.tsx         # Error page
+│   └── not-found.tsx     # 404 page
+├── _components/           # Component collection
+│   ├── common/           # Common components
+│   │   ├── ClientOnly.tsx    # SSR-compatible wrapper
+│   │   └── Loading/          # Loading display
+│   ├── pages/            # Page-specific components
+│   │   └── HomePage/         # Home page related
+│   │       ├── LanguageSwitcher.tsx  # Language switching
+│   │       └── DarkModeToggle.tsx    # Dark mode toggle
+│   └── ui/               # shadcn/ui components
+├── hooks/                # Custom hooks
+│   ├── useDarkMode.ts    # Dark mode state management
+│   └── useI18nReady.ts   # Internationalization ready state
+├── i18n/                 # Internationalization settings
+│   ├── config.ts         # i18n configuration
+│   └── provider.tsx      # Provider
+├── lib/                  # Utility libraries
+│   └── utils.ts          # Common utilities
+├── styles/               # Global styles
+│   └── globals.css       # Tailwind settings
+├── constants/            # Constant definitions
+├── config/               # Project configuration
+├── store/                # State management
+├── types/                # TypeScript type definitions
+└── utils/                # Pure functions & helpers
 ```
 
-**重要: "Place code as close to where it's relevant as possible" の厳格なコロケーションパターンを採用**
+**Important: Adopting strict colocation pattern "Place code as close to where it's relevant as possible"**
 
-## コンポーネントインポートルール
+## Component Import Rules
 
-- **必須**: `index.ts` ファイルを使用した再エクスポート管理
-- **禁止**: コンポーネントの直接インポート
-- **パス**: `@/_components/pages/<page-name>/index.ts` 経由でインポート
-- **例**: `import { Component } from "@/_components/pages/HomePage";`
+- **Required**: Re-export management using `index.ts` files
+- **Prohibited**: Direct component imports
+- **Path**: Import via `@/_components/pages/<page-name>/index.ts`
+- **Example**: `import { Component } from "@/_components/pages/HomePage";`
 
-## 国際化設定 (i18n)
+## Internationalization Settings (i18n)
 
-- **デフォルト言語**: 日本語 (`ja`)
-- **フォールバック言語**: 日本語
-- **翻訳ファイル**: `public/locales/{ja,en}/translation.json`
-- **SSR対応**: 静的インポートを使用して一貫性を保持
-- **言語切り替え**: `src/i18n/config.ts` の `supportedLngs` で管理
+- **Default language**: Japanese (`ja`)
+- **Fallback language**: Japanese
+- **Translation files**: `public/locales/{ja,en}/translation.json`
+- **SSR support**: Using static imports to maintain consistency
+- **Language switching**: Managed by `supportedLngs` in `src/i18n/config.ts`
 
-## ダークモード実装
+## Dark Mode Implementation
 
-- **localStorageとシステム設定のフォールバック**
-- **フラッシュ防止**: layout.tsx内のインラインスクリプトで事前読み込み
-- **状態管理**: useDarkModeカスタムフック経由
+- **localStorage and system settings fallback**
+- **Flash prevention**: Pre-loading with inline script in layout.tsx
+- **State management**: Via useDarkMode custom hook
 - **CSS**: Tailwind CSS Class-based dark mode
 
-## コーディング規約
+## Coding Conventions
 
-### 基本ルール
+### Basic Rules
 
-- **インデント**: 2スペース
-- **クォート**: ダブルクォート (`"`) 必須
-- **セミコロン**: 必須
-- **Trailing Comma**: 必須
-- **コメント**: 複雑なロジックには日本語コメント
-- **JSDoc**: コンポーネント・関数に必須
+- **Indentation**: 2 spaces
+- **Quotes**: Double quotes (`"`) required
+- **Semicolons**: Required
+- **Trailing Comma**: Required
+- **Comments**: Japanese comments for complex logic
+- **JSDoc**: Required for components and functions
 
-### TypeScript規約
+### TypeScript Conventions
 
-- **any型**: 使用禁止
-- **型定義**: 明示的な型指定を優先
-- **interface vs type**: `interface` を `type` より優先
-- **Strict Mode**: 有効、厳格な型チェック
+- **any type**: Prohibited
+- **Type definitions**: Prioritize explicit type specification
+- **interface vs type**: Prioritize `interface` over `type`
+- **Strict Mode**: Enabled, strict type checking
 
-## 設定ファイル
+## Configuration Files
 
-### 主要設定
+### Main Configuration
 
-- `next.config.js` - Next.js設定（CSP、styled-components有効）
-- `components.json` - shadcn/ui設定（New York style、RSC有効）
-- `tsconfig.json` - TypeScript設定（Strict mode）
-- `.eslintrc.json` - ESLint設定
-- `postcss.config.js` - PostCSS設定
+- `next.config.js` - Next.js configuration (CSP, styled-components enabled)
+- `components.json` - shadcn/ui configuration (New York style, RSC enabled)
+- `tsconfig.json` - TypeScript configuration (Strict mode)
+- `.eslintrc.json` - ESLint configuration
+- `postcss.config.js` - PostCSS configuration
 
-### セキュリティ
+### Security
 
-- **CSP（Content Security Policy）**: `next.config.js`で設定
-- **Vercelデプロイメント対応**: 特定の許可設定
-- **安全なスクリプト実行**: インラインスクリプトの適切な管理
+- **CSP (Content Security Policy)**: Configured in `next.config.js`
+- **Vercel deployment support**: Specific permission settings
+- **Safe script execution**: Proper management of inline scripts
 
-## フォント設定
+## Font Settings
 
-- **ラテン文字**: Inter (`font-inter`)
-- **日本語文字**: Noto Sans JP (`font-noto-sans-jp`)
-- **設定場所**: `src/app/ui/fonts.ts`
-- **CSS Variables**: 有効
+- **Latin characters**: Inter (`font-inter`)
+- **Japanese characters**: Noto Sans JP (`font-noto-sans-jp`)
+- **Configuration location**: `src/app/ui/fonts.ts`
+- **CSS Variables**: Enabled
 
-## SSR・ハイドレーション対応
+## SSR & Hydration Support
 
-- **ClientOnlyコンポーネント**: SSRとハイドレーション問題の回避
-- **i18n準備状態**: useI18nReadyフックで管理
-- **ダークモード**: 事前スクリプトでフラッシュ防止
-- **安定したDOM構造**: ハイドレーション不一致の防止
+- **ClientOnly component**: Avoiding SSR and hydration issues
+- **i18n ready state**: Managed by useI18nReady hook
+- **Dark mode**: Flash prevention with pre-script
+- **Stable DOM structure**: Preventing hydration mismatches
 
-## 開発時の注意点
+## Development Notes
 
-- **国際化**: 必ず翻訳キーを使用、ハードコードしない
-- **アクセシビリティ**: aria-label等の適切な設定
-- **パフォーマンス**: 必要に応じてSuspenseとlazy loading
-- **セキュリティ**: 外部リンクには `rel="noopener noreferrer"`
+- **Internationalization**: Always use translation keys, never hardcode
+- **Accessibility**: Proper settings for aria-label etc.
+- **Performance**: Suspense and lazy loading as needed
+- **Security**: Use `rel="noopener noreferrer"` for external links
