@@ -1,6 +1,6 @@
 "use client";
 
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import { useTranslation } from "react-i18next";
 import { DarkModeToggle } from "@/_components/pages/HomePage/DarkModeToggle";
 import LanguageSwitcher from "@/_components/pages/HomePage/LanguageSwitcher";
@@ -15,18 +15,72 @@ export function Header() {
   const isI18nReady = useI18nReady();
   const [showQR, setShowQR] = useState(false);
   const [searchQuery, setSearchQuery] = useState("");
+  const [scrollOpacity, setScrollOpacity] = useState(1);
+
+  // スクロール位置を監視して透明度を連続的に制御
+  useEffect(() => {
+    const handleScroll = () => {
+      const scrollY = window.scrollY;
+      const startFade = 250; // フェード開始位置
+      const endFade = 350; // フェード完了位置
+
+      if (scrollY <= startFade) {
+        setScrollOpacity(1); // 完全に表示
+      } else if (scrollY >= endFade) {
+        setScrollOpacity(0); // 完全に非表示
+      } else {
+        // 段階的に透明度を変更
+        const progress = (scrollY - startFade) / (endFade - startFade);
+        setScrollOpacity(1 - progress);
+      }
+    };
+
+    // 初期値の設定
+    handleScroll();
+
+    // スクロールイベントの監視
+    let ticking = false;
+    const throttledHandleScroll = () => {
+      if (!ticking) {
+        requestAnimationFrame(() => {
+          handleScroll();
+          ticking = false;
+        });
+        ticking = true;
+      }
+    };
+
+    window.addEventListener("scroll", throttledHandleScroll, { passive: true });
+
+    // クリーンアップ
+    return () => {
+      window.removeEventListener("scroll", throttledHandleScroll);
+    };
+  }, []);
 
   return (
-    <header className="sticky top-0 z-50 w-full bg-[#1C1C1C] text-white">
+    <header className="sticky top-0 z-50 w-full bg-[#1C1C1C] px-2 text-white">
       <div className="mx-auto max-w-7xl">
         <div className="flex h-16 items-center justify-between">
           {/* ロゴ */}
-          <div className="flex items-center">
-            <h1 className="text-xl font-bold">
-              {/* {isI18nReady ? t("mainPage.title", "OJ") : "OJ"} */}
+          <h1 className="flex items-center">
+            <div className="flex items-center gap-3">
+              {/* OJロゴ - 常に表示 */}
               <img src="OJ.svg" alt="OJ" className="h-8 w-8" />
-            </h1>
-          </div>
+              {/* OSINTJAPANテキスト - スクロールに応じて透明度変更 */}
+              <p
+                className="text-xl font-bold whitespace-nowrap transition-all duration-300 ease-out"
+                style={{
+                  opacity: scrollOpacity,
+                  transform: `translateX(${(1 - scrollOpacity) * 20}px)`,
+                  width: scrollOpacity < 0.1 ? "0px" : "auto",
+                  overflow: scrollOpacity < 0.1 ? "hidden" : "visible",
+                }}
+              >
+                OSINT JAPAN
+              </p>
+            </div>
+          </h1>
 
           {/* 中央の検索バー */}
           {/* <div className="mx-8 hidden max-w-lg flex-1 md:block">

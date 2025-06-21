@@ -23,10 +23,10 @@ export default function Home() {
   // ただし、i18nが準備できていない場合はフォールバックを表示
 
   return (
-    <div className="min-h-screen bg-[#1C1C1C] px-2 text-white">
+    <div className="min-h-screen bg-[#1C1C1C] text-white">
       <Header />
 
-      <main className="relative">
+      <main className="relative px-2">
         {/* ヒーローセクション */}
         <section className="pt-20 pb-16">
           <div className="mx-auto max-w-7xl">
