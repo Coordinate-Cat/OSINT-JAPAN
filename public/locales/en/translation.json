@@ -59,8 +59,9 @@
     "searchPlaceholder": "Search OSINT tools..."
   },
   "home": {
-    "subtitle": "- this is a numerous collection of various OSINT tools",
-    "description": "A comprehensive collection of OSINT tools and resources for investigation and research purposes."
+    "subtitle": "This is a numerous collection of OSINT tools",
+    "description1": "A guide to osint research, including osint information and tools about japan.",
+    "description2": "Approaches to non-japanese speaking countries."
   },
   "footer": {
     "about": "About OSINT Japan",

@@ -59,8 +59,9 @@
     "searchPlaceholder": "OSINTツールを検索..."
   },
   "home": {
-    "subtitle": "- 様々なOSINTツールの膨大なコレクション",
-    "description": "調査と研究目的のためのOSINTツールとリソースの包括的なコレクション。"
+    "subtitle": "OSINTツールの膨大なコレクション",
+    "description1": "日本に関する OSINT 情報とツールを含む OSINT 研究ガイド。日本語圏以外の国へのアプローチ。",
+    "description2": "日本語圏以外の国へのアプローチ。"
   },
   "footer": {
     "about": "OSINT Japanについて",

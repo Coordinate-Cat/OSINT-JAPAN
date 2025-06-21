@@ -31,23 +31,28 @@ export default function Home() {
         <section className="pt-20 pb-16">
           <div className="mx-auto max-w-7xl">
             <div className="mb-8 flex flex-col justify-center text-center">
-              <div className="flex items-center text-white sm:text-6xl">
+              <div className="flex flex-col items-center text-white sm:text-6xl">
                 <img src="OJ.svg" alt="OJ" className="h-16 w-16" />
                 <p className="ml-2 text-4xl text-gray-300">
                   {t(
                     "home.subtitle",
-                    "- this is a numerous collection of various OSINT tools",
+                    "This is a numerous collection of various OSINT tools",
+                  )}
+                </p>
+                <p className="mt-2 text-lg text-gray-400">
+                  {t(
+                    "home.description1",
+                    "A guide to osint research, including osint information and tools about japan.",
+                  )}
+                </p>
+                <p className="mb-8 text-lg text-gray-400">
+                  {t(
+                    "home.description2",
+                    "Approaches to non-japanese speaking countries.",
                   )}
                 </p>
               </div>
             </div>
-
-            <p className="mb-8 text-lg text-gray-300">
-              {t(
-                "home.description",
-                "Electronic scientific library of open access OSINT tools. The site catalog is regularly overgrown with tools of articles from various scientific publications. Grouped by journals and headings.",
-              )}
-            </p>
           </div>
         </section>
 
